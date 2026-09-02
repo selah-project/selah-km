@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "ហាតសូរ-ហាដាតា និងគីរីយ៉ូត ហេតស្រូន (គឺហាតសូរ)",
+  "tokens": [
+    {
+      "surface": "וחצור",
+      "gloss": "ហាតសូរ"
+    },
+    {
+      "surface": "חדתה",
+      "gloss": "ហាដាតា"
+    },
+    {
+      "surface": "וקריות",
+      "gloss": "និងគីរីយ៉ូត"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ហេតស្រូន"
+    },
+    {
+      "surface": "היא",
+      "gloss": "គឺ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ហាតសូរ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:31.504653962Z",
+  "model": "glm-5.3"
+}

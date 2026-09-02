@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ចានតូចមាសមួយ ទម្ងន់ដប់សិកល បំពេញដោយគ្រឿងក្រអូប។",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ចានតូច"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "មាស"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "បំពេញ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "គ្រឿងក្រអូប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:30:21.594593569Z",
+  "model": "glm-5.3"
+}

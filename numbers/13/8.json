@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "សម្រាប់កុលសម្ព័ន្ធអេហ្វ្រាយីម ហូស្ហេអា កូនប្រុសនូន។",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "សម្រាប់កុលសម្ព័ន្ធ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "អេហ្វ្រាយីម"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ហូស្ហេអា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "נון",
+      "gloss": "នូន"
+    }
+  ],
+  "timestamp": "2026-09-02T03:35:40.363248948Z",
+  "model": "glm-5.3"
+}

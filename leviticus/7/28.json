@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ហើយយ៉ាវេបានមានប្រសាសន៍ទៅម៉ូស្ហេ ថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយ...បានមានប្រសាសន៍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:06:08.069703407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ដ្បិតអាដូណាយនឹងមិនបោះបង់ចោលទៅនៅរៀងរហូតឡើយ។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "នឹងបោះបង់ចោល"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ទៅនៅរៀងរហូត"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "អាដូណាយ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:00.293549586Z",
+  "model": "glm-5.3"
+}

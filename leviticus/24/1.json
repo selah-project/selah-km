@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "យ៉ាវេបានត្រាស់ដល់ម៉ូស្ហេ ថា។",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានត្រាស់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:22:09.166564181Z",
+  "model": "glm-5.3"
+}

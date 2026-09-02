@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ហើយទូតនៃយ៉ាវេបានធ្វើសាក្សីចំពោះយេហូស្ហួ ដោយថា⟨ថា⟩",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "ហើយបានធ្វើសាក្សី"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ទូត"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "ចំពោះយេហូស្ហួ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T13:14:05.277599004Z",
+  "model": "glm-5.3"
+}

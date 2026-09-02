@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ហើយយេហូស្ហួកូននៃនូន អ្នកបម្រើនៃយ៉ាវេ បានស្លាប់ អាយុមួយរយដប់ឆ្នាំ។",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ហើយ...បានស្លាប់"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "យេហូស្ហួ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូននៃ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "នូន"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "អ្នកបម្រើនៃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "អាយុ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ឆ្នាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:33:09.202266429Z",
+  "model": "glm-5.3"
+}

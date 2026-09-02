@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃយេរីខូ បីរយសែសិបប្រាំ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "យេរីខូ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "សែសិប"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:53.235485231Z",
+  "model": "glm-5.3"
+}

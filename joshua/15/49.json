@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "និង​ដាណា និង​កិរ្យាតសាណា ⟨នោះ​ជា⟩ ដេប៊ិរ។",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "និង​ដាណា"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "និង​កិរ្យាត"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "សាណា"
+    },
+    {
+      "surface": "היא",
+      "gloss": "នោះ​ជា"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ដេប៊ិរ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:13.986023440Z",
+  "model": "glm-5.3"
+}

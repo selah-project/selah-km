@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅកេរ៉ូស កូនចៅស៊ីអ៉ាហ៉ា កូនចៅប៉ាដូន។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "កេរ៉ូស"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "សיעהא",
+      "gloss": "ស៊ីអ៉ាហ៉ា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "ប៉ាដូន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:12:30.872671177Z",
+  "model": "glm-5.3"
+}

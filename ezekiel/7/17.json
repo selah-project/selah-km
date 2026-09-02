@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "គ្រប់ដៃទាំងអស់នឹងធូររលុប ហើយគ្រប់ជង្គងទាំងអស់នឹងទៅជាទឹក។",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "គ្រប់"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "ដៃទាំងអស់"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ធូររលុប"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ហើយគ្រប់"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ជង្គង"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "នឹងទៅជា"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ទឹក"
+    }
+  ],
+  "timestamp": "2026-09-02T07:20:45.841835607Z",
+  "model": "glm-5.3"
+}

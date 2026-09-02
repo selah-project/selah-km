@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "ពាក្យរបស់យ៉ាវេបានមកដល់ខ្ញុំម្តងទៀត ហើយថា៖",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយ⟨កើតឡើង⟩ ពាក្យបានមកដល់"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ដល់ខ្ញុំ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ម្តងទៀត"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ហើយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:49:06.975526920Z",
+  "model": "glm-5.3"
+}

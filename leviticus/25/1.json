@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "ហើយយ៉ាវេទ្រង់បានមានព្រះបន្ទូលទៅម៉ូស្ហេ នៅលើភ្នំស៊ីន៉ៃ ថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយទ្រង់បានមានព្រះបន្ទូល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "នៅលើភ្នំ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ស៊ីន៉ៃ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:22:52.311411187Z",
+  "model": "glm-5.3"
+}

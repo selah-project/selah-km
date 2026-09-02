@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "និង ⟨את⟩ អាដូរ៉ាយិម និង ⟨את⟩ ឡាខីស្ហ និង ⟨את⟩ អាហ្សេកា",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អាដូរ៉ាយិម"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "អាដូរ៉ាយិម"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ឡាខីស្ហ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ឡាខីស្ហ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អាហ្សេកា"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "អាហ្សេកា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:49:18.824652723Z",
+  "model": "glm-5.3"
+}

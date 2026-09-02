@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "អាម៉ាម ស្ហេម៉ា និងម៉ូឡាដា",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "អាម៉ាម"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ស្ហេម៉ា"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "និងម៉ូឡាដា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:31.504944027Z",
+  "model": "glm-5.3"
+}

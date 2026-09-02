@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ហើយហ៊ូរបានប្រសូត ⟨את⟩ អ៊ូរី ហើយអ៊ូរីបានប្រសូត ⟨את⟩ បេតសល់អែល។",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ហើយហ៊ូរ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "បានប្រសូត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អ៊ូរី"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "អ៊ូរី"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ហើយអ៊ូរី"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "បានប្រសូត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "បេតសល់អែល"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "បេតសល់អែល"
+    }
+  ],
+  "timestamp": "2026-09-02T10:29:05.110349514Z",
+  "model": "glm-5.3"
+}

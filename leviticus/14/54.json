@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "នេះជាច្បាប់ សម្រាប់ការរោគរាល់យ៉ាងនៃស្រេអ៉ត់ និងសម្រាប់ណាតែក។",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ច្បាប់"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "សម្រាប់រាល់"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ការរោគ"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ស្រេអ៉ត់"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "និងសម្រាប់ណាតែក"
+    }
+  ],
+  "timestamp": "2026-09-02T03:12:02.233751091Z",
+  "model": "glm-5.3"
+}

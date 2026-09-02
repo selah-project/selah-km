@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ហើយកូនចៅរបស់អាហារ៉ូន បព្វជិត នឹងដាក់ភ្លើងលើអាសនៈបល្ល័ង្ក ហើយរៀបចុះអុសលើភ្លើង។",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "នឹងដាក់"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "អាហារ៉ូន"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "បព្វជិត"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ភ្លើង"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "អាសនៈបល្ល័ង្ក"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "នឹងរៀបចុះ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "អុស"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ភ្លើង"
+    }
+  ],
+  "timestamp": "2026-09-02T03:02:58.799278060Z",
+  "model": "glm-5.3"
+}

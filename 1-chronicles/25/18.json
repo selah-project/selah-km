@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "ទីដប់មួយ អ៉ាសារ៉ែល កូនៗរបស់គាត់ និងបងប្អូនរបស់គាត់ គឺដប់ពីរ។",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "មួយ-(លើ)ដប់"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "អ៉ាសារ៉ែល"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "កូនៗរបស់គាត់"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "និងបងប្អូនរបស់គាត់"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ពីរ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:41:15.022838518Z",
+  "model": "glm-5.3"
+}

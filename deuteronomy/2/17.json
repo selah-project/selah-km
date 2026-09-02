@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ហើយយ៉ាវេបានពិសារទៅកាន់ខ្ញុំ ដោយពោលថា ៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបានពិសារ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ទៅកាន់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:56:45.647985117Z",
+  "model": "glm-5.3"
+}

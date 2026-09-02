@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "និងក្របីស្រទាប់រាប់ពាន់ សាមសិប និង ប្រាំរយ។",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "និងក្របីស្រទាប់រាប់ពាន់"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "សាមសិប"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ពាន់"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "និងប្រាំ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:51:34.441148018Z",
+  "model": "glm-5.3"
+}

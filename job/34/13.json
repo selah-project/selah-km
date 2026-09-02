@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "km",
+  "chapter": 34,
+  "translation": "នរណាបានតែងតាំងលើផែនដី? ហើយនរណាបានដាក់ពិភពលោកទាំងមូល?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "នរណា"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "បានតែងតាំង"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ផែនដី"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ហើយនរណា"
+    },
+    {
+      "surface": "שם",
+      "gloss": "បានដាក់"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ពិភពលោក"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ទាំងមូល"
+    }
+  ],
+  "timestamp": "2026-09-02T09:39:24.019597352Z",
+  "model": "glm-5.3"
+}

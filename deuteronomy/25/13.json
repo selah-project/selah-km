@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "មិនមានដល់អ្នកនៅក្នុងថង់របស់អ្នក ថ្មមួយនិងថ្មមួយ ធំនិងតូចទេ។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ដល់អ្នក"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "នៅក្នុងថង់របស់អ្នក"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ថ្មមួយ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "និងថ្មមួយ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ធំ"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "និងតូច"
+    }
+  ],
+  "timestamp": "2026-09-02T04:10:42.131601566Z",
+  "model": "glm-5.3"
+}

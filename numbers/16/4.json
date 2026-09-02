@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 16,
+  "translation": "ហើយម៉ូស្ហេបានឮ ហើយគាត់ធ្លាក់មុខចុះស្របតាមផ្ទៃមុខរបស់គាត់",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "បានឮ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ហើយធ្លាក់"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ផ្ទៃមុខរបស់គាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T03:40:11.172769364Z",
+  "model": "glm-5.3"
+}

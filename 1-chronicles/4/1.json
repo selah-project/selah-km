@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "កូនចៅរបស់យ៉ូដាគឺ ផារែតស្ហ ហ្សេតស្រូន ខាមី ហ៊ូរ និងស្ហូបាល។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "យ៉ូដា"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ផារែតស្ហ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ហ្សេតស្រូន"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ខាមី"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ហ៊ូរ"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "និងស្ហូបាល"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:32.144344807Z",
+  "model": "glm-5.3"
+}

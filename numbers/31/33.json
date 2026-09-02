@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "ហើយចំណែកចៀម គឺពីរម៉ឺន និងប្រាំពីរពាន់។",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ហើយចំណែកគោ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ពីរ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "និងប្រាំពីរ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ម៉ឺន"
+    }
+  ],
+  "timestamp": "2026-09-02T03:51:53.869729688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "និងស្ហក្អាត និង ⟨את⟩ ស្ហរ៉ាហាម៉ា និង ⟨את⟩ ស្ហាឡាខ។",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "និងស្ហក្អាត"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ស្ហរ៉ាហាម៉ា"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ស្ហរ៉ាហាម៉ា"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ស្ហាឡាខ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ស្ហាឡាខ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:04:45.038651609Z",
+  "model": "glm-5.3"
+}

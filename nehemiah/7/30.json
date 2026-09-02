@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពួកអ្នក⟨នៃ⟩រ៉ាម៉ា និងហ្គាប៊ីអា ប្រាំមួយរយម្ភៃប្រាំមួយ... ",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ពួកអ្នក"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "រ៉ាម៉ា"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "និងហ្គាប៊ីអា"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ប្រាំមួយ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ម្ភៃ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "និងមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:11.761594465Z",
+  "model": "glm-5.3"
+}

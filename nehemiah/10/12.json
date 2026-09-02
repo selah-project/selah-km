@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "មិកា រិហោប ហាហ្ហាប៊ាវយ៉ាះ។",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "មិកា"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "រិហោប"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ហាហ្ហាប៊ាវយ៉ាះ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:56:17.761337773Z",
+  "model": "glm-5.3"
+}

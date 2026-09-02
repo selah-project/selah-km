@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ដល់ណាហ្វតាលី អាហ្គីរ៉ា បុត្រនៃអេយណាន។",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "ដល់ណាហ្វតាលី"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "អាហ្គីរ៉ា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "អេយណាន"
+    }
+  ],
+  "timestamp": "2026-09-02T03:25:10.535331771Z",
+  "model": "glm-5.3"
+}

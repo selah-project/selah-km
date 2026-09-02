@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ហើយទឹកទាំងឡាយបានមានអំណាចលើផែនដី ចំនួន្មសិបប្រាំនិងមួយរយថ្ងៃ។",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "បានមានអំណាចលើ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ទឹកទាំងឡាយ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ផែនដី"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហុសសិប"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "និងមួយរយ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:56:05.347989846Z",
+  "model": "glm-5.3"
+}

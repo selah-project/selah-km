@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ហើយថ្ងៃរះ ហើយថ្ងៃលិច ហើយវាញាប់ញ័រទៅកាន់ទីកន្លែងរបស់វា ដែលវារះនៅទីនោះ។",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ហើយរះ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ហើយលិច"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ហើយទៅកាន់"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ទីកន្លែងរបស់វា"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ញាប់ញ័រ"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "រះ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វា"
+    },
+    {
+      "surface": "שם",
+      "gloss": "នៅទីនោះ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:53:37.742045898Z",
+  "model": "glm-5.3"
+}

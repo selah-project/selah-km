@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ពាក្យរបស់ កូហេឡេត បុត្រនៃ ដាវីឌ ស្ដេចនៅ យេរូស្ហាឡាយិម។",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ពាក្យរបស់"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "កូហេឡេត"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ដាវីឌ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្ដេច"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "នៅ យេរូស្ហាឡាយិម"
+    }
+  ],
+  "timestamp": "2026-09-02T09:53:03.948715755Z",
+  "model": "glm-5.3"
+}

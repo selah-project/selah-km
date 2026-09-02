@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ហើយអ្នកកុំលួច។",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ហើងកុំ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "លួច"
+    }
+  ],
+  "timestamp": "2026-09-02T03:58:36.285983902Z",
+  "model": "glm-5.3"
+}

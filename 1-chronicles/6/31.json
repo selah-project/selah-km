@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "កូនអាម់តស៊ី កូនបានី កូនស្ហេមេរ។",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "អាម់តស៊ី"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "בני",
+      "gloss": "បានី"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ស្ហេមេរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:12.541611989Z",
+  "model": "glm-5.3"
+}

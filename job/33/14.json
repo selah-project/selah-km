@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 33:14",
+  "book": "job",
+  "lang": "km",
+  "chapter": 33,
+  "translation": "ព្រោះអែលនិយាយម្តង ហើយនិយាយពីរដង តែមនុស្សមិនយល់ឃើញឡើយ។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "ម្តង"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "អែល"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ហើយពីរដង"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "យល់ឃើញ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:38:30.334496916Z",
+  "model": "glm-5.3"
+}

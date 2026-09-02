@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 36,
+  "translation": "ហើយអេសាវបានតាំងទីលំនៅនៅភ្នំស៉ីអ៊ីរ ។ អេសាវ គាត់គឺ⟨ជា⟩ អ៉ែដូម។",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ហើយបានតាំងទីលំនៅ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "អេសាវ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "នៅភ្នំ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ស៉ីអ៊ីរ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "អេសាវ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "គាត់គឺ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "អ៉ែដូម"
+    }
+  ],
+  "timestamp": "2026-09-02T02:17:05.238432992Z",
+  "model": "glm-5.3"
+}

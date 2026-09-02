@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "អ្នកមិនត្រូវរាំមាត់គោក្នុងការដាលស្រូវរបស់វាឡើយ។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "មិនត្រូវ"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "រាំមាត់"
+    },
+    {
+      "surface": "שור",
+      "gloss": "គោ"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ក្នុងការដាលស្រូវរបស់វា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:11:27.278254796Z",
+  "model": "glm-5.3"
+}

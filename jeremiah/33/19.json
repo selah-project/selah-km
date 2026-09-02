@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 33:19",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 33,
+  "translation": "ហើយពាក្យរបស់យ៉ាវេបានមកដល់យេរេម្យ៉ាហូ ដោយពោលថា —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយបានកើតមាន"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "យេរេម្យ៉ាហូ"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:02:06.452949780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 51,
+  "translation": "ដល់អ្នកដឹកនាំ⟨ភ្លេង⟩ មជ្ឈមារធានរបស់ដាវីឌ។",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ដល់អ្នកដឹកនាំ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "មជ្ឈមារធាន"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "របស់ដាវីឌ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:36:24.642903599Z",
+  "model": "glm-5.3"
+}

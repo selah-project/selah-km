@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "យ៉ាវេបានមានប្រសាសន៍ទៅម៉ូស្ហេ និងទៅអាហារោន ថា)",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានមានប្រសាសន៍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "និងទៅ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "អាហារោន"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:26:37.094590586Z",
+  "model": "glm-5.3"
+}

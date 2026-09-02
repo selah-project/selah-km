@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ព្រះរបស់ ម៉ាក់លី គឺ អេលអាហ្សារ ហើយគាត់មិនមានបុត្រាទេ។",
+  "tokens": [
+    {
+      "surface": "ל מחלי",
+      "gloss": "ព្រះរបស់ ម៉ាក់លី"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "អេលអាហ្សារ"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ហើយ​មិន"
+    },
+    {
+      "surface": "היה",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ដល់គាត់"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "បុត្រ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:40:58.172228282Z",
+  "model": "glm-5.3"
+}

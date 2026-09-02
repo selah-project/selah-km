@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 106,
+  "translation": "ការអស្ចារ្យ នៅស្រុកខាម ការភ័យខ្លាច លើសមុទ្រស៊ុហ្វ។",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "ការអស្ចារ្យ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "នៅស្រុក"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ខាម"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ការភ័យខ្លាច"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "សមុទ្រ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ស៊ុហ្វ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:55:31.659048259Z",
+  "model": "glm-5.3"
+}

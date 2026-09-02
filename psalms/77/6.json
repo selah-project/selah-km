@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 77,
+  "translation": "ខ្ញុំបានគិតរឿកនូវថ្ងៃពីដើម ឆ្នាំនៃអស់កល្ប។",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ខ្ញុំបានគិតរឿក"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ពីដើម"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "នៃអស់កល្ប"
+    }
+  ],
+  "timestamp": "2026-09-02T08:44:08.971945491Z",
+  "model": "glm-5.3"
+}

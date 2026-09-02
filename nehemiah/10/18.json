@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "អាទេរ ខីស្គីយ៉ា អាហ្ស៊ួរ",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "អាទេរ"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ខីស្គីយ៉ា"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "អាហ្ស៊ួរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:58.484087915Z",
+  "model": "glm-5.3"
+}

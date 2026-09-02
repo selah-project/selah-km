@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "រួចខ្ញុំបានមកដល់នៅឯយេរូស្ហាឡាយិម ហើយខ្ញុំនៅទីនោះបីថ្ងៃ។",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "រួចខ្ញុំបានមកដល់"
+    },
+    {
+      "surface": "אל",
+      "gloss": "នៅឯ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "យេរូស្ហាឡាយិម"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ហើយខ្ញុំនៅ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ទីនោះ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "បី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:19:59.761777606Z",
+  "model": "glm-5.3"
+}

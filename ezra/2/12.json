@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់អាហ្សកាដ ១២២២ នាក់។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "អាហ្សកាដ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "មួយពាន់"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "២០០"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "២០"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "និង ២"
+    }
+  ],
+  "timestamp": "2026-09-02T10:10:02.038922237Z",
+  "model": "glm-5.3"
+}

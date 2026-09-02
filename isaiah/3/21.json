@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ចិញ្ចៀនតប្រវាទ និងគុញ្ញទ្រនាប់ច្រមុះ។",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "ចិញ្ចៀនតប្រវាទ"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "និងគុញ្ញទ្រនាប់"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ច្រមុះ"
+    }
+  ],
+  "timestamp": "2026-09-02T06:03:23.891495548Z",
+  "model": "glm-5.3"
+}

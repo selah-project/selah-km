@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់បានៃ ៦៤២ នាក់។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "בני",
+      "gloss": "បានៃ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "៦"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "៤០"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "និង ២"
+    }
+  ],
+  "timestamp": "2026-09-02T10:10:02.038704175Z",
+  "model": "glm-5.3"
+}

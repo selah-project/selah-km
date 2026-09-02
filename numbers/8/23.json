@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ហើយយ៉ាវេបានទៅនិយាយទៅកាន់ម៉ូស្ហេ ដើម្បីថ្លែងថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានទៅនិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីថ្លែងថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:34:03.289495705Z",
+  "model": "glm-5.3"
+}

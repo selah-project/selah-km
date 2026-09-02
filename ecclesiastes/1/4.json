@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ជំនាន់មួយចេញទៅ ហើយជំនាន់មួយទៀតមកដល់ តែផែនដីនៅដដែលទៅរាធរណ្ឌ។",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ជំនាន់មួយ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ចេញទៅ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ហើយជំនាន់មួយទៀត"
+    },
+    {
+      "surface": "בא",
+      "gloss": "មកដល់"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "តែផែនដី"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ទៅរាធរណ្ឌ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "នៅដដែល"
+    }
+  ],
+  "timestamp": "2026-09-02T09:53:03.949201891Z",
+  "model": "glm-5.3"
+}

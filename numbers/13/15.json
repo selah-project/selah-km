@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "សម្រាប់កុលសម្ព័ន្ធកាដ គេអ៊ូអែល បុត្រាម៉ាខី។",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "សម្រាប់កុលសម្ព័ន្ធ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "កាដ"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "គេអ៊ូអែល"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រា"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "ម៉ាខី"
+    }
+  ],
+  "timestamp": "2026-09-02T03:36:00.955007835Z",
+  "model": "glm-5.3"
+}

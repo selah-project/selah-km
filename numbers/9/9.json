@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "វយ៉ាវេនិយាយទៅម៉ូស្ហេ ទាំងអស់ទាំងថ្ងៃ ដោយស្រីត្រីករណ៍ ឬ ដោយបុព្វបទណាមួយ ថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:35:21.095663869Z",
+  "model": "glm-5.3"
+}

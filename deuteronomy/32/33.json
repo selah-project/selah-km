@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 32,
+  "translation": "ពិសនៃនាគ គឺ⟨ជា⟩សុរារបស់គេ ហើយជាត់ពិសដ៏សាហាវនៃពស់វែក។",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ពិស"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "នាគ"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "សុរារបស់គេ"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ហើយជាត់ពិស"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "នៃពស់វែក"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "ដ៏សាហាវ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:17:42.719912226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ជនល្ងង់ប្រកបក្បាលដៃទាំងពីររបស់គេ ហើយស៊ីសាច់នៃខ្លួនឯង។",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "ជនល្ងង់"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ប្រកបក្បាល"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ដៃទាំងពីររបស់គេ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ដៃទាំងពីររបស់គេ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ហើយស៊ី"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "សាច់នៃខ្លួនឯង"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "សាច់នៃខ្លួនឯង"
+    }
+  ],
+  "timestamp": "2026-09-02T09:53:42.399097180Z",
+  "model": "glm-5.3"
+}

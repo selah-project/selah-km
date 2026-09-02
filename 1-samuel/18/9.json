@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "km",
+  "chapter": 18,
+  "translation": "ហើយស្ហាអ៊ូលបានងាមើលទៅ ⟨את⟩ ដាវីដ ចាប់ពីថ្ងៃនោះតទៅ។",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយ...បាន"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ស្ហាអ៊ូល"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ងាមើល"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ដាវីដ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ដាវីដ"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ចាប់ពីថ្ងៃ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "នោះ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "តទៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:58:10.036063770Z",
+  "model": "glm-5.3"
+}

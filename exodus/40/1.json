@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 40,
+  "translation": "យ៉ាវេបានមានប្រសាសន៍ទៅម៉ូស្ហេ ឱ្យទៅថ្លែងថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានមានប្រសាសន៍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ឱ្យទៅថ្លែងថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:02:46.547932854Z",
+  "model": "glm-5.3"
+}

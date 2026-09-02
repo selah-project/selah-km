@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ភាពរន្ធត់ និងភាពស្អប់ស្អប់ បានកើតឡើងក្នុងផែនដី។",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ភាពរន្ធត់"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "និងភាពស្អប់ស្អប់"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "បានកើតឡើង"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ក្នុងផែនដី"
+    }
+  ],
+  "timestamp": "2026-09-02T06:41:24.167626345Z",
+  "model": "glm-5.3"
+}

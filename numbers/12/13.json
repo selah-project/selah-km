@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ម៉ូស្ហេបានស្រែកហៅទៅយ៉ាវេ ថ្លែងថា អែល សូមធ្វើឡើង សូមព្យាបាលនាង⟨ទៅ⟩។",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "បានស្រែកហៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថ្លែងថា"
+    },
+    {
+      "surface": "אל",
+      "gloss": "អែល"
+    },
+    {
+      "surface": "נא",
+      "gloss": "សូមធ្វើឡើង"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "សូមព្យាបាល"
+    },
+    {
+      "surface": "נא",
+      "gloss": "សូម"
+    },
+    {
+      "surface": "לה",
+      "gloss": "នាង"
+    }
+  ],
+  "timestamp": "2026-09-02T12:35:36.256186248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 72,
+  "translation": "បញ្ចប់ហើយនូវទូន្មានទាំងឡាយរបស់ ដាវីឌ កូនរបស់ យិស្ហាយ។",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "បញ្ចប់ហើយ"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ទូន្មានទាំងឡាយ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ដាវីឌ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនរបស់"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "យិស្ហាយ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:42:00.234654699Z",
+  "model": "glm-5.3"
+}

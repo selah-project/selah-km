@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "គាត់បានសាងសង់ ⟨את⟩ បេត-ឡេខេម និង ⟨את⟩ អេតាម និង ⟨את⟩ តេកូអា។",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "បានសាងសង់"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "បេត-ឡេខេម"
+    },
+    {
+      "surface": "בית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ឡេខេម"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អេតាម"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "អេតាម"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "តេកូអា"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "តេកូអា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:49:04.078738935Z",
+  "model": "glm-5.3"
+}

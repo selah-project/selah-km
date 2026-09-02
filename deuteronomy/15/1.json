@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "នៅពេលបញ្ចប់នៃប្រាំពីរឆ្នាំ អ្នកធ្វើ ស្ហមីតតា។",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "នៅពេលបញ្ចប់នៃ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ប្រាំពីរ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "អ្នកធ្វើ"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "ស្ហមីតតា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:07:22.306004706Z",
+  "model": "glm-5.3"
+}

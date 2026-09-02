@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់អេឡាម ចំនួនមួយពាន់ ពីររយ ហុកសិបនិងបួន។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "អេឡាម"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "មួយពាន់"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ពីររយ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហុកសិប"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "និងបួន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:44.671555495Z",
+  "model": "glm-5.3"
+}

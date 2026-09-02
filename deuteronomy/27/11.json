@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "ហើយម៉ូស្ហេបានបញ្ជា ⟨את⟩ រាស្ត្រ នៅថ្ងៃនោះ ថា៖",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ហើយបានបញ្ជា"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "រាស្ត្រ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "រាស្ត្រ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "នៅថ្ងៃ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "នោះ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:11:09.955015963Z",
+  "model": "glm-5.3"
+}

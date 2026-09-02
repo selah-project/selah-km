@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "ទើបដើមឈើទាំងអស់និយាយទៅកាន់គុម្ពធូល្យថា អ្នកចូរមក សោយរាជ្យលើយើង។",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ដើមឈើ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "គុម្ពធូល្យ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ចូរមក"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "សោយរាជ្យ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "លើយើង"
+    }
+  ],
+  "timestamp": "2026-09-02T04:38:42.379870102Z",
+  "model": "glm-5.3"
+}

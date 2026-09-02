@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "បប់គេថើប ដល់អ្នកដែលឆ្លើយតបនូវពាក្យត្រង់។",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "បប់"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "គេថើប"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "អ្នកដែលឆ្លើយតប"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ត្រង់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:19:08.599709918Z",
+  "model": "glm-5.3"
+}

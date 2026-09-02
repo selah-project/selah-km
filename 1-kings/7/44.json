@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "និង ⟨את⟩ សមុទ្រមួយ និង ⟨את⟩ គោទាំងដប់ពីរក្រោមសមុទ្រនោះ។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "សមុទ្រ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "សមុទ្រ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "គោ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "គោ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ពីរ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ក្រោម"
+    },
+    {
+      "surface": "הים",
+      "gloss": "សមុទ្រនោះ"
+    }
+  ],
+  "timestamp": "2026-09-02T05:25:43.337285619Z",
+  "model": "glm-5.3"
+}

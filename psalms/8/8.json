@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ចៀម និងគោទាំងអស់ ហើយបន្ថែមទៀត សត្វពាហនៈនៃស្រែ។",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ចៀម"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "និងគោ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ហើយបន្ថែមទៀត"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "សត្វពាហនៈ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "នៃស្រែ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:38:26.323395819Z",
+  "model": "glm-5.3"
+}

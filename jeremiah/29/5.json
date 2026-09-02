@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 29,
+  "translation": "សង់ផ្ទះ ហើយតាំងទីលំនៅ; ដាំសួនចម្រុះផ្លែ ហើយស៊ី ⟨את⟩ ផ្លែរបស់វា។",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "សង់"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ផ្ទះ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ហើយតាំងទីលំនៅ"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ហើយដាំ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "សួន"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ហើយស៊ី"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ផ្លែរបស់វា"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ផ្លែរបស់វា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:58:44.146095899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "អាហ៊ីនាដាប កូនប្រុសអ៊ីដោ — ម៉ាកាណីម។",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "អាហ៊ីនាដាប"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "អ៊ីដោ"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "ម៉ាកាណីម"
+    }
+  ],
+  "timestamp": "2026-09-02T05:23:21.509453621Z",
+  "model": "glm-5.3"
+}

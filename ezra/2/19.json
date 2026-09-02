@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃហាស្ហ៊ូម ពីររយម្ភៃបី។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ហាស្ហ៊ូម"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ពីររយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ម្ភៃ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "បី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:10:14.181144491Z",
+  "model": "glm-5.3"
+}

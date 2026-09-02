@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "វ៉ាវេនិយាយទៅម៉ូស្ហេដោយនិយាយថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:06:49.092754933Z",
+  "model": "glm-5.3"
+}

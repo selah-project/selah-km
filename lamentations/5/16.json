@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ស្នេហ៍មកុដរបស់ក្បាលយើងបានធ្លាក់ចុះ អ៉ូយ! សូមឱ្យដល់យើង ព្រោះយើងបានធ្វើបាប។",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "បានធ្លាក់ចុះ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ស្នេហ៍មកុដ"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "ក្បាលយើង"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "អ៉ូយ!"
+    },
+    {
+      "surface": "נא",
+      "gloss": "សូមឱ្យ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ដល់យើង"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "យើងបានធ្វើបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:01.353958782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ហើយណូអះមានអាយុ ប្រាំរយឆ្នាំ ហើយណូអះបានកើត ⟨את⟩ ស្ហេម ⟨את⟩ ហាម និង⟨את⟩ យ៉ាហ្វេត។",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយគឺ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ណូអះ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុសអាយុ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ប្រាំ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ហើយបានកើត"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ណូអះ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ស្ហេម"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ស្ហេម"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ហាម"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ហាម"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង⟨את⟩",
+      "marks": "យ៉ាហ្វេត"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "យ៉ាហ្វេត"
+    }
+  ],
+  "timestamp": "2026-09-02T01:54:42.315763572Z",
+  "model": "glm-5.3"
+}

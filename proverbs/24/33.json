@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "បន្តិចៗ គេង, បន្តិចៗ ងងុយគេង, បន្តិចៗ បត់ដៃទាំងពីរ ដើម្បីដេកផ្អៀរ",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "បន្តិចៗ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "គេង"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "បន្តិចៗ"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ងងុយគេង"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "បន្តិចៗ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "បត់"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ដៃទាំងពីរ"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ដើម្បីដេកផ្អៀរ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:17:57.479132836Z",
+  "model": "glm-5.3"
+}

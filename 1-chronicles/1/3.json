@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 1:3",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ហាណូខ មេទូស្ហេលាខ ឡេមេខ។",
+  "tokens": [
+    {
+      "surface": "חנוך",
+      "gloss": "ហាណូខ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "មេទូស្ហេលាខ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ឡេមេខ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:03.492133122Z",
+  "model": "glm-5.3"
+}

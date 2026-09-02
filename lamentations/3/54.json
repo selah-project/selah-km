@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ទឹកបានលើចូលគ្របក្បាលខ្ញុំ ខ្ញុំនិយាយថា ខ្ញុំត្រូវបានកាត់ចេញ។",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "បានលើចូលគ្រប"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ទឹក"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ក្បាលខ្ញុំ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ខ្ញុំនិយាយថា"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "ខ្ញុំត្រូវបានកាត់ចេញ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:19.061186350Z",
+  "model": "glm-5.3"
+}

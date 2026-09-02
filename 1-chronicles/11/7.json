@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ដាវីដបានគង់នៅក្នុងបន្ទាយមាំទេប ដោយហេតុនេះ គេបានហៅវាថា ទីក្រុងដាវីដ។",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "បានគង់នៅ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ដាវីដ"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "ក្នុងបន្ទាយមាំទេប"
+    },
+    {
+      "surface": "על",
+      "gloss": "ដោយហេតុ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "គេបានហៅ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "វា"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ទីក្រុង"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ដាវីដ"
+    }
+  ],
+  "timestamp": "2026-09-02T14:00:50.816319780Z",
+  "model": "glm-5.3"
+}

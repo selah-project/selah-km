@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ហើយអាភីស្ហួអបានបង្កើត ⟨את⟩ ប៊ុកគី ហើយប៊ុកគីបានបង្កើត ⟨את⟩ អ៊ូស៊ី។",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ហើយអាភីស្ហួអ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ប៊ុកគី"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ប៊ុកគី"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ហើយប៊ុកគី"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អ៊ូស៊ី"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "អ៊ូស៊ី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:05.504757399Z",
+  "model": "glm-5.3"
+}

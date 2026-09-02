@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "យ៉ាវេបានមានប្រសាសន៍ទៅកាន់ម៉ូស្ហេ ថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានមានប្រសាសន៍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:18:11.408591383Z",
+  "model": "glm-5.3"
+}

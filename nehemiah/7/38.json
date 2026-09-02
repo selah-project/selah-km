@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅរបស់សឹនាអះ បីពាន់ ប្រាំបួនរយ និងសាមសិប។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "សឹនាអះ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "បី"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពាន់"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ប្រាំបួន"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "និងសាមសិប"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:15.341295990Z",
+  "model": "glm-5.3"
+}

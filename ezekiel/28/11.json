@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "ហើយពាក្យរបស់យ៉ាវេបានមកដល់ខ្ញុំ ដោយពោលថា",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយ…បានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:35:27.391527740Z",
+  "model": "glm-5.3"
+}

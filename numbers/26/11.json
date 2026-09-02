@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 26,
+  "translation": "ហើយកូនប្រុសទាំងឡាយរបស់គោរ៉ាហ មិនបានស្លាប់ទេ។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ហើយកូនប្រុសទាំងឡាយរបស់"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "គោរ៉ាហ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន…ទេ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "បានស្លាប់"
+    }
+  ],
+  "timestamp": "2026-09-02T03:48:40.622541647Z",
+  "model": "glm-5.3"
+}

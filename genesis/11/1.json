@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ហើយវាបានកើតឡើង ទាំងផែនដីមានភាសាមួយ និងពាក្យទាំងឡាយតែមួយ។",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយវាបានកើតឡើង"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំង"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ផែនដី"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ភាសា"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "និងពាក្យទាំងឡាយ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "តែមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:58:50.558312485Z",
+  "model": "glm-5.3"
+}

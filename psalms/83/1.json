@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 83,
+  "translation": "ចំណងជើង ១ តាញាខ ទី ៨៣ — ចម្រៀង ទម្រង់ភ្លេង របស់អាស៉ាហ្វ។",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ចម្រៀង"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ទម្រង់ភ្លេង"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "របស់អាស៉ាហ្វ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:46:40.892045967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 30,
+  "translation": "ដ្បិតបញ្ញត្តិនេះ ដែលអញបង្គាប់អ្នកថ្ងៃនេះ វាមិនពិបាកលើសចំណោទអ្នកឡើយ ហើយវាក៏មិនឆ្ងាយឡើយ។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "បញ្ញត្តិ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "អញ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "បង្គាប់អ្នក"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ថ្ងៃនេះ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ពិបាកលើសចំណោទ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វា"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "លើសចំណោទអ្នក"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ហើយមិន"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "ឆ្ងាយ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:14:17.912325959Z",
+  "model": "glm-5.3"
+}

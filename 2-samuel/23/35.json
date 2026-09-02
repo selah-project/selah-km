@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "ហេតស្រោ ហការមេលី, ផ៉ាអារៃ ហអរបី,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ហេតស្រោ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ហការមេលី"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "ផ៉ាអារៃ"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ហអរបី"
+    }
+  ],
+  "timestamp": "2026-09-02T05:21:15.775988140Z",
+  "model": "glm-5.3"
+}

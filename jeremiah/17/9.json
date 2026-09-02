@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 17,
+  "translation": "បេះដូងល្បិចជាងគ្រប់យ៉ាង ហើយវាឈឺដល់អស់ព្យាបាល — នរណាអាចដឹងវា?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ល្បិច"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "បេះដូង"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ជាងគ្រប់យ៉ាង"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "ហើយឈឺដល់អស់ព្យាបាល"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វា"
+    },
+    {
+      "surface": "מי",
+      "gloss": "នរណា"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "អាចដឹងវា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:49:09.074596955Z",
+  "model": "glm-5.3"
+}

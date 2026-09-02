@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "ហើយគ្មានសង្គ្រាមទាល់តែដល់ឆ្នាំទីសាមសិបប្រាំ នៃរាជ្យរបស់អាសា។",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ហើយសង្គ្រាម"
+    },
+    {
+      "surface": "לא",
+      "gloss": "គ្មាន"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ទាល់តែដល់"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "សាមសិប"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "និងប្រាំ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "នៃរាជ្យ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "អាសា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:52:07.033018081Z",
+  "model": "glm-5.3"
+}

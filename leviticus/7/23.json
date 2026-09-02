@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "និយាយទៅកូនចៅជនអ៊ីស្រាអែលថា ជាតិខ្លាញ់ទាំងអស់នៃគោ និងចៀម និងពពែ អ្នកទាំងឡាយកុំស៊ីឡើយ។",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ជនអ៊ីស្រាអែល"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ជាតិខ្លាញ់"
+    },
+    {
+      "surface": "שור",
+      "gloss": "គោ"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "និងចៀម"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "និងពពែ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ស៊ីឡើយ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:04:21.037749330Z",
+  "model": "glm-5.3"
+}

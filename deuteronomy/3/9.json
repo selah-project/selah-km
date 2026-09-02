@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ជនជាតិស៊ីដនហៅ (ហឺរម៉ន) ថាស៊ីរយ៉ូន ហើយជនជាតិអាម៉ូរីហៅវាថាសេនីរ។",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "ជនជាតិស៊ីដន"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ហៅ"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "(ហឺរម៉ន)"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "ស៊ីរយ៉ូន"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ហើយជនជាតិអាម៉ូរី"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ហៅ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "វា"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "សេនីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:58:13.751772241Z",
+  "model": "glm-5.3"
+}

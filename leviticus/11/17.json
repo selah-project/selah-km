@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "និង ⟨את⟩ ត្រចៅតូច និង ⟨את⟩ ក្រៀល និង ⟨את⟩ ត្រចៅធំ។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ត្រចៅតូច"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ត្រចៅតូច"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ក្រៀល"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ក្រៀល"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ត្រចៅធំ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ត្រចៅធំ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:10:09.986192809Z",
+  "model": "glm-5.3"
+}

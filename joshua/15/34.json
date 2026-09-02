@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "វាណូអាខ អែន-ហ្គានីម តាប្ពូអាខ និង ហៃអេណាម។",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "វាណូអាខ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "អែន"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ហ្គានីម"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "តាប្ពូអាខ"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "ហៃអេណាម"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:40.910918216Z",
+  "model": "glm-5.3"
+}

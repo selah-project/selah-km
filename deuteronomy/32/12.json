@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 32,
+  "translation": "យ៉ាវេដឹកនាំគាត់តែម្នាក់ឯង ហើយគ្មានអែលបរទេសណាមួយនៅជាមួយគាត់ទេ។",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "តែម្នាក់ឯង"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ដឹកនាំគាត់"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ហើយគ្មាន"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "នៅជាមួយគាត់"
+    },
+    {
+      "surface": "אל",
+      "gloss": "អែល"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "បរទេស"
+    }
+  ],
+  "timestamp": "2026-09-02T04:17:14.877714401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "គ្រប់សត្វលូនដែលហើរ ដែលដើរលើបួន ⟨ជើង⟩ — វាជារបស់គួរឱ្យស្អប់ដល់អ្នករាល់គ្នា។",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "គ្រប់"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "សត្វលូន"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ដែលហើរ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ដែលដើរ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "បួន"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "របស់គួរឱ្យស្អប់"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វា"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ដល់អ្នករាល់គ្នា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:10:09.986637681Z",
+  "model": "glm-5.3"
+}

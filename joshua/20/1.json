@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 20,
+  "translation": "ហើយយ៉ាវេបានទូលដល់យេហូស្ហួ ដោយពោលថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយ...បានទូល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "យេហូស្ហួ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:30:18.633024879Z",
+  "model": "glm-5.3"
+}

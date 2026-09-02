@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 16,
+  "translation": "លើកនេះ អើស្ត្រីពិសាទ ស្តាប់ពាក្យរបស់យ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "លើកនេះ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "អើស្ត្រីពិសាទ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ស្តាប់"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T07:28:12.101784192Z",
+  "model": "glm-5.3"
+}

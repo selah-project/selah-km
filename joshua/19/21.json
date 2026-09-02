@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "និងរេមេត និងអេន-កានីម និងអេន-ហាដ៉ា និងបេត-ផាតសេតស។",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "និងរេមេត"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "និងអេន"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "កានីម"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "និងអេន"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ហាដ៉ា"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "និងបេត"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "ផាតសេតស"
+    }
+  ],
+  "timestamp": "2026-09-02T04:29:15.129971305Z",
+  "model": "glm-5.3"
+}

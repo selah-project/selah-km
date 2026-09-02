@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "សម្រាប់កុលសម្ព័ន្ធយេហូដា កាឡេប កូនប្រុសយ៉េហ្វុនេ។",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "សម្រាប់កុលសម្ព័ន្ធ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "យេហូដា"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "កាឡេប"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "យ៉េហ្វុនេ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:35:40.362668864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ព្រោះក៏ដងច្រើន ចិត្តរបស់អ្នកបានដឹងថា អ្នកផ្ទាល់ក៏បានបណ្តោះអាសន្នអ្នកដទៃដែរ។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ក៏"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ដង"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ច្រើន"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "បានដឹង"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ចិត្តរបស់អ្នក"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ក៏"
+    },
+    {
+      "surface": "את",
+      "gloss": "អ្នកផ្ទាល់"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "បានបណ្តោះអាសន្ន"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "អ្នកដទៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:49:55.416559340Z",
+  "model": "glm-5.3"
+}

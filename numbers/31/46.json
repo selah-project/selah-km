@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "និងមនុស្ស ដប់ប្រាំមួយពាន់នាក់។",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "និងមនុស្ស"
+    },
+    {
+      "surface": "អדם",
+      "gloss": ""
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ដប់ប្រាំមួយ... "
+    },
+    {
+      "surface": "עשר",
+      "gloss": "...ពាន់"
+    },
+    {
+      "surface": "אלף",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-02T03:51:34.441444101Z",
+  "model": "glm-5.3"
+}

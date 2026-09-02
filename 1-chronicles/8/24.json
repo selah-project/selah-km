@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និង ហាណាន់យ៉ា និង អែយឡាម និង អាន់តោធីយ៉ា។",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "និង ហាណាន់យ៉ា"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "និង អែយឡាម"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "និង អាន់តោធីយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:56.852919063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "សសរពពកនៅថ្ងៃ និងសសរភ្លើងនៅយប់ មិនដែលដកចេញពីមុខប្រជារាស្ត្រឡើយ។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ដកចេញ"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "សសរ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ពពក"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "និងសសរ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ភ្លើង"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "យប់"
+    },
+    {
+      "surface": "លפני",
+      "gloss": "ពីមុខ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ប្រជារាស្ត្រ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:37:02.406977318Z",
+  "model": "glm-5.3"
+}

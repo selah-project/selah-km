@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ការខឹងសម្បាល្អជាការសើច ព្រោះដោយសម្បាមុខ ចិត្តនឹងល្អឡើង។",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ល្អ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ការខឹងសម្បា"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ជាការសើច"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ដោយសម្បាមុខ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "នឹងល្អឡើង"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ចិត្ត"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:09.144273254Z",
+  "model": "glm-5.3"
+}

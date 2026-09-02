@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "កូនប្រុសរបស់ម៉ូស្ហេ គឺហ្គែរស្ហូម និងអែលីអេហ្ស៊ែរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនប្រុសរបស់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ហ្គែរស្ហូម"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "និងអែលីអេហ្ស៊ែរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:41:27.211811385Z",
+  "model": "glm-5.3"
+}

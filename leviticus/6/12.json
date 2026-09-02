@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ហើយយ៉ាវេបានមានពាក្យទៅកាន់ម៉ូស្ហេ ដើម្បីថ្លែងថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយ...បានមានពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីថ្លែងថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:04:47.040620939Z",
+  "model": "glm-5.3"
+}

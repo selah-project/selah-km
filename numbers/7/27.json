@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "គោប្រុសមួយ កូននៃហឺដ ឈ្មោលមួយ ក្របីចៀមមួយ កូននៃឆ្នាំមួយ ដើម្បីជាយញ្ញបូជា",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "គោប្រុស"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូននៃ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ហឺដ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ឈ្មោល"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ក្របីចៀម"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូននៃ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ឆ្នាំមួយ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ដើម្បីជាយញ្ញបូជា"
+    }
+  ],
+  "timestamp": "2026-09-02T12:33:19.075123917Z",
+  "model": "glm-5.3"
+}

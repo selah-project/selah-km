@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 22,
+  "translation": "ដី អើយ ដី អើយ ដី អើយ ស្តាប់ចុះ នូវព្រះបន្ទូល ⟨នៃ⟩ យ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ដី"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ដី"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ដី"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ស្តាប់ចុះ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ព្រះបន្ទូល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T06:50:48.968692249Z",
+  "model": "glm-5.3"
+}

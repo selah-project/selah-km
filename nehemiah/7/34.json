@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅ ⟨ទីកន្លែង⟩ អែឡាម មួយ​ទៀត មួយ​ពាន់ ពីរ​រយ ហាសិប និង​បួន។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "អែឡាម"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "មួយ​ទៀត"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "មួយ​ពាន់"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ពីរ​រយ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហាសិប"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "បួន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:53.522764523Z",
+  "model": "glm-5.3"
+}

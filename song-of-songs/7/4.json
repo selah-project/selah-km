@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ដូះទាំងពីររបស់អ្នកដូចកូនក្ងានទាំងពីរ ជាកូនភ្លោះនៃក្ងានញី។",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "ទាំងពីរ"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "ដូះរបស់អ្នក"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ដូចទាំងពីរ"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "កូនក្ងាន"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "កូនភ្លោះ"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ក្ងានញី"
+    }
+  ],
+  "timestamp": "2026-09-02T09:45:52.026492333Z",
+  "model": "glm-5.3"
+}

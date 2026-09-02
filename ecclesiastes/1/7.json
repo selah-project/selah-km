@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ទន្លេទាំងអស់ហូរទៅសមុទ្រ តែសមុទ្រមិនពេញឡើយ; ទៅកន្លែងដែលទន្លេហូរទៅ ទីនោះពួកវាត្រឡប់មកវិញដើម្បីហូរទៀត។",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "ទន្លេ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ហូរទៅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "សមុទ្រ"
+    },
+    {
+      "surface": "והים",
+      "gloss": "តែសមុទ្រ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ពេញ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "កន្លែង"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "ដែលទន្លេ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ហូរទៅ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ទីនោះ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ពួកវា"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "ត្រឡប់មកវិញ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ដើម្បីហូរទៀត"
+    }
+  ],
+  "timestamp": "2026-09-02T09:53:37.742498437Z",
+  "model": "glm-5.3"
+}

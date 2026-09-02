@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "កូនបុត្រនៃយ៉ាខាត កូនបុត្រនៃហ្គេរស្ហូម កូនបុត្រនៃឡេវី។",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "កូនបុត្រនៃ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "យ៉ាខាត"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនបុត្រនៃ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ហ្គេរស្ហូម"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនបុត្រនៃ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ឡេវី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:38.764430670Z",
+  "model": "glm-5.3"
+}

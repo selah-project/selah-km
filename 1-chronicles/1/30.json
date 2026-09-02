@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "មីស្ហម៉ា និង ដូម៉ា ម៉ាស្សា ហាដាដ និង តេម៉ា។",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "មីស្ហម៉ា"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "និង ដូម៉ា"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ម៉ាស្សា"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ហាដាដ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "និង តេម៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T13:34:51.822859568Z",
+  "model": "glm-5.3"
+}

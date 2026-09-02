@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "អ្នកបម្រើបានគ្រប់គ្រងលើយើង; ⟨អ្នក⟩ដោះលែង — គ្មានសូម្បីតែម្នាក់ចេញពីដៃពួកគេ។",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "អ្នកបម្រើ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "បានគ្រប់គ្រង"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "លើយើង"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ដោះលែង"
+    },
+    {
+      "surface": "אין",
+      "gloss": "គ្មាន"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ចេញពីដៃពួកគេ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:02.240036379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ហើយកូនចៅរបស់ ហ្គោមែរ គឺ អាស្ហកេនាស់ ឌីហ្វាត និង តូហ្គារម៉ាះ។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ហើយកូនចៅរបស់"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ហ្គោមែរ"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "អាស្ហកេនាស់"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "ឌីហ្វាត"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "តូហ្គារម៉ាះ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:15.262455961Z",
+  "model": "glm-5.3"
+}

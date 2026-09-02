@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "នាងចេញពីផ្ទះរបស់គាត់ ទៅ ហើយក្លាយទៅជាប្រពន្ធរបស់បុរសម្នាក់ទៀត។",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "ហើយនាងចេញ"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ពីផ្ទះរបស់គាត់"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "ហើយទៅ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ហើយក្លាយទៅជា"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "របស់បុរសម្នាក់"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ទៀត"
+    }
+  ],
+  "timestamp": "2026-09-02T04:12:43.539809293Z",
+  "model": "glm-5.3"
+}

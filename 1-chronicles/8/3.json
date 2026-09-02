@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ហើយមានកូនប្រុសដល់បេឡា គឺអាដារ ហើយហ្គេរ៉ា ហើយអាប៊ីហ៊ូឌ",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ហើយមាន"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ដល់បេឡា"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "អាដារ"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ហើយហ្គេរ៉ា"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "ហើយអាប៊ីហ៊ូឌ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:12.559014347Z",
+  "model": "glm-5.3"
+}

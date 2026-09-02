@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃ បារកូស កូនចៅនៃ ស៊ីសេរ៉ា កូនចៅនៃ តេម៉ាហ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "បារកូស"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "ស៊ីសេរ៉ា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "តេម៉ាហ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:12:31.509047307Z",
+  "model": "glm-5.3"
+}

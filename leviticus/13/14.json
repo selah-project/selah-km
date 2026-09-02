@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "បើនៅថ្ងៃដែលឃើញមានសាច់ស្រស់លេចឡើងក្នុងគាត់ គាត់នឹងមិនស្អាត។",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "បើនៅថ្ងៃ"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "កាលបានឃើញ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ក្នុងគាត់"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "សាច់"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ស្រស់"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "គាត់នឹងមិនស្អាត"
+    }
+  ],
+  "timestamp": "2026-09-02T03:11:30.640574614Z",
+  "model": "glm-5.3"
+}

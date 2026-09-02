@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 39:14",
+  "book": "job",
+  "lang": "km",
+  "chapter": 39,
+  "translation": "ព្រោះវាទុកពងរបស់វាលើដី ហើយវាហុយកំដៅពងទាំងនោះលើធូលី។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "វាទុក"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "លើដី"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "ពងរបស់វា"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ហើយលើ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ធូលី"
+    },
+    {
+      "surface": "תחמם",
+      "gloss": "វាហុយកំដៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:42:03.644443572Z",
+  "model": "glm-5.3"
+}

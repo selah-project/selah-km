@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 20,
+  "translation": "កុំលួច។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "ទ្វេរ",
+      "gloss": "លួច"
+    }
+  ],
+  "timestamp": "2026-09-02T02:40:41.116307951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "ហើយណូអាបានរស់ក្រោយមហាលុយទឹក បីរយឆ្នាំ និងហាសិបឆ្នាំ។",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ហើយបានរស់"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ណូអា"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ក្រោយ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "មហាលុយទឹក"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "មאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "និងហាសិប"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:55:08.975707106Z",
+  "model": "glm-5.3"
+}

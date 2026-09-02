@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "សម្រាប់ហ្សេប៊ូលូន — អេលីអាប់ កូនប្រុសនៃហេឡូន។",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "សម្រាប់ហ្សេប៊ូលូន"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "អេលីអាប់"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុសនៃ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ហេឡូន"
+    }
+  ],
+  "timestamp": "2026-09-02T03:25:06.690952782Z",
+  "model": "glm-5.3"
+}

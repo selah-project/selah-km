@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ភារៈដែលហាបាក់គូក ព្រះសាស្ដាចារ្យ បានមើលឃើញ។",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ភារៈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "បានមើលឃើញ"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ហាបាក់គូក"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ព្រះសាស្ដាចារ្យ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:09:12.247860050Z",
+  "model": "glm-5.3"
+}

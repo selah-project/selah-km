@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "និង ⟨את⟩ ដាអ៉ា និង ⟨את⟩ អាយ៉ា តាមប្រភេទរបស់វា។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ដាអ៉ា"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ដាអ៉ា"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អាយ៉ា"
+    },
+    {
+      "surface": "ហאיה",
+      "gloss": "អាយ៉ា"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "តាមប្រភេទរបស់វា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:08:58.315941592Z",
+  "model": "glm-5.3"
+}

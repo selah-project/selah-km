@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ហើយ⟨មាន⟩ល្ងាច ហើយ⟨មាន⟩ព្រឹក — ថ្ងៃទីប្រាំ។",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយមាន"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ល្ងាច"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយមាន"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ព្រឹក"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ទីប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:51:50.394559874Z",
+  "model": "glm-5.3"
+}

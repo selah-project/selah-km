@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ហើយពាក្យនៃ យ៉ាវេ បានមកដល់ខ្ញុំ ដើម្បីថ្លែងថា។",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយបានមកដល់"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យនៃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីថ្លែងថា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:38:43.167795821Z",
+  "model": "glm-5.3"
+}

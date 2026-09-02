@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ស្លាបព្រាមាសមួយ ទម្ងន់ដប់ស៊ីកឹល ពេញដោយក្រួចធូន",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ស្លាបព្រា"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "មាស"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ពេញដោយ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ក្រួចធូន"
+    }
+  ],
+  "timestamp": "2026-09-02T03:33:49.296397266Z",
+  "model": "glm-5.3"
+}

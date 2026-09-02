@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ហើយអ្នកត្រូវដាក់ប្រេងលើវា និងដាក់ស្រមោលលើវា — វាជាតង្វាយធញ្ញជាតិ។",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ហើយអ្នកត្រូវដាក់"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "លើវា"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ប្រេង"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "និងដាក់"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "លើវា"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ស្រមោល"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "តង្វាយធញ្ញជាតិ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វាជា"
+    }
+  ],
+  "timestamp": "2026-09-02T11:13:15.320945018Z",
+  "model": "glm-5.3"
+}

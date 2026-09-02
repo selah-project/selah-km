@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃបេត-លេហិម មួយរយ់ម្ភៃបី។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "លេហិម"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ម្ភៃ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "បី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:33.131517380Z",
+  "model": "glm-5.3"
+}

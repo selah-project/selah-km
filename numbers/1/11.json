@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "សម្រាប់បិនយ៉ាមីន — អាប៊ីដាន កូនប្រុសនៃហ្គីដោនី។",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "សម្រាប់បិនយ៉ាមីន"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "អាប៊ីដាន"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុសនៃ"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ហ្គីដោនី"
+    }
+  ],
+  "timestamp": "2026-09-02T03:25:06.691265980Z",
+  "model": "glm-5.3"
+}

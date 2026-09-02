@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ដ្បិសមនុស្សលោកគ្មាននរណាម្នាក់សុចរិតលើផែនដី ដែលធ្វើតែសេចក្ដីល្អ ហើយមិនបានបាបឡើយ។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិស"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្សលោក"
+    },
+    {
+      "surface": "אין",
+      "gloss": "គ្មាន"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "សុចរិត"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "លើផែនដី"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ធ្វើ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "សេចក្ដីល្អ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ហើយមិន"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "បានបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:27.137772051Z",
+  "model": "glm-5.3"
+}

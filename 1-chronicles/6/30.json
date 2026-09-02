@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "កូនហាស្ហាប់យ៉ា កូនអាម៉ាតស់យ៉ា កូនហ៊ីលគីយ៉ា។",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ហាស្ហាប់យ៉ា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "អាម៉ាតស់យ៉ា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ហ៊ីលគីយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:12.541509314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ហើយម៉ូស្ហេបានស្តាប់ ហើយវាល្អនៅក្នុងភ្នែករបស់គាត់។",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ហើយបានស្តាប់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ហើយល្អ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ក្នុងភ្នែករបស់គាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T11:12:29.353188106Z",
+  "model": "glm-5.3"
+}

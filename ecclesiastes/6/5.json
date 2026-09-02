@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ថ្វីបើថ្ងៃក៏ដែរ ⟨គាត់⟩ មិនបានឃើញ ហើយមិនបានស្គាល់ដែរ; ការសម្រាកមានដល់អ្នកនេះ ជាងអ្នកនោះ។",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ក៏ដែរ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "បានឃើញ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ហើយមិន"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "បានស្គាល់"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ការសម្រាក"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ដល់អ្នកនេះ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ជាងអ្នកនោះ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:50:08.028249864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 35,
+  "translation": "កូនមនុស្សអើយ តម្រង់មុខអ្នកទៅរកភ្នំស្ហេអ៊ីរ ហើយទាយងារប្រឆាំងនឹងវា",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "שים",
+      "gloss": "តម្រង់"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "មុខអ្នក"
+    },
+    {
+      "surface": "על",
+      "gloss": "ទៅរក"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ភ្នំ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ស្ហេអ៊ីរ"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ហើយទាយងារ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ប្រឆាំងនឹងវា"
+    }
+  ],
+  "timestamp": "2026-09-02T11:37:09.505591094Z",
+  "model": "glm-5.3"
+}

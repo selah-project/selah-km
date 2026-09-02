@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ហើយយើងបានគង់នៅក្នុងជ្រលងភ្នំ ទល់នឹងបេត-ពេអ័រ។",
+  "tokens": [
+    {
+      "surface": "וַנֵּ֣שֶׁב",
+      "gloss": "ហើយយើងបានគង់នៅ"
+    },
+    {
+      "surface": "בַּגָּ֔יְא",
+      "gloss": "ក្នុងជ្រលងភ្នំ"
+    },
+    {
+      "surface": "מ֖וּל",
+      "gloss": "ទល់នឹង"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "פְּעֽוֹר",
+      "gloss": "ពេអ័រ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:58:25.613174652Z",
+  "model": "glm-5.3"
+}

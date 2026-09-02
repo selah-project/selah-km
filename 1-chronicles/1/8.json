@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "កូនចៅរបស់ ចាម គឺ កូស្ហ មិតស្រាយិម ពូត និង ក៉ាណាអាន។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ចាម"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "កូស្ហ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "មិតស្រាយិម"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "ពូត"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ក៉ាណាអាន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:15.262732136Z",
+  "model": "glm-5.3"
+}

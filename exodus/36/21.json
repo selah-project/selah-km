@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 36,
+  "translation": "ដប់ហត់ ជាប្រវែងនៃក្របទាំង ហើយហត់មួយកន្លះ ជាទទឹងនៃក្របទាំងតែមួយ។",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ហត់"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ប្រវែង"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "នៃក្របទាំង"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ហើយហត់"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "មួយកន្លះ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ហត់"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ទទឹង"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "នៃក្របទាំង"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "តែមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:59:33.349766687Z",
+  "model": "glm-5.3"
+}

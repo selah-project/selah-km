@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និងមីខ៉ាអែល និងយីស្ហា និងយ៉ូហា — កូនទាំងឡាយនៃបេរីយ៉ា។",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "និងមីខ៉ាអែល"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "និងយីស្ហា"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "និងយ៉ូហា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនទាំងឡាយនៃ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "បេរីយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:30.469587942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ភិលាតយ៉ា ហាណាន អ៉ាណាយ៉ា។",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "ភិលាតយ៉ា"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ហាណាន"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "អ៉ាណាយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:48.226471539Z",
+  "model": "glm-5.3"
+}

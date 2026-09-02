@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "យ៉ានីម, បេត-តាពូអាច, និងអាបេកាហ,",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "យ៉ានីម"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "តាពូអាច"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "អាបេកាហ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:38.843657878Z",
+  "model": "glm-5.3"
+}

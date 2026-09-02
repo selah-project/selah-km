@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ម៉ាត់ណាយ៉ាះ ម៉ាត់ណៃ និងយ៉ាអាសាវ។",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "ម៉ាត់ណាយ៉ាះ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ម៉ាត់ណៃ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "និងយ៉ាអាសាវ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:15:33.600916141Z",
+  "model": "glm-5.3"
+}

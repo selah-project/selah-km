@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ស្តាប់ចុះ អ៊ីស្រាអែល៖ យ៉ាវេ អេឡូហ៊ីមរបស់យើង — យ៉ាវេ ⟨គឺ⟩ តែមួយ។",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ស្តាប់ចុះ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រាអែល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "អេឡូហ៊ីមរបស់យើង"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "តែមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:00:56.962854527Z",
+  "model": "glm-5.3"
+}

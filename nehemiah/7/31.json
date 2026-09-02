@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពួកអ្នក⟨នៃ⟩មិកមាស មួយរយសិបម្ភៃ និងពីរ។",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ពួកអ្នក"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "មិកមាស"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "និងម្ភៃ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "និងពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:11.761707966Z",
+  "model": "glm-5.3"
+}

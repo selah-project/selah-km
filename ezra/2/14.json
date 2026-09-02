@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់ប៊ីកវៃ ពីរពាន់ហុកសិបប្រាំមួយ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ប៊ីកវៃ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពីរពាន់"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហុកសិប"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ប្រាំមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:10:00.304282518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 26,
+  "translation": "ហើយកូនចៅរបស់ផល្លូគឺ អេលីអាប។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ហើយកូនចៅរបស់"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "ផល្លូ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "អេលីអាប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:47:03.011845980Z",
+  "model": "glm-5.3"
+}

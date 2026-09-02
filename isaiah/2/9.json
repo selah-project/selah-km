@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "មនុស្សបានទាបចុះ និងបុរសបានថយចុះ ហើយអ្នកកុំលើកលែងឱ្យពួកគេឡើយ។",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "បានទាបចុះ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "បានថយចុះ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "បុរស"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ហើយកុំ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "លើកលែងឱ្យ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ពួកគេ"
+    }
+  ],
+  "timestamp": "2026-09-02T05:59:32.427589609Z",
+  "model": "glm-5.3"
+}

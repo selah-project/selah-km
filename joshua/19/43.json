@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "អេឡូន តីមនាថាស៍ និងអេក្រូន។",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "អេឡូន"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "តីមនាថាស៍"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "និងអេក្រូន"
+    }
+  ],
+  "timestamp": "2026-09-02T04:28:50.088769310Z",
+  "model": "glm-5.3"
+}

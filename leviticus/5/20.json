@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ហើយយ៉ាវេបានមានប្រសាសន៍ទៅកាន់ម៉ូស្ហេ ថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបានមានប្រសាសន៍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:04:56.037282771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ហើយពាក្យទាំងឡាយនេះ ដែលអញបង្គាប់អ្នកនៅថ្ងៃនេះ ត្រូវនៅលើបេះដិបអ្នក។",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ហើយ⟨នឹងនៅ⟩"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ពាក្យទាំងឡាយ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "អញ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "បង្គាប់អ្នក"
+    },
+    {
+      "surface": "היום",
+      "gloss": "នៅថ្ងៃនេះ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "បេះដិបអ្នក"
+    }
+  ],
+  "timestamp": "2026-09-02T03:58:53.118316880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 18,
+  "translation": "បេត-ហាអារ៉ាបា តសេម៉ារ៉ាយីម និងបេត-អែល។",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ហាអារ៉ាបា"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "តសេម៉ារ៉ាយីម"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "אל",
+      "gloss": "អែល"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:45.370908602Z",
+  "model": "glm-5.3"
+}

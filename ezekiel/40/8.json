@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 40,
+  "translation": "លុះលោកបានវាស់ ⟨את⟩ ក្លោងទ្វារនោះ ពីផ្ទះនោះ បានឫស្សីមួយ។",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "លោកបានវាស់"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ក្លោងទ្វារនោះ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ក្លោងទ្វារ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "នៃទ្វារនោះ"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ពីផ្ទះនោះ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ឫស្សី"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T07:46:09.324518364Z",
+  "model": "glm-5.3"
+}

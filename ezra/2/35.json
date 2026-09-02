@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃសេនាអ៉ា បីពាន់ និងប្រាំមួយរយ និងសាមសិប។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "សេនាអ៉ា"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "បី"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពាន់"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "និងប្រាំមួយ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "និងសាមសិប"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:53.235599501Z",
+  "model": "glm-5.3"
+}

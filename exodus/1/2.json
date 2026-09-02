@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "រ៉ូអ៊ុបិន ស្ហីមអ៊ូន ឡេវី និងយេហូដា។",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "រ៉ូអ៊ុបិន"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ស្ហីមអ៊ូន"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ឡេវី"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "និងយេហូដា"
+    }
+  ],
+  "timestamp": "2026-09-02T02:30:10.680798932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់ណេបូ ជាចំនួនហាសិបនិងពីរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ណេបូ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហាសិប"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "និងពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:48.423976680Z",
+  "model": "glm-5.3"
+}

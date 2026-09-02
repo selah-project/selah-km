@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 32,
+  "translation": "ហើយយ៉ាវេបាននិយាយទៅកាន់ម៉ូស្ហេនៅថ្ងៃនេះឯង ដោយមានបន្ទូលថា។",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "នៅឯង"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយមានបន្ទូលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:16:26.411564156Z",
+  "model": "glm-5.3"
+}

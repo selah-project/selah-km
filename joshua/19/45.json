@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "និងយ៊ីហ៊ូដ និងបេនេ-បារ៉ាក់ និងហ្គាត រីម្មន។",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "និងយ៊ីហ៊ូដ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "និងបេនេ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "បារ៉ាក់"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "និងហ្គាត"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "រីម្មន"
+    }
+  ],
+  "timestamp": "2026-09-02T04:29:43.306537241Z",
+  "model": "glm-5.3"
+}

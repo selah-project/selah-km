@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ប៊ិនយ៉ាមីន បេឡា និងបេខេរ និងយិឌីអាអែល បី។",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ប៊ិនយ៉ាមីន"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "បេឡា"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "និងបេខេរ"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "និងយិឌីអាអែល"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "បី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:49.833045781Z",
+  "model": "glm-5.3"
+}

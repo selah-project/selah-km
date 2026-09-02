@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "មេស្ហូឡាម អាបីយ៉ា មីយ៉ាមីន",
+  "tokens": [
+    {
+      "surface": "משלם",
+      "gloss": "មេស្ហូឡាម"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "អាបីយ៉ា"
+    },
+    {
+      "surface": "מימן",
+      "gloss": "មីយ៉ាមីន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:23.460001647Z",
+  "model": "glm-5.3"
+}

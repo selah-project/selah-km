@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "និង ⟨את⟩ កាត និង ⟨את⟩ ម៉ារេស្ហាហ និង ⟨את⟩ ហ្ស៊ីហ្វ។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "កាត"
+    },
+    {
+      "surface": "גת",
+      "gloss": "កាត"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ម៉ារេស្ហាហ"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ម៉ារេស្ហាហ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ហ្ស៊ីហ្វ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ហ្ស៊ីហ្វ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:49:04.079074899Z",
+  "model": "glm-5.3"
+}

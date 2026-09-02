@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 92,
+  "translation": "លើសភាពដប់ខ្សែ និងលើពិណ លើសំឡេងតន្ត្រីម៉ឺនៗ ជាមួយចាប៊ី។",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "សភាពដប់ខ្សែ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "និងលើ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ពិណ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "សំឡេងតន្ត្រីម៉ឺនៗ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ជាមួយចាប៊ី"
+    }
+  ],
+  "timestamp": "2026-09-02T08:51:46.048058744Z",
+  "model": "glm-5.3"
+}

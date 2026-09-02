@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 99,
+  "translation": "យ៉ាវេ ⟨ជា⟩មហាក្នុងស៊ីយ៉ូន ហើយ⟨គេ⟩ខ្ពស់ជាងប្រជារាស្ត្រទាំងអស់។",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ក្នុងស៊ីយ៉ូន"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "មហា"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ហើយខ្ពស់"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "គេ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ជាង"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ប្រជារាស្ត្រ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:53:49.613682015Z",
+  "model": "glm-5.3"
+}

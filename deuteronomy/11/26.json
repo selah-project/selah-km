@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "មើលចុះ ខ្ញុំដាក់ចេញមុខអ្នករាល់គ្នា ថ្ងៃនេះ ពរ និងបណ្តាសា —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "មើលចុះ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ខ្ញុំ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ដាក់ចេញ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "មុខអ្នករាល់គ្នា"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ថ្ងៃនេះ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ពរ"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "និងបណ្តាសា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:02:56.489612199Z",
+  "model": "glm-5.3"
+}

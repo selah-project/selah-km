@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពពែឈ្មោលមួយ ក្នុងចំណោមពពែ សម្រាប់ពលីការបាប",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ពពែឈ្មោល"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ក្នុងចំណោមពពែ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "សម្រាប់ពលីការបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:33:49.296640126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "និង អាហ្សារយ៉ា អេស្រា និង មេស្ហូឡាម",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "និង អាហ្សារយ៉ា"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "អេស្រា"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "និង មេស្ហូឡាម"
+    }
+  ],
+  "timestamp": "2026-09-02T10:25:17.244104848Z",
+  "model": "glm-5.3"
+}

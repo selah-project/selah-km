@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "និង ⟨את⟩ ហាដូរ៉ាម និង ⟨את⟩ អ៊ូហ្សាល និង ⟨את⟩ ឌីកឡា។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ហាដូរ៉ាម"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ហាដូរ៉ាម"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អ៊ូហ្សាល"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "អ៊ូហ្សាល"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ឌីកឡា"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ឌីកឡា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:09.713300495Z",
+  "model": "glm-5.3"
+}

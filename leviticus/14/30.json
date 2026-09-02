@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "ហើយគាត់នឹងធ្វើ ⟨את⟩ មួយ ចំពីសត្វព្រាប ឬចំពីកូនក្រៀល តាមអ្វីដែលដៃគាត់អាចទៅដល់។",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ហើយគាត់នឹងធ្វើ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "មួយ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ចំពី"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "សត្វព្រាប"
+    },
+    {
+      "surface": "או",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ចំពី"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ក្រៀល"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "តាមអ្វីដែល"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "អាចទៅដល់"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ដៃគាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T03:12:23.576309933Z",
+  "model": "glm-5.3"
+}

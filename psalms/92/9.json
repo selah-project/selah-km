@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 92,
+  "translation": "ប៉ុន្តែអ្នកនៅខ្ពស់រហូតដល់យ៉ាវេទៅរាប់ពុំអស់។",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ប៉ុន្តែអ្នក"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ខ្ពស់"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "រហូតទៅរាប់ពុំអស់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:51:01.836416615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "កូនប្រុសរបស់ហេឡាស គឺតសេរែត យីតសារ និងអេតនាន។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "កូនប្រុសរបស់"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ហេឡាស"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "តសេរែត"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "យីតសារ"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "និងអេតនាន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:29:23.476599008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "នោហ៉ាជាទីបួន និងរ៉ាហ្វាជាទីប្រាំ។",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "នោហ៉ា"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ជាទីបួន"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "និងរ៉ាហ្វា"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ជាទីប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:12.558815003Z",
+  "model": "glm-5.3"
+}

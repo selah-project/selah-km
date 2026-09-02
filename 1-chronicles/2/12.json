@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ហើយបូអាស្ហបានបង្កើត ⟨את⟩ អូបេដ ហើយអូបេដបានបង្កើត ⟨את⟩ យីស្ហៃ។",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "ហើយបូអាស្ហ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អូបេដ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "អូបេដ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ហើយអូបេដ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "យីស្ហៃ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "យីស្ហៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:52.748882389Z",
+  "model": "glm-5.3"
+}

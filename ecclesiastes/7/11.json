@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ភាពល្អគឺភាពឈ្លាសវៃជាមួយមរតក ហើយ(ការ)បន្ថែមដល់អ្នកដែលឃើញថ្ងៃ។",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ភាពល្អ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ភាពឈ្លាសវៃ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ជាមួយ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "មរតក"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ហើយ(ការ)បន្ថែម"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ដល់អ្នកដែលឃើញ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ថ្ងៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:54:26.319965145Z",
+  "model": "glm-5.3"
+}

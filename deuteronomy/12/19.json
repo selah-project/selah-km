@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "រក្សាចិត្តអ្នក កុំឱ្យអ្នកបោះបង់ ⟨את⟩ លេវី គ្រប់ថ្ងៃទាំងអស់របស់អ្នក លើដីរបស់អ្នក។",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "រក្សាចិត្ត"
+    },
+    {
+      "surface": "לך",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "פן",
+      "gloss": "កុំឱ្យ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "អ្នកបោះបង់"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "លេវី"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "លេវី"
+    },
+    {
+      "surface": "כל",
+      "gloss": "គ្រប់"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ថ្ងៃទាំងអស់របស់អ្នក"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ដីរបស់អ្នក"
+    }
+  ],
+  "timestamp": "2026-09-02T04:05:51.807603210Z",
+  "model": "glm-5.3"
+}

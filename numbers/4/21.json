@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ហើយយ៉ាវេបានត្រាស់ដល់ម៉ូស្ហេ ថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបានត្រាស់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:29:33.739903923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 20,
+  "translation": "កុំផ្តួចផ្តើកបន្លំស្រ្តីម្នាក់ទៀត។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ផ្តួចផ្តើកបន្លំស្រ្តីម្នាក់ទៀត"
+    }
+  ],
+  "timestamp": "2026-09-02T02:40:41.116184392Z",
+  "model": "glm-5.3"
+}

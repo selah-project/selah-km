@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពាក្យដែលបានកើតឡើងមកដល់ យេរេម្យាហ៊ូ ពី ⟨את⟩ យ៉ាវេ ដើម្បីនិយាយថា —",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "היה",
+      "gloss": "បានកើតឡើង"
+    },
+    {
+      "surface": "אל",
+      "gloss": "មកដល់"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "យេរេម្យាហ៊ូ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ពី ⟨את⟩",
+      "marks": "យ៉ាវេ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:42:40.495973014Z",
+  "model": "glm-5.3"
+}

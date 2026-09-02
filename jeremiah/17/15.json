@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 17,
+  "translation": "នេះហើយ ពួកគេនិយាយទៅខ្ញុំថា ពាក្យរបស់យ៉ាវេនៅឯណា? ចូរវាមកតទៅ។",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "នេះហើយ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ពួកគេ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ទៅខ្ញុំ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "នៅឯណា"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ចូរវាមក"
+    },
+    {
+      "surface": "נא",
+      "gloss": "តទៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T06:51:20.802430806Z",
+  "model": "glm-5.3"
+}

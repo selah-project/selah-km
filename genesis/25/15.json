@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "ហាដាដ និងទេម៉ា យេទូរ ណាវ្ហ៊ីស្ហ និងកេដេម៉ាះ។",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "ហាដាដ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "និងទេម៉ា"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "យេទូរ"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ណាវ្ហ៊ីស្ហ"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "និងកេដេម៉ាះ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:07:21.298470172Z",
+  "model": "glm-5.3"
+}

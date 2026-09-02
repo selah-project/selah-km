@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "ដែលទាំងផ្ទៃមេញតែម្នាក់ឯង ហើយដើរលើកំពូលរលកសមុទ្រ។",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "ដែលទាំងផ្ទៃ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "មេឃ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "តែម្នាក់ឯង"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "ហើយដើរ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "កំពូល"
+    },
+    {
+      "surface": "ים",
+      "gloss": "សមុទ្រ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:45:11.936702335Z",
+  "model": "glm-5.3"
+}

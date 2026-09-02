@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "អែលតេកេះ គីបបេថូន និងបាអាឡាស៍។",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "អែលតេកេះ"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "គីបបេថូន"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "និងបាអាឡាស៍"
+    }
+  ],
+  "timestamp": "2026-09-02T04:28:50.088946087Z",
+  "model": "glm-5.3"
+}

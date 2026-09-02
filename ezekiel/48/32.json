@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 48:32",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 48,
+  "translation": "ហើយនៅទិសខាងកើត ប្រាំរយ និងបួនពាន់ និងទ្វារបី ទ្វារយ៉ូសេហ្វមួយ ទ្វារប៊ីនយ៉ាមីនមួយ ទ្វារដានមួយ។",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ហើយនៅ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ទិស"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ខាងកើត"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ប្រាំ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "និងបួន"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពាន់"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "និងទ្វារ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "បី"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "ទ្វារ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "យ៉ូសេហ្វ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ទ្វារ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ប៊ីនយ៉ាមីន"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ទ្វារ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ដាន"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T07:51:50.543866287Z",
+  "model": "glm-5.3"
+}

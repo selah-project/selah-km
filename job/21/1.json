@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "ហើយ​អ៊ីយ៉ូប​បាន​ឆ្លើយ​ថា",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ហើយ​បាន​ឆ្លើយ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "អ៊ីយ៉ូប"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយ​ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:33:52.558011703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ឡុដ វ៉ូណូ និង ⟨את⟩ ជ្រលងភ្នំនៃសិប្បករទាំងឡាយ។",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "ឡុដ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "វ៉ូណូ"
+    },
+    {
+      "surface": "גי",
+      "gloss": "ជ្រលងភ្នំ"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "នៃសិប្បករទាំងឡាយ"
+    }
+  ],
+  "timestamp": "2026-09-02T13:34:13.898117431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "km",
+  "chapter": 34,
+  "translation": "បុរសណាមួយដូចជាយ៉ាអុប ដែលផឹកការចំអកដូចជាទឹក?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ណាមួយ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "បុរស"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "ដូចជាយ៉ាអុប"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ផឹក"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ការចំអក"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ដូចជាទឹក"
+    }
+  ],
+  "timestamp": "2026-09-02T11:48:12.882815095Z",
+  "model": "glm-5.3"
+}

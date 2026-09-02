@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ហើយបើទោះបី ⟨គាត់⟩ រស់មួយពាន់ឆ្នាំ ពីរដង ហើយល្អក៏មិនបានឃើញដែរ — តើទាំងអស់មិនទៅកាន់ទីតែមួយទេឬ?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "ហើយបើទោះបី"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "រស់"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "មួយពាន់"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ពីរដង"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "ហើយល្អ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "បានឃើញ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "តើ...ទេឬ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "កាន់"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ទី"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "តែមួយ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ទៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:50:08.028516540Z",
+  "model": "glm-5.3"
+}

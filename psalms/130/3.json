@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 130,
+  "translation": "បើអ្នករក្សាតាមដានអវុធទាំងឡាយ យ៉ា អាដូណាយ តើនរណាអាចឈរបាន?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "បើ"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "អវុធទាំងឡាយ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "អ្នករក្សាតាមដាន"
+    },
+    {
+      "surface": "יה",
+      "gloss": "យ៉ា"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "អាដូណាយ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "នរណា"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "អាចឈរបាន"
+    }
+  ],
+  "timestamp": "2026-09-02T09:02:35.302822483Z",
+  "model": "glm-5.3"
+}

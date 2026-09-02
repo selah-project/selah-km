@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "សម្រាប់កុលសម្ពន្ធយេហូដា នាហស្ហូន កូនប្រុសអ៉ាមីនដាប។",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "សម្រាប់យេហូដា"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "នាហស្ហូន"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "អ៉ាមីនដាប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:24:24.981996724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "ហើយពាក្យរបស់យ៉ាវេបានមកដល់ខ្ញុំទាំងនិយាយថា",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយ...បានមកដល់"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ទាំងនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:29:37.214015908Z",
+  "model": "glm-5.3"
+}

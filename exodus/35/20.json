@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 35,
+  "translation": "ប៉ះប៉ុន្មានទាំងអស់នៃសភាកូនចៅឥស្រាអែលបានចេញទៅពីមុខម៉ូស្ហេ។",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "បានចេញទៅ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "សភានៃ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ឥស្រាអែល"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ពីមុខ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:54:54.312683061Z",
+  "model": "glm-5.3"
+}

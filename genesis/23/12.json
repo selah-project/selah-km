@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "ហើយអាវរ៉ាហាំបានក្រាបថ្វាយបារមីមុខប្រជាជននៃដី។",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ហើយបានក្រាបថ្វាយបារមី"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "អាវរ៉ាហាំ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ប្រជាជននៃ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ដី"
+    }
+  ],
+  "timestamp": "2026-09-02T02:03:07.184277519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ឲ្យគាត់ដាក់មាត់របស់គាត់ក្នុងធូលី ប្រហែលហើយមានសេចក្ដីសង្ឃឹម។",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ឲ្យគាត់ដាក់"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ក្នុងធូលី"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "មាត់របស់គាត់"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ប្រហែលហើយ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "សេចក្ដីសង្ឃឹម"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:00.293186521Z",
+  "model": "glm-5.3"
+}

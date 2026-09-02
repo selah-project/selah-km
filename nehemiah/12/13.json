@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "នៃ អេស្រា — មេស្ហុឡាម; នៃ អាម៉ារ៉ីយ៉ា — យេហូចាណាន។",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "នៃ អេស្រា"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "មេស្ហុឡាម"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "នៃ អាម៉ារ៉ីយ៉ា"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "យេហូចាណាន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:25:21.035254363Z",
+  "model": "glm-5.3"
+}

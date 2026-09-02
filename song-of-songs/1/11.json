@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ខ្សែពេជ្រមាស យើងនឹងធ្វើឲ្យអ្នក ជាមួយគ្រាប់ប្រាក់។",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "ខ្សែពេជ្រ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "មាស"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "យើងនឹងធ្វើ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ឲ្យអ្នក"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ជាមួយ"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "គ្រាប់"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ប្រាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:43:07.047341295Z",
+  "model": "glm-5.3"
+}

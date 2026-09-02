@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 22,
+  "translation": "ហើយទូតនៃយ៉ាវេបានហៅទៅអាវរ៉ាហាំ ម្តងទីពីរ ពីផ្ទៃមេឃ។",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "បានហៅ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ទូត"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "អាវរ៉ាហាំ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ម្តងទីពីរ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ពី"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ផ្ទៃមេឃ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:04:47.363786656Z",
+  "model": "glm-5.3"
+}

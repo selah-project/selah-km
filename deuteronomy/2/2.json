@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ហើយយ៉ាវេបាននិយាយទៅអោយខ្ញុំថា",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយបាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ទៅអោយខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:57:03.525424958Z",
+  "model": "glm-5.3"
+}

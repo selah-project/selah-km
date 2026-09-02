@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅនៃបាក់ប៊ូក កូនចៅនៃហាក៊ូហ្វ៉ា កូនចៅនៃហារហូរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "បាក់ប៊ូក"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "ហាក៊ូហ្វ៉ា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "ហារហូរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:12.466475814Z",
+  "model": "glm-5.3"
+}

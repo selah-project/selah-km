@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ស្ហេម អារ្បាកស្ហាដ ស្ហេឡាក់។",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ស្ហេម"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "អារ្បាកស្ហាដ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ស្ហេឡាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:09.713803044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 48,
+  "translation": "ហើយនៅលើព្រំដែនដាន ពីភាគខាងកើត រហូតដល់ភាគទិសខាងលិច (សមុទ្រ) — អាស្ហេរមួយ។",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ហើយនៅលើ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ព្រំដែន"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ដាន"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ពីភាគ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ខាងកើត"
+    },
+    {
+      "surface": "עד",
+      "gloss": "រហូតដល់"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ភាគ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ទិសខាងលិច (សមុទ្រ)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "អាស្ហេរ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T07:50:23.183653875Z",
+  "model": "glm-5.3"
+}

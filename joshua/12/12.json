@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្តេចនៃអេក្លូន មួយ; ស្តេចនៃគេហ្សេរ មួយ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "អេក្លូន"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "គេហ្សេរ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:25:07.780479662Z",
+  "model": "glm-5.3"
+}

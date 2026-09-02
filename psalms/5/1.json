@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ដល់អ្នកដឹកនាំ តាមហនេហីឡូត ម៉ាសមៀរ របស់ដាវីឌ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ដល់អ្នកដឹកនាំ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "តាម"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "ហនេហីឡូត"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ម៉ាសមៀរ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "របស់ដាវីឌ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:38:51.807332191Z",
+  "model": "glm-5.3"
+}

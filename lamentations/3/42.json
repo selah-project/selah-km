@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "យើងខ្លួនឯង បានល្មើស ហើយបានប្រឆាំង; អ្នកមិនបានអត់ទោសឡើយ។",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "យើងខ្លួនឯង"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "បានល្មើស"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "ហើយបានប្រឆាំង"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "បានអត់ទោស"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:57.660239147Z",
+  "model": "glm-5.3"
+}

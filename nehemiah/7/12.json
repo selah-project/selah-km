@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅនៃអេឡាម មួយពាន់ ពីររយេហាសិបបួននាក់។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "អេឡាម"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "មួយពាន់"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ពីររយេ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហាសិប"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "និងបួន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:26.998680873Z",
+  "model": "glm-5.3"
+}

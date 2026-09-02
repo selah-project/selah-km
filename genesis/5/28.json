@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ឯឡេមេកបានរស់នៅ ១០០ ឆ្នាំ ៨០ ឆ្នាំ និង ២ ឆ្នាំ ហើយគាត់បានបង្កើតកូនប្រុសម្នាក់។",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "បានរស់នៅ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ឡេមេក"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "២"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "៨០"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "១០០"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    }
+  ],
+  "timestamp": "2026-09-02T01:54:38.510236173Z",
+  "model": "glm-5.3"
+}

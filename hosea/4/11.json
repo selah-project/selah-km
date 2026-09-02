@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ការលេងស្រី និងស្រាទំនើប និងស្រាថ្មី យកចិត្តទៅ។",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "ការលេងស្រី"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "និងស្រាទំនើប"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "និងស្រាថ្មី"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "យកទៅ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ចិត្ត"
+    }
+  ],
+  "timestamp": "2026-09-02T07:51:12.251639605Z",
+  "model": "glm-5.3"
+}

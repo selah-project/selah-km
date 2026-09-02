@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "ហើយយ៉ាវេនិយាយទៅកាន់ម៉ូស្ហេ ដោយសព្ទថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយនិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយសព្ទថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:46:33.472079229Z",
+  "model": "glm-5.3"
+}

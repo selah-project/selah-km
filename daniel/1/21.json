@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ហើយដានីយ៉ែលគង់នៅរហូតដល់ឆ្នាំទីមួយនៃកូរេស្ហ៍ ស្តេច។",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយ...គង់នៅ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ដានីយ៉ែល"
+    },
+    {
+      "surface": "עד",
+      "gloss": "រហូតដល់"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ទីមួយ"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "នៃកូរេស្ហ៍"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ស្តេច"
+    }
+  ],
+  "timestamp": "2026-09-02T09:58:51.821417922Z",
+  "model": "glm-5.3"
+}

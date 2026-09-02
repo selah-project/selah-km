@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 30,
+  "translation": "ក្រោមអ្នកបម្រើ ពេលគេសោយរាជ្យ; និងអ្នកល្ងង់ ពេលគេឆ្អែតនឹងបាយ។",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ក្រោម"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "អ្នកបម្រើ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ពេល"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "សោយរាជ្យ"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "និងអ្នកល្ងង់"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ពេល"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ឆ្អែត"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "បាយ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:20:43.873726142Z",
+  "model": "glm-5.3"
+}

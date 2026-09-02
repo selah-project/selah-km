@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ហើយលើកងទ័ពនៃកុលសម្ព័ន្ធរបស់កូនចៅ កាដ គឺ អែលយ៉ាសាវ្វ កូនរបស់ ដេអួអែល។",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ហើយលើ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "កងទ័ព"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "កុលសម្ព័ន្ធ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "កាដ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "អែលយ៉ាសាវ្វ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនរបស់"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ដេអួអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T03:34:30.901199412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ក៏មិនត្រូវជាប់សហាយ (ធ្វើល្មិន) ដែរ។",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ក៏មិន...ដែរ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ត្រូវជាប់សហាយ"
+    }
+  ],
+  "timestamp": "2026-09-02T12:38:44.503980209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 43,
+  "translation": "ហើយគាត់បាននាំខ្ញុំទៅកាន់ទ្វារ គឺទ្វារដែលឆ្ពោះទៅទិសខាងកើត។",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "ហើយគាត់បាននាំខ្ញុំ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ទ្វារ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ទ្វារ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ឆ្ពោះ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ទៅរក"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ទិសខាងកើត"
+    }
+  ],
+  "timestamp": "2026-09-02T07:47:07.112352669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "អ្នកកំពុងឆ្លងកាត់ ⟨את⟩ ព្រំដែននៃម៉ូអាប គឺ ⟨את⟩ អារ នៅថ្ងៃនេះ ៖",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "កំពុងឆ្លងកាត់"
+    },
+    {
+      "surface": "היום",
+      "gloss": "នៅថ្ងៃនេះ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ព្រំដែននៃម៉ូអាប"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ព្រំដែន"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ម៉ូអាប"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អារ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "អារ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:56:45.648261783Z",
+  "model": "glm-5.3"
+}

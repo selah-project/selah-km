@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 35,
+  "translation": "កូនប្រុសទាំងឡាយរបស់រ៉ាជែល គឺ យ៉ូសែប និងប៊ីញ៉ាមីន។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនប្រុសទាំងឡាយរបស់"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "រ៉ាជែល"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "យ៉ូសែប"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ប៊ីញ៉ាមីន"
+    }
+  ],
+  "timestamp": "2026-09-02T02:16:15.626527143Z",
+  "model": "glm-5.3"
+}

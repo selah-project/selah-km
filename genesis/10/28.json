@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "និង ⟨את⟩ អូវ៉ាល និង ⟨את⟩ អាប៊ីម៉ាអែល និង ⟨את⟩ ស្ហេវ៉ា។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អូវ៉ាល"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "អូវ៉ាល"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អាប៊ីម៉ាអែល"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "អាប៊ីម៉ាអែល"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ស្ហេវ៉ា"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ស្ហេវ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T01:57:27.325630075Z",
+  "model": "glm-5.3"
+}

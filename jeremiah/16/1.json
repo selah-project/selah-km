@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 16,
+  "translation": "ពាក្យនៃយ៉ាវេបានមកដល់ខ្ញុំ ⟨ដោយពោលថា⟩",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ក៏បានកើតមាន"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:49:20.717156223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 18,
+  "translation": "អ្នកនឹងជាទាំងស្រុង ជាមួយ យ៉ាវេ អេឡូហ៊ីមរបស់អ្នក។",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "ទាំងស្រុង"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "អ្នកនឹងជា"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ជាមួយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "អេឡូហ៊ីមរបស់អ្នក"
+    }
+  ],
+  "timestamp": "2026-09-02T04:09:17.284829930Z",
+  "model": "glm-5.3"
+}

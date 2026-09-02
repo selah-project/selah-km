@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 33,
+  "translation": "សូមឱ្យរ៉អូប៊ែនរស់ កុំឱ្យស្លាប់ ហើយសូមឱ្យបុរសៗរបស់គាត់មានចំនួន(តិច)។",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "សូមឱ្យរស់"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "រ៉អូប៊ែន"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "កុំឱ្យ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "ស្លាប់"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយសូមឱ្យមាន"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "បុរសៗរបស់គាត់"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ចំនួន"
+    }
+  ],
+  "timestamp": "2026-09-02T04:18:13.826424311Z",
+  "model": "glm-5.3"
+}

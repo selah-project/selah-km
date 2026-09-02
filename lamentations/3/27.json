@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ល្អសម្រាប់បុរសម្នាក់ ក្នុងការទទួលយកនូវអវុធនៅនៅវ័យក្មេងរបស់គាត់។",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ល្អ"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "សម្រាប់បុរសម្នាក់"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ក្នុងការដែល"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ទទួលយក"
+    },
+    {
+      "surface": "על",
+      "gloss": "នូវអវុធនៅ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "នៅវ័យក្មេងរបស់គាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:57.777650243Z",
+  "model": "glm-5.3"
+}

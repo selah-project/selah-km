@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ពាក្យរបស់យ៉ាវេបានមកដល់យូណាម្ដងទីពីរ ដោយពោលថា",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "នោះបានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "យូណា"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ម្ដងទីពីរ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T08:04:26.442757640Z",
+  "model": "glm-5.3"
+}

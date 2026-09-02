@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "អ៊ីរ៉ា យីទ្រី ហ្គារែប យីទ្រី។",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "អ៊ីរ៉ា"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "យីទ្រី"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ហ្គារែប"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "យីទ្រី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:33:23.395903370Z",
+  "model": "glm-5.3"
+}

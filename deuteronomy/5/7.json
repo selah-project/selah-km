@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "កុំ​ឱ្យ​មាន ⟨សំរាប់⟩ អ្នក ព្រះ​ផ្សេងៗ នៅ​ពីមុខ​ព្រះនាម​របស់​យ៉ាវេ",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "កុំឱ្យ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "לך",
+      "gloss": "សំរាប់អ្នក"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ព្រះ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ផ្សេងៗ"
+    },
+    {
+      "surface": "על",
+      "gloss": "នៅលើ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "មុខ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:59:10.379132468Z",
+  "model": "glm-5.3"
+}

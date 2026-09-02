@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្តេចនៃយេរីហូ មួយ; ស្តេចនៃហៃ ⟨ដែល⟩ ស្ថិតនៅខាងកើតបេតអែល មួយ;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "យេរីហូ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ហៃ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ដែល⟩"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ខាងកើត"
+    },
+    {
+      "surface": "בית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "אל",
+      "gloss": "អែល"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:25:07.779932434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ចានមាសមួយ ទម្ងន់ដប់ស្ហេកែល បំពេញដោយគ្រឿងក្រអូប។",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ចាន"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "មាស"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "បំពេញ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "គ្រឿងក្រអូប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:31:32.341971452Z",
+  "model": "glm-5.3"
+}

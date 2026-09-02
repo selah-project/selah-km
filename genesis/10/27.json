@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "និង ⟨את⟩ ហាដោរ៉ាម និង ⟨את⟩ អ៊ូសាល និង ⟨את⟩ ឌិកឡាហ។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ហាដោរ៉ាម"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ហាដោរ៉ាម"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អ៊ូសាល"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "អ៊ូសាល"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ឌិកឡាហ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ឌិកឡាហ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:57:27.325442606Z",
+  "model": "glm-5.3"
+}

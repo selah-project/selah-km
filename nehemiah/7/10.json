@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅនៃអារ៉ាហ ប្រាំមួយរយេហាសិបពីរនាក់។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "អារ៉ាហ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ប្រាំមួយ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយេ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហាសិប"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "និងពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:26.998348052Z",
+  "model": "glm-5.3"
+}

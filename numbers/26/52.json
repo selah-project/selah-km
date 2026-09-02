@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 26,
+  "translation": "ហើយយ៉ាវេទ្រង់មានបន្ទូលទៅម៉ូស្ហេ ថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយ...ទ្រង់មានបន្ទូល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:49:06.493492370Z",
+  "model": "glm-5.3"
+}

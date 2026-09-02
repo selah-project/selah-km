@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "តសេនាន និងហាដាស្ហ៉ា និងមិក្ដល-គាដ",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "តសេនាន"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "និងហាដាស្ហ៉ា"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "និងមិក្ដល"
+    },
+    {
+      "surface": "גד",
+      "gloss": "គាដ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:17.194461036Z",
+  "model": "glm-5.3"
+}

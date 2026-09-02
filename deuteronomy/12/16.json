@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "តែឈាម អ្នកទាំងឡាយមិនត្រូវស៊ីឡើយ; លើដីអ្នកនឹងចាក់វាចេញដូចជាទឹក",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "តែ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ឈាម"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិនត្រូវ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "អ្នកទាំងឡាយស៊ី"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ដី"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "អ្នកនឹងចាក់វាចេញ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ដូចជាទឹក"
+    }
+  ],
+  "timestamp": "2026-09-02T04:05:36.398248044Z",
+  "model": "glm-5.3"
+}

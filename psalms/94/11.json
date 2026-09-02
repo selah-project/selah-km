@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 94,
+  "translation": "យ៉ាវេដឹងនូវគំនិតរបស់មនុស្ស ថាទាំងនោះជាខ្យល់ឥតប្រយោជន៍",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ដឹង"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "គំនិត"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ទាំងនោះ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ខ្យល់ឥតប្រយោជន៍"
+    }
+  ],
+  "timestamp": "2026-09-02T08:50:57.265682182Z",
+  "model": "glm-5.3"
+}

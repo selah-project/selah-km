@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "សភាទាំងអស់ដូចជាមនុស្សម្នាក់ ចំនួនបួនម៉ឺន ពីរពាន់ បីរយ ហុកសិបប្រាំមួយ។",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "សភា"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ដូចជាមនុស្សម្នាក់"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "បួន"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ម៉ឺន"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពីរពាន់"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ហុកសិបប្រាំមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:02.271913261Z",
+  "model": "glm-5.3"
+}

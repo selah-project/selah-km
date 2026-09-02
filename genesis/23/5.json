@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "បណ្ដាកូនចៅនៃហតបានឆ្លើយតបទៅ ⟨את⟩ អាវរ៉ាហាំ ដើម្បីនិយាយទៅគាត់ថា",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "បានឆ្លើយតប"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ហត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អាវរ៉ាហាំ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "អាវរ៉ាហាំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីនិយាយ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ទៅគាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T02:04:13.816046420Z",
+  "model": "glm-5.3"
+}

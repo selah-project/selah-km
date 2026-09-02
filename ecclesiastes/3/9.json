@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "តើផលចំណេញអ្វីមានដល់អ្នកធ្វើ ក្នុងអ្វីដែលគាត់ពុកពយនឹងវា?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "តើអ្វី"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ផលចំណេញ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ដល់អ្នកធ្វើ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ក្នុងអ្វីដែល"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "គាត់"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ពុកពយនឹងវា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:49.023593991Z",
+  "model": "glm-5.3"
+}

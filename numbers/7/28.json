@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពពីមួយ សម្រាប់ជាគារប្រព្រឹត្តិបទ។",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ពពី"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "នៃឆ្មារ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "សម្រាប់ជាគារប្រព្រឹត្តិបទ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:30:48.923130510Z",
+  "model": "glm-5.3"
+}

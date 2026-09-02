@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "អាចារ្យទាំងឡាយនៃ មីខា គឺ ពីថោន វ៉ាមែលែក និងតាហ្រែអាផ្សា។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "កូនប្រុសទាំងឡាយនៃ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "មីខា"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ពីថោន"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "វ៉ាមែលែក"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "និងតាហ្រែអាផ្សា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:34:28.187513411Z",
+  "model": "glm-5.3"
+}

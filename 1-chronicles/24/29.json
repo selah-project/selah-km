@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "របស់គិស្ហ គឺបុត្រគិស្ហ គឺយេរ៉ាក់ម៉េអែល។",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "របស់គិស្ហ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "គិស្ហ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "យេរ៉ាក់ម៉េអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T13:37:23.908520273Z",
+  "model": "glm-5.3"
+}

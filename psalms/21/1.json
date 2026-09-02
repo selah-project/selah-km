@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "ដល់អ្នកនាំច្រៀង មជ្ឈមាត្រនៃដាវីដ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ដល់អ្នកនាំច្រៀង"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "មជ្ឈមាត្រ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "នៃដាវីដ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:27:32.785407485Z",
+  "model": "glm-5.3"
+}

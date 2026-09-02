@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 5:1",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "យ៉ាវេបានមានប្រសាសន៍ទៅកាន់ម៉ូស្ហេ ឱ្យថាថា ៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានមានប្រសាសន៍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ឱ្យថាថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:32:09.024836613Z",
+  "model": "glm-5.3"
+}

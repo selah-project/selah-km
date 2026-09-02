@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្តេចនៃម៉ាក្កេដាហ៍ មួយ; ស្តេចនៃប៉េត-អែល មួយ។",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "ម៉ាក្កេដាហ៍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ប៉េត-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "អែល"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:17:27.501566310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ទីប្រាំ ដល់ម៉ាល់គីយ៉ា; ទីប្រាំមួយ ដល់មីយ៉ាមីន។",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "ដល់ម៉ាល់គីយ៉ា"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ទីប្រាំ"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "ដល់មីយ៉ាមីន"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ទីប្រាំមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:40:47.036523861Z",
+  "model": "glm-5.3"
+}

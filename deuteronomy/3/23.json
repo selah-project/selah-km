@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ហើយខ្ញុំបានអង្វរករុណាដល់យ៉ាវេ នៅពេលនោះ ថា",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "ខ្ញុំបានអង្វរករុណា"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "នៅពេល"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "នោះ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:57:14.974220927Z",
+  "model": "glm-5.3"
+}

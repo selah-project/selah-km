@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 5:11",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ហើយយ៉ាវេបាននិយាយទៅម៉ូស្ហេ ទាំងនិយាយថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ទាំងនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:30:22.561769102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "និងបានី និងបិនណូយ ស្ហីមស៊ី។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "និងបានី"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "និងបិនណូយ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ស្ហីមស៊ី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:15:33.601136578Z",
+  "model": "glm-5.3"
+}

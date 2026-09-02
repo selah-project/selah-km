@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 48,
+  "translation": "បទចម្រៀង បទភ្លេងដែលប្រគំ របស់កូនចៅកូរ៉ាច។",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "បទចម្រៀង"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "បទភ្លេងដែលប្រគំ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "របស់កូនចៅ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "កូរ៉ាច"
+    }
+  ],
+  "timestamp": "2026-09-02T08:35:37.245087479Z",
+  "model": "glm-5.3"
+}

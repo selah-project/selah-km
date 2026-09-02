@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "មនុស្សនៃបេថ-ឡេខេម និងណេតូហ្វា មួយរយប៉ែតសិបប្រាំបី។",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "មនុស្សនៃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "បេថ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ឡេខេម"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "និងណេតូហ្វា"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ប៉ែតសិប"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ប្រាំបី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:10.048488382Z",
+  "model": "glm-5.3"
+}

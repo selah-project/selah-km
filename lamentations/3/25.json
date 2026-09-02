@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "យ៉ាវេល្អចំពោះអ្នកដែលរង់ចាំទ្រង់ ចំពោះនេហ្វេស្ហដែលស្វែងរកទ្រង់។",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ល្អ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "ចំពោះអ្នកដែលរង់ចាំ"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ចំពោះនេហ្វេស្ហ"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ដែលស្វែងរកទ្រង់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:57.777289274Z",
+  "model": "glm-5.3"
+}

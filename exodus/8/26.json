@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ហើយម៉ូស្ហេបានចេញចាកពីប៉ារ៉ូ ហើយបានអង្វរករុណាថ្វាយបងវ។",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ហើយបានចេញ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ចាកពី"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ប៉ារ៉ូ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ហើយបានអង្វរ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:35:39.409101458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ហើយយ៉ាវេបាននិយាយទៅកាន់យេហូស្ហួ ដោយពោលថា។",
+  "tokens": [
+    {
+      "surface": "ויאមר",
+      "gloss": "ហើយបាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "យេហូស្ហួ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:18:54.996318827Z",
+  "model": "glm-5.3"
+}

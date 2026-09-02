@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ហាស្ហ៊ូប៉ា អូហែល បេរេគីយ៉ា ហាសាដីយ៉ា យូស្ហាប់-ហេសែដ — ប្រាំនាក់។",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "ហាស្ហ៊ូប៉ា"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "អូហែល"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "បេរេគីយ៉ា"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "ហាសាដីយ៉ា"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "យូស្ហាប់"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "-ហេសែដ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ប្រាំនាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:29:35.284265241Z",
+  "model": "glm-5.3"
+}

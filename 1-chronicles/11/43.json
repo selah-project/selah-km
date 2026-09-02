@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ចាណា កូនប្រុសម៉ាអាខា និងយ៉ោស្ហាហ្វាត ឈ្មោះមិតនិ។",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ចាណា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ម៉ាអាខា"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "និងយ៉ោស្ហាហ្វាត"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "ឈ្មោះមិតនិ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:33:24.829782704Z",
+  "model": "glm-5.3"
+}

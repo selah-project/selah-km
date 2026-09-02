@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "នៅក្នុងរថទីមួយ មានសេះពណ៌ក្រហម ហើយនៅក្នុងរទីពីរ មានសេះពណ៌ខ្មៅ។",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "នៅក្នុងរថ"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "ទីមួយ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "សេះ"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ពណ៌ក្រហម"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ហើយនៅក្នុងរថ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ទីពីរ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "សេះ"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "ពណ៌ខ្មៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:38:58.346798605Z",
+  "model": "glm-5.3"
+}

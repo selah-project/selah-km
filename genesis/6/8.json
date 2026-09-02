@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "តែណូអាខបានរកឃើញព្រះគុណនៅក្នុងភ្នែកនៃយ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "តែណូអាខ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "បានរកឃើញ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ព្រះគុណ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "នៅក្នុងភ្នែកនៃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:55:25.801248041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "ហើយចូរដាក់ម្រាមដាវនៅលើកអ្នក ប្រសិនបើអ្នកជាមនុស្សមានចំណង់។",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ហើយចូរដាក់"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "ម្រាមដាវ"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "នៅលើកអ្នក"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ប្រសិនបើ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ម្ចាស់នៃ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ចំណង់"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "អ្នក"
+    }
+  ],
+  "timestamp": "2026-09-02T09:19:38.480399237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "និង នោហ្គា និង នេហ្វេគ និង យ៉ាហ្វ៊ីអ។",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "និង នោហ្គា"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "និង នេហ្វេគ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "និង យ៉ាហ្វ៊ីអ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:35:56.147338460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "ល្អជាង គឺអ្នកក្រដែលដើរក្នុងភាពសុចរិត ជាងអ្នកវេចផ្លូវ ដែលជាអ្នកមាន។",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ល្អជាង"
+    },
+    {
+      "surface": "רש",
+      "gloss": "អ្នកក្រ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ដើរ"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "ក្នុងភាពសុចរិត"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "អ្នកវេច"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "ផ្លូវ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ដែលជា"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "អ្នកមាន"
+    }
+  ],
+  "timestamp": "2026-09-02T09:21:28.426513898Z",
+  "model": "glm-5.3"
+}

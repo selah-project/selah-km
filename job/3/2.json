@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ហើយអ៊ីយ៉ូបបានឆ្លើយតប ហើយនិយាយថា៖",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ហើយបានឆ្លើយតប"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "អ៊ីយ៉ូប"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:23:46.421606961Z",
+  "model": "glm-5.3"
+}

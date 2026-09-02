@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "សត្វស្លាបស្អាតទាំងអស់ អ្នកទាំងឡាយបានស៊ី។",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "សត្វស្លាប"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ស្អាត"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "អ្នកទាំងឡាយបានស៊ី"
+    }
+  ],
+  "timestamp": "2026-09-02T04:04:45.039271435Z",
+  "model": "glm-5.3"
+}

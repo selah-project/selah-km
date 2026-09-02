@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "កូនប្រុសរបស់ខ្ញុំ បើអ្នកមានបាបល្បួងអ្នក អ្នកកុំព្រម។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនប្រុសរបស់ខ្ញុំ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "បើ"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ល្បួង"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "អ្នកមានបាប"
+    },
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ព្រម"
+    }
+  ],
+  "timestamp": "2026-09-02T09:07:47.837792113Z",
+  "model": "glm-5.3"
+}

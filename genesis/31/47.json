@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "ហើយលាវ៉ានបានហៅវាថា យេហ្ការ ស្ហាហាឌូតាថា ចំណែកយ៉ាកុបបានហៅវាថា ហ្កលអែដ។",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ហើយបានហៅ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "វា"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "លាវ៉ាន"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "យេហ្ការ"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "ស្ហាហាឌូតាថា"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "យ៉ាកុប"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "បានហៅ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "វា"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ហ្កលអែដ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:14:05.015686537Z",
+  "model": "glm-5.3"
+}

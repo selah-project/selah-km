@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និងគេដូរ និងអាហ្គ៊ីយ៉ូ និងហ្ស៊េខេរ។",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "និងគេដូរ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "និងអាហ្គ៊ីយ៉ូ"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "និងហ្ស៊េខេរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:34.852133803Z",
+  "model": "glm-5.3"
+}

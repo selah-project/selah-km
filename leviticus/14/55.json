@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "និងសម្រាប់ស្រេអ៉ត់នៃសំពត់ និងនៃផ្ទះ។",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "និងសម្រាប់ស្រេអ៉ត់"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "សំពត់"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "និងនៃផ្ទះ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:12:02.233864876Z",
+  "model": "glm-5.3"
+}

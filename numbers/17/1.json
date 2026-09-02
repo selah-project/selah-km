@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 17,
+  "translation": "យ៉ាវេបាននិយាយទៅកាន់ម៉ូស្ហេ ដើម្បីថា ថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:41:18.806179348Z",
+  "model": "glm-5.3"
+}

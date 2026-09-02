@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "km",
+  "chapter": 38,
+  "translation": "ទីណាគឺផ្លូវដែលពន្លឺគង់នៅ ហើយទីងងឹត ទីណាគឺទីកន្លែងនៃវា?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ទីណា"
+    },
+    {
+      "surface": "זה",
+      "gloss": "គឺ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ផ្លូវ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "គង់នៅ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ពន្លឺ"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ហើយទីងងឹត"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ទីណា"
+    },
+    {
+      "surface": "זה",
+      "gloss": "គឺ"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ទីកន្លែងនៃវា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:41:54.149147676Z",
+  "model": "glm-5.3"
+}

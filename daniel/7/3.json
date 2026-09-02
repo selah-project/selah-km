@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ហើយសត្វធំៗទាំងបួន បានឡើងមកពីសមុទ្រ ខុសៗគ្នា មួយពីមួយ។",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "ហើយបួន"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "សត្វទាំង"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "ធំៗ"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "បានឡើងមក"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ពី"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "សមុទ្រ"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ខុសៗគ្នា"
+    },
+    {
+      "surface": "דא",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ពី"
+    },
+    {
+      "surface": "דא",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:08:08.747469422Z",
+  "model": "glm-5.3"
+}

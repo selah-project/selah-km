@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "ហើយបានគេប្រាប់ទៅលាបាន នៅថ្ងៃទីបី ថា យ៉ាកោបបានភាសខ្លួនទៅ។",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ហើយបានគេប្រាប់"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ទៅលាបាន"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "នៅថ្ងៃ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ទីបី"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "បានភាសខ្លួនទៅ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "យ៉ាកោប"
+    }
+  ],
+  "timestamp": "2026-09-02T02:12:04.363743831Z",
+  "model": "glm-5.3"
+}

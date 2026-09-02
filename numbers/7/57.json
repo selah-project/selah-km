@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "គោមួយ កូនគោ ចៀមឈ្មោលមួយ កូនចៀមមួយ កូនអាយុមួយឆ្នាំ ដើម្បីជាយញ្ញបូជា។",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "គោមួយ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "គោ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ចៀមឈ្មោលមួយ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "កូនចៀមមួយ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "អាយុមួយឆ្នាំ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ដើម្បីជាយញ្ញបូជា"
+    }
+  ],
+  "timestamp": "2026-09-02T11:14:38.659640136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ព្រោះក្នុងសុបិនច្រើន និងអន្តរាយ និងពាក្យជាច្រើន — តែ ⟨ចូរ⟩ កោតខ្លាច ⟨את⟩ អេឡូហ៊ីម។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ក្នុងចំនួនច្រើននៃ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "សុបិន"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "និងអន្តរាយ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "និងពាក្យ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ជាច្រើន"
+    },
+    {
+      "surface": "כי",
+      "gloss": "តែ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អេឡូហ៊ីម"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "អេឡូហ៊ីម"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "កោតខ្លាច"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:30.807063941Z",
+  "model": "glm-5.3"
+}

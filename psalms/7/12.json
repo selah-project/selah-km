@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "អេឡូហ៊ីមជាចៅក្រមដ៏ស្របតាមធម៌ ហើយអែលកំព្បែរគ្រប់ៗថ្ងៃ។",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "អេឡូហ៊ីម"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ជាចៅក្រម"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ដ៏ស្របតាមធម៌"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ហើយអែល"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "កំព្បែរ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "គ្រប់ៗ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T13:17:21.798186927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "ហើយយ៉ាកបបានចេញពីប៊ីអេរ-ស្ហែបា ហើយបានទៅ ⟨ទៅកាន់⟩ ស្ហារ៉ាន។",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ហើយបានចេញ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "យ៉ាកប"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ពីប៊ីអេរ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-ស្ហែបា"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ហើយបានទៅ"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ស្ហារ៉ាន"
+    }
+  ],
+  "timestamp": "2026-09-02T02:10:08.808689601Z",
+  "model": "glm-5.3"
+}

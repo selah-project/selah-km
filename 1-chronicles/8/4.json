@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និងអាប៊ីស្ហូអ និងនាអាម៉ាន និងអាហោអ៉ាហ។",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "និងអាប៊ីស្ហូអ"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "និងនាអាម៉ាន"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "និងអាហោអ៉ាហ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:12.559156974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ហើយនៅខែទីពីរ នៅថ្ងៃទីប្រាំពីរ និងម្ភៃ នៃខែ ផែនដីបានស្ងួតអស់។",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ហើយនៅខែ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ទីពីរ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "នៅប្រាំពីរ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "និងម្ភៃ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "នៃខែ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "បានស្ងួត"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ផែនដី"
+    }
+  ],
+  "timestamp": "2026-09-02T01:55:34.721330120Z",
+  "model": "glm-5.3"
+}

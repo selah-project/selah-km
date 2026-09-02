@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និង ស្ហាមស្ហេរ៉ាយ និង ស្ហេហារីយ៉ា និង អាថាលីយ៉ា។",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "និង ស្ហាមស្ហេរ៉ាយ"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "និង ស្ហេហារីយ៉ា"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "និង អាថាលីយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:04.224658877Z",
+  "model": "glm-5.3"
+}

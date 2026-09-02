@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ទីប្រាំពីរ ដល់ហាកូតស៍; ទីប្រាំបី ដល់អាប៊ីយ៉ា។",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ដល់ហាកូតស៍"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ទីប្រាំពីរ"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ដល់អាប៊ីយ៉ា"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ទីប្រាំបី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:40:47.036774473Z",
+  "model": "glm-5.3"
+}

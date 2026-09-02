@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 16,
+  "translation": "ហើយយ៉ាវេបានទូលគង្គាទៅម៉ូស្ហេថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានទូលគង្គាទៅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា៖"
+    }
+  ],
+  "timestamp": "2026-09-02T02:40:57.229215650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ហើយបើតង្វាយរបស់គាត់ជាពពែ គាត់នឹងនាំវាមកនៅមុខយ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ហើយបើ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ពពែ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "តង្វាយរបស់គាត់"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "គាត់នឹងនាំវាមក"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "នៅមុខ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:02:21.293250537Z",
+  "model": "glm-5.3"
+}

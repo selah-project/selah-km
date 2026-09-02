@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "អ៊ូរីយ៉ា ឈ្មោះហ៊ីត ស្បាដ កូនប្រុសអាខ្លៃ។",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "អ៊ូរីយ៉ា"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ឈ្មោះហ៊ីត"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ស្បាដ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "អាខ្លៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:33:24.829361318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "អ៊ីភតាច អាស្ហនា និងនេតស៊ីប",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "អ៊ីភតាច"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "អាស្ហនា"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "នេតស៊ីប"
+    }
+  ],
+  "timestamp": "2026-09-02T11:17:22.238321388Z",
+  "model": "glm-5.3"
+}

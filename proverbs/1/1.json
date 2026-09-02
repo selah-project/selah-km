@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "សុភាសិតនៃស្ហាឡូម៉ូ បុត្រនៃដាវីដ ស្ដេចនៃយីស្រាអែល —",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "សុភាសិតនៃ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ស្ហាឡូម៉ូ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ដាវីដ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្ដេចនៃ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "យីស្រាអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T09:08:06.766199177Z",
+  "model": "glm-5.3"
+}

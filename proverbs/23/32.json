@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "ចុងក្រោយរបស់វា នឹងខាំដូចពស់ និងនឹងចាក់ដូចពស់វែក។",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "ចុងក្រោយរបស់វា"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "ដូចពស់"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "នឹងខាំ"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "និងដូចពស់វែក"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "នឹងចាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:19:52.190748173Z",
+  "model": "glm-5.3"
+}

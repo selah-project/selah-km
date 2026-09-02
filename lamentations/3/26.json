@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ល្អនៅពេលមនុស្សរង់ចាំដោយស្ងាត់ ចំពោះសេចក្ដីសង្គ្រោះពីយ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ល្អ"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "រង់ចាំ"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "ដោយស្ងាត់"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "ចំពោះសេចក្ដីសង្គ្រោះ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ពីយ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:57.777500980Z",
+  "model": "glm-5.3"
+}

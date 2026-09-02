@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ព្រោះការជិះជាន់ធ្វើឱ្យអ្នកឈ្លាសវៃរវឹក ហើយអំណោយបំផ្លាញ ⟨את⟩ ចិត្ត។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ការជិះជាន់"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ធ្វើឱ្យរវឹក"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "អ្នកឈ្លាសវៃ"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ហើយបំផ្លាញ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ចិត្ត"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ចិត្ត"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "អំណោយ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:50:13.042379140Z",
+  "model": "glm-5.3"
+}

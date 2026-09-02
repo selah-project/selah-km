@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ស្បែករបស់យើង ដូចជាក្រី បានឆេះខ្មៅ ដោយសារអណ្តាតភ្លើងនៃទុរ្ភកម្ម។",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "ស្បែករបស់យើង"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ដូចជាក្រី"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "បានឆេះខ្មៅ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ដោយសារ"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "អណ្តាតភ្លើង"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ទុរ្ភកម្ម"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:12.580451984Z",
+  "model": "glm-5.3"
+}

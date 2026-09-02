@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "km",
+  "chapter": 42,
+  "translation": "បានឃើញច្រើនបែប តែមិនរក្សាទុក; ត្រចៀកបើកចំហ តែមិនឮ។",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "បានឃើញ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ច្រើនបែប"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "តែមិន"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "រក្សាទុក"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "បើកចំហ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ត្រចៀក"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "តែមិន"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ឮ"
+    }
+  ],
+  "timestamp": "2026-09-02T06:24:23.810267123Z",
+  "model": "glm-5.3"
+}

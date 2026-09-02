@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 40,
+  "translation": "ដល់អ្នកដឹកនាំភ្លេង នៃដាវីត ទំនុកចម្រៀង។",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ដល់អ្នកដឹកនាំភ្លេង"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "នៃដាវីត"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ទំនុកចម្រៀង"
+    }
+  ],
+  "timestamp": "2026-09-02T08:33:31.099688842Z",
+  "model": "glm-5.3"
+}

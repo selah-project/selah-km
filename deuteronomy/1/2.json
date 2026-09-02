@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ដប់មួយថ្ងៃ ⟨ពី⟩ ហុរេប តាមផ្លូវភ្នំស៉េអ៊ីរ រហូតដល់កាដេស-បារ្នេអា។",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ពីហុរេប"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "តាមផ្លូវ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ភ្នំ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ស៉េអ៊ីរ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "រហូតដល់"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "កាដេស"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "បារ្នេអា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:57:12.041198736Z",
+  "model": "glm-5.3"
+}

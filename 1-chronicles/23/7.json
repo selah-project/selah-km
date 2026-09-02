@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "របស់គេរស្ហូនី គឺ ឡាដាន និង ស្ហិមអ៊ី។",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "របស់គេរស្ហូនី"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ឡាដាន"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "និងស្ហិមអ៊ី"
+    }
+  ],
+  "timestamp": "2026-09-02T13:36:41.091976413Z",
+  "model": "glm-5.3"
+}

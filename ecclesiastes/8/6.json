@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ដ្បិតសម្រាប់គ្រប់ចិត្តចង់ មានពេលវេលា និងការវិនិច្ឆ័យ; ដ្បិតទុក្ខរបស់មនុស្សធ្ងន់លើគាត់។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "សម្រាប់គ្រប់"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ចិត្តចង់"
+    },
+    {
+      "surface": "יש",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ពេលវេលា"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "និងការវិនិច្ឆ័យ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ទុក្ខរបស់"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ធ្ងន់"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "លើគាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:35.560582621Z",
+  "model": "glm-5.3"
+}

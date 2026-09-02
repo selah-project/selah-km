@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "អ៊ីស្រាអែលក៏បានតាំងទីលំនៅក្នុងដីនៃអេម៉ូរី។",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ក៏បានតាំងទីលំនៅ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រាអែល"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ក្នុងដី"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "នៃអេម៉ូរី"
+    }
+  ],
+  "timestamp": "2026-09-02T03:43:35.830346160Z",
+  "model": "glm-5.3"
+}

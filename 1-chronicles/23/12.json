@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "បុត្ររបស់កូហាតគឺ អំរ៉ាម យីតសាហរ ហេប្រូន និងអ៊ូហ្ស៊ីអែល បួននាក់។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "បុត្ររបស់"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "កូហាត"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "អំរ៉ាម"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "យីតសាហរ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ហេប្រូន"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "អ៊ូហ្ស៊ីអែល"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "បួននាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:41:06.771127073Z",
+  "model": "glm-5.3"
+}

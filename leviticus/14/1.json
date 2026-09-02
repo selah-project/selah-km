@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "ហើយយ៉ាវេបានមានប្រសាសន៍ទៅម៉ូស្ហេ ដោយសូត្រថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបានមានប្រសាសន៍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយសូត្រថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:12:22.949271308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "មកទៅ សង្សាររបស់ខ្ញុំ តោះចេញទៅវាល តោះសម្រាកពេលយប់នៅតាមភូមិ។",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "មកទៅ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "សង្សាររបស់ខ្ញុំ"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "តោះចេញទៅ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "វាល"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "តោះសម្រាកពេលយប់"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "នៅតាមភូមិ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:45:42.780616688Z",
+  "model": "glm-5.3"
+}

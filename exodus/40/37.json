@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 40,
+  "translation": "ប្រសិនបើពពកមិនឡើងទេ នោះពួកគេមិនធ្វើដំណើរទេ រហូតដល់ថ្ងៃដែលវាឡើង។",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ប្រសិនបើ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ឡើង"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ពពក"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "នោះ…មិន"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "ធ្វើដំណើរ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "រហូតដល់"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "ដែលវាឡើង"
+    }
+  ],
+  "timestamp": "2026-09-02T03:00:44.331605167Z",
+  "model": "glm-5.3"
+}

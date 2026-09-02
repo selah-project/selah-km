@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "សម្រាប់កុលសម្ព័ន្ធស្ហិម៉ូន ស្ហាហ្វាត់ កូនប្រុសហោរី។",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "សម្រាប់កុលសម្ព័ន្ធ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ស្ហិម៉ូន"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ស្ហាហ្វាត់"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ហោរី"
+    }
+  ],
+  "timestamp": "2026-09-02T03:35:40.362281140Z",
+  "model": "glm-5.3"
+}

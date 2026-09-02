@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 42,
+  "translation": "លោក​បាន​វាង​ទៅ ទិស​ខាង​លិច លោក​បាន​វាស់ ប្រាំ​រយ​ជញ្ជីង ដោយ​ជញ្ជីង​វាស់។",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "បាន​វាង​ទៅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ទិស"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ខាង​លិច"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "បាន​វាស់"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ប្រាំ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ជញ្ជីង"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ដោយ​ជញ្ជីង"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "វាស់"
+    }
+  ],
+  "timestamp": "2026-09-02T07:45:52.020010966Z",
+  "model": "glm-5.3"
+}

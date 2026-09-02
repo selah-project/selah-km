@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្តេចនៃតាអាណាក់ ម្នាក់; ស្តេចនៃម៉េគីដូ ម្នាក់។",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "តាអាណាក់"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ម្នាក់"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "ម៉េគីដូ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ម្នាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T04:25:16.600599034Z",
+  "model": "glm-5.3"
+}

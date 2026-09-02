@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "នៃស៉ាឡៃ ក៉ាឡៃ; នៃអ៉ាម៉ូក អេវែរ។",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "នៃស៉ាឡៃ"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "ក៉ាឡៃ"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "នៃអ៉ាម៉ូក"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "អេវែរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:25:30.046932933Z",
+  "model": "glm-5.3"
+}

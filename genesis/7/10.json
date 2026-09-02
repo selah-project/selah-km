@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ហើយពេលដល់ថ្ងៃទីប្រាំពីរ ទឹកនៃទីជំនន់បានមានលើផែនដី។",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយពេលដល់"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "នៅថ្ងៃទីប្រាំពីរ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ហើយទឹក"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "នៃទីជំនន់"
+    },
+    {
+      "surface": "היו",
+      "gloss": "បានមាន"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ផែនដី"
+    }
+  ],
+  "timestamp": "2026-09-02T01:55:15.264329633Z",
+  "model": "glm-5.3"
+}

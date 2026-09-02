@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "យិរមេយ៉ាហ៊ូ ជាអ្នកទីដប់ ម៉ាកបានណាយ ជាអ្នកទីដប់មួយ។",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "យិរមេយ៉ាហ៊ូ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ជាអ្នកទីដប់"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "ម៉ាកបានណាយ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ទីដប់មួយ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:36:34.790993365Z",
+  "model": "glm-5.3"
+}

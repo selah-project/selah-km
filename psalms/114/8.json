@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 114,
+  "translation": "ដែលបង្វែរ ដូនប៉ះ ទៅជាស្រះទឹក; ថ្មរឹង ទៅជាប្រភពទឹក។",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "ដែលបង្វែរ"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ដូនប៉ះ"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ស្រះទឹក"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ទឹក"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "ថ្មរឹង"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "ទៅជាប្រភពទឹក"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ទឹក"
+    }
+  ],
+  "timestamp": "2026-09-02T08:57:56.884599179Z",
+  "model": "glm-5.3"
+}

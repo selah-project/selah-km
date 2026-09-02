@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ហើយទាំងនេះជាឈ្មោះនៃបុត្រគេរស្ហូម លីបនី និងស្ហីមអី។",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ហើយទាំងនេះ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ឈ្មោះ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "បុត្រ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "គេរស្ហូម"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "លីបនី"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "និងស្ហីមអី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:46.895174491Z",
+  "model": "glm-5.3"
+}

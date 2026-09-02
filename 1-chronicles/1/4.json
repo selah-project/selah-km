@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ណូអាច ស្ហេម ចាម និងយ៉ាហ្វេត។",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "ណូអាច"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ស្ហេម"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ចាម"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "និងយ៉ាហ្វេត"
+    }
+  ],
+  "timestamp": "2026-09-02T13:34:52.545330752Z",
+  "model": "glm-5.3"
+}

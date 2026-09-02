@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 42,
+  "translation": "លោក​បាន​វាស់ ទិស​ខាង​ជើង ប្រាំ​រយ​ជញ្ជីង ដោយ​ជញ្ជីង​វាស់ ជុំវិញ។",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "បាន​វាស់"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ទិស"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ខាង​ជើង"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ប្រាំ"
+    },
+    {
+      "surface": "មאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ជញ្ជីង"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ដោយ​ជញ្ជីង"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "វាស់"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ជុំវិញ"
+    }
+  ],
+  "timestamp": "2026-09-02T07:45:52.019591744Z",
+  "model": "glm-5.3"
+}

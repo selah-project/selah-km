@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "កុំឆ្លើយតបទាស់នឹងមិត្តរបស់អ្នកដោយសាក្សីក្លែងក្លាយ។",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ឆ្លើយតបទាស់"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "មិត្តរបស់អ្នក"
+    },
+    {
+      "surface": "עד",
+      "gloss": "សាក្សី"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ក្លែងក្លាយ"
+    }
+  ],
+  "timestamp": "2026-09-02T12:38:43.128962875Z",
+  "model": "glm-5.3"
+}

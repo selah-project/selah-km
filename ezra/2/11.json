@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់បេបៃ ៦២៣ នាក់។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "បេបៃ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "៦"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "២០"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "និង ៣"
+    }
+  ],
+  "timestamp": "2026-09-02T10:10:02.038808037Z",
+  "model": "glm-5.3"
+}

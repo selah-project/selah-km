@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 30,
+  "translation": "ហើយប៊ីលហាបានមានគភ៌ ហើយបានកើតឱ្យយ៉ាកបបុត្រមួយ។",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ហើយបានមានគភ៌"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ប៊ីលហា"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ហើយបានកើត"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ឱ្យយ៉ាកប"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:10:42.971988856Z",
+  "model": "glm-5.3"
+}

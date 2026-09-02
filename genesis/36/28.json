@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 36,
+  "translation": "ទាំងនេះជាកូនប្រុសរបស់ឌីស្ហាន៖ អុតស៍ និងអារាន។",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ទាំងនេះ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនប្រុសរបស់"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ឌីស្ហាន"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "អុតស៍"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "និងអារាន"
+    }
+  ],
+  "timestamp": "2026-09-02T02:16:58.477927516Z",
+  "model": "glm-5.3"
+}

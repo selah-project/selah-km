@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "គោមួយ កូននៃហគូ ចៀមប្រុសមួយ កូនចៀមមួយ កូននៃមួយឆ្នាំ សម្រាប់យញ្ញបូជាដុត",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "គោ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូននៃ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ហគូ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ចៀមប្រុស"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "កូនចៀម"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូននៃ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "មួយឆ្នាំ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "សម្រាប់យញ្ញបូជាដុត"
+    }
+  ],
+  "timestamp": "2026-09-02T03:33:36.147609058Z",
+  "model": "glm-5.3"
+}

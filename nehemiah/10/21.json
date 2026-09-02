@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ម៉ាក់ពិអាស្ហ មិស្ហ៊ុលឡាម ហេស៊ីរ។",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "ម៉ាក់ពិអាស្ហ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "មិស្ហ៊ុលឡាម"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ហេស៊ីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:48.226123282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 24:19",
+  "book": "job",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ស្ងួត និងកំដៅលេបយកទឹកព្រិល; ស្ហេអុលលេបយកអ្នកដែលបានបាប។",
+  "tokens": [
+    {
+      "surface": "ציה",
+      "gloss": "ស្ងួត"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ផងដែរ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "កំដៅ"
+    },
+    {
+      "surface": "יגזלו",
+      "gloss": "លេបយក"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ទឹកនៃ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "ព្រិល"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ស្ហេអុល"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "បានបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T09:36:09.254094613Z",
+  "model": "glm-5.3"
+}

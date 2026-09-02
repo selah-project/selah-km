@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 22,
+  "translation": "យ៉ាវេបានថាដូច្នេះថា ចុះទៅផ្ទះរបស់ស្តេចនៃយេហូដា ហើយនិយាយនៅទីនោះនូវ ⟨את⟩ ពាក្យនេះ",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ដូច្នេះ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "បានថា"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ចុះទៅ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ផ្ទះ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "យេហូដា"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ហើយនិយាយ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "នៅទីនោះ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ពាក្យនេះ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "នេះ"
+    }
+  ],
+  "timestamp": "2026-09-02T06:53:11.378230330Z",
+  "model": "glm-5.3"
+}

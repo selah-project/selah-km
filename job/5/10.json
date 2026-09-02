@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ដែលផ្ដល់ភ្លៀងលើមុខដី ហើយបញ្ជូនទឹកលើមុខទីវាងក្រៅ",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "ដែលផ្ដល់"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ភ្លៀង"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ដី"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ហើយបញ្ជូន"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ទឹក"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ទីវាងក្រៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:25:25.401001597Z",
+  "model": "glm-5.3"
+}

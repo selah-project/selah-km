@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 32,
+  "translation": "ទឹកមុខរបស់យ៉ាវេកំរូក្តៅនៅថ្ងៃនោះ ហើយទ្រង់បានស្បថ ⟨ដោយថា⟩",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "កំរូក្តៅ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ទឹកមុខ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "នៅថ្ងៃ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "នោះ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ហើយទ្រង់បានស្បថ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ដោយថា⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T03:52:05.099489463Z",
+  "model": "glm-5.3"
+}

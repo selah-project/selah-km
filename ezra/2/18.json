@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃយ៉ូរ៉ា មួយរយដប់ពីរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "យ៉ូរ៉ា"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ពីរ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:10:14.181025402Z",
+  "model": "glm-5.3"
+}

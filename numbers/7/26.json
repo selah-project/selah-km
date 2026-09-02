@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ស្ពាយមួយ ១០ស្កេល ធ្វើពីមាស ពេញនូវគុណធម៌ស្រួនក្រស់។",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ស្ពាយ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "១០"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "មាស"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ពេញ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "គុណធម៌ស្រួនក្រស់"
+    }
+  ],
+  "timestamp": "2026-09-02T03:30:48.922778338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "បុរសទាំងឡាយក្នុងចំណោមសង្ឃ ត្រូវស៊ីវា; វាជាបរិសុទ្ធខ្ពស់បំផុត។",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ទាំងឡាយ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "បុរស"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ក្នុងចំណោមសង្ឃ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ត្រូវស៊ី"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "វា"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "បរិសុទ្ធ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ខ្ពស់បំផុត"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វាជា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:03:58.893670735Z",
+  "model": "glm-5.3"
+}

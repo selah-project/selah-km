@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ហើយលោកបានដាក់ ⟨את⟩ សមុទ្រ នៅស្មាស្ដាំ ភាគខាងកើត នៅពីមុខភាគខាងត្បូង។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "សមុទ្រ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "សមុទ្រ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "បានដាក់"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "នៅស្មា"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ស្ដាំ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ភាគខាងកើត"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "នៅពីមុខ"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ភាគខាងត្បូង"
+    }
+  ],
+  "timestamp": "2026-09-02T10:46:47.933645421Z",
+  "model": "glm-5.3"
+}

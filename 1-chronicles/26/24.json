@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 26,
+  "translation": "ស្ហេបូអែល កូនហ្គេរស្ហូម កូនម៉ូស្ហេ ⟨គឺ⟩ ប្រមុខលើភោជផលឃ្លាំងទាំងឡាយ។",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "ស្ហេបូអែល"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ហ្គេរស្ហូម"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ប្រមុខ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "ភោជផលឃ្លាំងទាំងឡាយ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:43:19.820743425Z",
+  "model": "glm-5.3"
+}

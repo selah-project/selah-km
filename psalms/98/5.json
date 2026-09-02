@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 98,
+  "translation": "ប្រគំដល់យ៉ាវេដោយពិណ ដោយពិណ និងសំឡេងបទចម្រៀង។",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ប្រគំ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ដល់យ៉ាវេ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ដោយពិណ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ដោយពិណ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "និងសំឡេង"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "បទចម្រៀង"
+    }
+  ],
+  "timestamp": "2026-09-02T08:54:09.894474410Z",
+  "model": "glm-5.3"
+}

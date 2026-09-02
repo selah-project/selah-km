@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 92,
+  "translation": "បទភ្លេង ចម្រៀង ដល់ថ្ងៃ នៃសប្ប័ន។",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "បទភ្លេង"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ចម្រៀង"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ដល់ថ្ងៃ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "នៃសប្ប័ន"
+    }
+  ],
+  "timestamp": "2026-09-02T08:51:46.047536917Z",
+  "model": "glm-5.3"
+}

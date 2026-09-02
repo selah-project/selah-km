@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "អាដូនិយ៉ា ប៊ីគ្វៃ អាឌីន",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "អាដូនិយ៉ា"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ប៊ីគ្វៃ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "អាឌីន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:58.483788761Z",
+  "model": "glm-5.3"
+}

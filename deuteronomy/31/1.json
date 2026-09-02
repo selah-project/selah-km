@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "ម៉ូស្ហេបានទៅ ហើយបាននិយាយ ⟨את⟩ ពាក្យទាំងនេះ ទៅកាន់ យិស្រាអែល ទាំងអស់។",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "បានទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបាននិយាយ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ពាក្យទាំងនេះ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ពាក្យទាំងនេះ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ទាំងនេះ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "យិស្រាអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T04:15:53.403633601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "មនុស្សនៃបេថ-អាស្មាវេត សែសិបពីរ។",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "មនុស្សនៃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "បេថ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "អាស្មាវេត"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "សែសិប"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:10.048725582Z",
+  "model": "glm-5.3"
+}

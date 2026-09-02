@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ហើយពាក្យយ៉ាវេបានមកដល់ខ្ញុំ ⟨ថា⟩៖",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:56:20.870718581Z",
+  "model": "glm-5.3"
+}

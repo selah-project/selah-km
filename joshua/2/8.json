@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ហើយពួកគេមិនទាន់បានដេកនៅទេ នាងក៏បានឡើងទៅរកពួកគេ លើកំពូលផ្ទះ។",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ហើយពួកគេ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "មិនទាន់"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "បានដេក"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ហើយនាង"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "បានឡើងទៅ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "រកពួកគេ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "កំពូលផ្ទះ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:19:17.088818965Z",
+  "model": "glm-5.3"
+}

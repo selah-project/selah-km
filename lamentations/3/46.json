@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "បានបើកមាត់របស់គេ លើយើង សត្រូវទាំងអស់របស់យើង។",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "បានបើក"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "លើយើង"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "មាត់របស់គេ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "សត្រូវរបស់យើង"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:26.244141971Z",
+  "model": "glm-5.3"
+}

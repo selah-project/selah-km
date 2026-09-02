@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "យ៉ាហ្សាហ្ហា ក្ដេដឺមុត និងម៉ឺហ្វាអាត។",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "យ៉ាហ្សាហ្ហា"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "ក្ដេដឺមុត"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "ម៉ឺហ្វាអាត"
+    }
+  ],
+  "timestamp": "2026-09-02T04:25:17.446552988Z",
+  "model": "glm-5.3"
+}

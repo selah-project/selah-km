@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "រ្អ៊ូបានរស់ ពីរសិបពីរឆ្នាំ ហើយគាត់បានកើត ⟨את⟩ ស្រ៊ូក។",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "បានរស់"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "រ្អ៊ូ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ពីរ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "សិបពីរ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ហើយគាត់បានកើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ស្រ៊ូក"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ស្រ៊ូក"
+    }
+  ],
+  "timestamp": "2026-09-02T01:57:53.445102479Z",
+  "model": "glm-5.3"
+}

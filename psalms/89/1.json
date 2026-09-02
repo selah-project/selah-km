@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 89,
+  "translation": "(កំណាព្យបង្រៀន របស់អេតាន ហ្សារ៉ាហ៊ី)",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ការបង្រៀន"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "របស់អេតាន"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ហ្សារ៉ាហ៊ី"
+    }
+  ],
+  "timestamp": "2026-09-02T08:49:25.345844367Z",
+  "model": "glm-5.3"
+}

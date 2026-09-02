@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "ឬបុរសដែលនឹងមានការបាក់នៃជើង ឬការបាក់នៃដៃក្នុងខ្លួនគាត់។",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "បុរស"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "នឹងមាន"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ក្នុងខ្លួនគាត់"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ការបាក់"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "នៃជើង"
+    },
+    {
+      "surface": "או",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ការបាក់"
+    },
+    {
+      "surface": "יד",
+      "gloss": "នៃដៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:19:01.172153569Z",
+  "model": "glm-5.3"
+}

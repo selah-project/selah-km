@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនប្រុសទាំងឡាយនៃហ្វ៉ារ៉េតស្ហ គឺ ហ៊េតស្រូន និង ហ្ឆាមូល។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនប្រុសទាំងឡាយនៃ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ហ្វ៉ារ៉េតស្ហ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ហ៊េតស្រូន"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "និង ហ្ឆាមូល"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:30.595932696Z",
+  "model": "glm-5.3"
+}

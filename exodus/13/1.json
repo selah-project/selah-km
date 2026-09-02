@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "ហើយយ៉ាវេបានមានប្រសាសន៍ទៅម៉ូស្ហេ ថានីយ៉ាយថាដូច្នេះថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានមានប្រសាសន៍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T02:39:25.808265190Z",
+  "model": "glm-5.3"
+}

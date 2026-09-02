@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ព្ហស្ហ្ចូរ អាម៉ារ៉ាយ៉ា ម៉ាល់គីយ៉ា",
+  "tokens": [
+    {
+      "surface": "פַּשְׁח֥וּר",
+      "gloss": "ព្ហស្ហ្ចូរ"
+    },
+    {
+      "surface": "אֲמַרְיָ֖ה",
+      "gloss": "អាម៉ារ៉ាយ៉ា"
+    },
+    {
+      "surface": "מַלְכִּיָּֽה",
+      "gloss": "ម៉ាល់គីយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T13:33:52.773059484Z",
+  "model": "glm-5.3"
+}

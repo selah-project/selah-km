@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "កុំឱ្យអ្នកញ៉ាំ ហើយឆ្អែត ហើយសង់ផ្ទះល្អៗ ហើយអាស្រ័យនៅក្នុងនោះ។",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "កុំឱ្យ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "អ្នកញ៉ាំ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ហើយឆ្អែត"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ហើយផ្ទះ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ល្អៗ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "អ្នកសង់"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ហើយអាស្រ័យនៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:01:45.623807465Z",
+  "model": "glm-5.3"
+}

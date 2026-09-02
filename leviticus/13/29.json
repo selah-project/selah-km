@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "ហើយបុរស ឬស្ត្រី នៅពេលមានជំងឺនៅក្នុងគាត់ លើក្បាល ឬលើចង្កា",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ហើយបុរស"
+    },
+    {
+      "surface": "או",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ស្ត្រី"
+    },
+    {
+      "surface": "כי",
+      "gloss": "នៅពេល"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "בו",
+      "gloss": "នៅក្នុងគាត់"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ជំងឺ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "លើក្បាល"
+    },
+    {
+      "surface": "או",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "លើចង្កា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:12:44.406818490Z",
+  "model": "glm-5.3"
+}

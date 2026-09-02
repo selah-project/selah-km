@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "សរុបអស់អ្នកដែលត្រូវបានរាប់ មាន ៦០៣,៥៥០ នាក់។",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "សរុបមាន"
+    },
+    {
+      "surface": "כל",
+      "gloss": "អស់"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "អ្នកដែលត្រូវបានរាប់"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ប្រាំមួយ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ពាន់"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "និងបី"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពាន់"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "និងប្រាំ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "និងហាសិប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:25:10.999015535Z",
+  "model": "glm-5.3"
+}

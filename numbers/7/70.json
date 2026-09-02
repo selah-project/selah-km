@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពពែប្រុងស្រទាប់មួយ សម្រាប់យញ្ញបូជាអំពើបាប",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ពពែប្រុងស្រទាប់"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "នៃពពែស្រី"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "សម្រាប់យញ្ញបូជាអំពើបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:33:36.147822163Z",
+  "model": "glm-5.3"
+}

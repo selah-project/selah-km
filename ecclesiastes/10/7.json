@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ខ្ញុំបានឃើញឈ្មួះនៅលើខ្នងសេះ ហើយមេទ័ពដើរថ្មើរជើងដូចឈ្មួញនៅលើផែនដី។",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ខ្ញុំបានឃើញ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ឈ្មួញ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "សេះ"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ហើយមេទ័ព"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ដើរ"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "ដូចឈ្មួញ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ផែនដី"
+    }
+  ],
+  "timestamp": "2026-09-02T09:54:25.540074635Z",
+  "model": "glm-5.3"
+}

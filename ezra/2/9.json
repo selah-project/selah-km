@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់ស្ហាកៃ ៧៦០ នាក់។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ស្ហាកៃ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "៧"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "និង ៦០"
+    }
+  ],
+  "timestamp": "2026-09-02T10:10:02.038499453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "អវជ្ញានៃអវជ្ញាទាំងឡាយ ហាកូហេលេតបាននិយាយ អស់ទាំងគ្រប់យ៉ាងគឺជាអវជ្ញា។",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "អវជ្ញា"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "នៃអវជ្ញាទាំងឡាយ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "បាននិយាយ"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "ហាកូហេលេត"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "អស់ទាំងគ្រប់យ៉ាង"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "អវជ្ញា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:57:27.773516938Z",
+  "model": "glm-5.3"
+}

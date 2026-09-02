@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 20,
+  "translation": "កុំស្រឡាញ់ការគេង ក្រែងអ្នកនឹងក្រណាស់; បើកភ្នែកអ្នក ដើម្បីឆ្អែតនឹងអាហារ។",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "ស្រឡាញ់"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ការគេង"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ក្រែង"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "អ្នកនឹងក្រណាស់"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "បើក"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ភ្នែកអ្នក"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ឆ្អែត"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "អាហារ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:17:30.578797435Z",
+  "model": "glm-5.3"
+}

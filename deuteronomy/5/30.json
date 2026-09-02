@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ទៅ និយាយទៅគេថា ត្រឡប់ទៅរហាលរបស់អ្នកទាំងឡាយចុះ។",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ទៅគេថា"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ត្រឡប់"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "រហាលរបស់អ្នកទាំងឡាយ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:00:14.516561621Z",
+  "model": "glm-5.3"
+}

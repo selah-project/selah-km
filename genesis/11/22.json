@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ហើយស្ហេរូកបានរស់សិបឆ្នាំ ហើយគាត់បានកើត ⟨את⟩ ណាហោរ។",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "បានរស់"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ស្ហេរូក"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "សិប"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ហើយគាត់បានកើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ណាហោរ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ណាហោរ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:57:01.212455864Z",
+  "model": "glm-5.3"
+}

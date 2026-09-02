@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 28:1",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "ព្រះបន្ទូលរបស់យ៉ាវេបានមកដល់ខ្ញុំ ដោយពោលថា៖",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "បានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ព្រះបន្ទូល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:37:38.986957329Z",
+  "model": "glm-5.3"
+}

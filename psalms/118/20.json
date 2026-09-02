@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 118,
+  "translation": "នេះជាទ្វាររបស់យ៉ាវេ អ្នកត្រឹមត្រូវនឹងចូលតាមវា។",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ជាទ្វារ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "របស់យ៉ាវេ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "អ្នកត្រឹមត្រូវ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "នឹងចូល"
+    },
+    {
+      "surface": "בו",
+      "gloss": "តាមវា"
+    }
+  ],
+  "timestamp": "2026-09-02T08:59:11.737966979Z",
+  "model": "glm-5.3"
+}

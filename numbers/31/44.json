@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "និងសត្វគោ ប្រាំមួយមឺន និងបីមឺន ប្រាំពាន់។",
+  "tokens": [
+    {
+      "surface": "וּבָקָר",
+      "gloss": "និងសត្វគោ"
+    },
+    {
+      "surface": "שִׁשָּׁה",
+      "gloss": "ប្រាំមួយ"
+    },
+    {
+      "surface": "וּשְׁלֹשִׁים",
+      "gloss": "និងបីមឺន"
+    },
+    {
+      "surface": "אָלֶף",
+      "gloss": "ពាន់"
+    }
+  ],
+  "timestamp": "2026-09-02T03:51:22.411665836Z",
+  "model": "glm-5.3"
+}

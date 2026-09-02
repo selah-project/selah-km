@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ស្ហាឡុម អាមរិយ៉ា យូសែហ្វ។",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ស្ហាឡុម"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "អាមរិយ៉ា"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "យូសែហ្វ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:16:40.123787235Z",
+  "model": "glm-5.3"
+}

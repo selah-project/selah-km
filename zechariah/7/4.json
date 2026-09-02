@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ហើយពាក្យនៃយ៉ាវេ ស្ហាបាត បានមកដល់ខ្ញុំ ដើម្បីថា៖",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយបានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យនៃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ស្ហាបាត"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីថា"
+    }
+  ],
+  "timestamp": "2026-09-02T08:16:46.664811033Z",
+  "model": "glm-5.3"
+}

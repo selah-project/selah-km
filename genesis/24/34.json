@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ហើយគាត់ពោលថា ខ្ញុំជាអ្នកបម្រើរបស់អាវរ៉ាហាំ។",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយគាត់ពោលថា"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "អ្នកបម្រើ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "អាវរ៉ាហាំ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ខ្ញុំ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:06:07.405657077Z",
+  "model": "glm-5.3"
+}

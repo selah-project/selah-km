@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពពែប្រុសមួយ សម្រាប់ជាគាតុនៃបាប។",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ពពែប្រុស"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "នៃពពែ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "សម្រាប់ជាគាតុនៃបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:32:05.586992593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ប៊ុន្នី អាស្ហគាដ បេបៃ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ប៊ុន្នី"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "អាស្ហគាដ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "បេបៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:24:16.540628295Z",
+  "model": "glm-5.3"
+}

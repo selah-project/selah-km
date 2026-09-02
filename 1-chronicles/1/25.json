@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "អ៊ែប៊ែរ ភើឡេគ រ៉ាអ៊ូ។",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "អ៊ែប៊ែរ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ភើឡេគ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "រ៉ាអ៊ូ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:18.229383342Z",
+  "model": "glm-5.3"
+}

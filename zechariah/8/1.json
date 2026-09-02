@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និទានបានមក ⟨ពី⟩ ព្រះនាមយ៉ាវេ ត្សាបាអុត ដល់ខ្ញុំ ថា",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "និទានបានមក"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ត្សាបាអុត"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T08:16:40.618224514Z",
+  "model": "glm-5.3"
+}

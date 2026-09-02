@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "គាត់បាននាំ ⟨את⟩ ខ្ញុំ ហើយបានធ្វើឱ្យដើរទៅក្នុងទីងងឹត ហើយមិនមានពន្លឺទេ។",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ខ្ញុំ"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "បាននាំ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ហើយបានធ្វើឱ្យដើរទៅ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ទីងងឹត"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ហើយមិន"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ពន្លឺ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:10.977489587Z",
+  "model": "glm-5.3"
+}

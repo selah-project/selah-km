@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ព្រោះគ្រឹះទាំងឡាយនឹងកំទេចទៅ អ្នកសុចរិតបានធ្វើអ្វី?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "គ្រឹះទាំងឡាយ"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "នឹងកំទេចទៅ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "អ្នកសុចរិត"
+    },
+    {
+      "surface": "מה",
+      "gloss": "អ្វី"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "បានធ្វើ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:25:27.564050463Z",
+  "model": "glm-5.3"
+}

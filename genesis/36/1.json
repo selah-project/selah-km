@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 36,
+  "translation": "និងទាំងនេះជាពូជពង្សរបស់អេសាវ — គាត់ហៅថាអេដូម។",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "និងទាំងនេះ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ពូជពង្ស"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "អេសាវ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "គាត់"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "អេដូម"
+    }
+  ],
+  "timestamp": "2026-09-02T02:16:20.130294124Z",
+  "model": "glm-5.3"
+}

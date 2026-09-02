@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "ព្រោះគ្រប់តុទាំងអស់ បានបំពេញដោយក្អួត លាមក គ្មានទីកន្លែងឡើយ។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "គ្រប់"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "តុទាំងអស់"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "បានបំពេញ"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ក្អួត"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "លាមក"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "គ្មាន"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ទីកន្លែង"
+    }
+  ],
+  "timestamp": "2026-09-02T06:14:36.493476149Z",
+  "model": "glm-5.3"
+}

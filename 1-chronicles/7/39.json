@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនប្រុសរបស់អ៊ូឡា គឺអារ៉ាខ ហាននិអែល និងរិតស៊ីយ៉ា។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "កូនប្រុសរបស់"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "អ៊ូឡា"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "អារ៉ាខ"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "ហាននិអែល"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "រិតស៊ីយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:14.375786459Z",
+  "model": "glm-5.3"
+}

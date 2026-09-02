@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 39,
+  "translation": "ហើយជួរទីបី លេស្ហែម ស្ហេបូ និងអាក់ហ្លាមា។",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ហើយជួរ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ទីបី"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "លេស្ហែម"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ស្ហេបូ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "និងអាក់ហ្លាមា"
+    }
+  ],
+  "timestamp": "2026-09-02T02:59:46.647691517Z",
+  "model": "glm-5.3"
+}

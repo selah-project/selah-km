@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "នៅបញ្ចប់នៃខែទាំងដប់ពីរ គាត់កំពុងដើរលើព្រះរាជវាំងនៃនគរនៃបាប៊ែល។",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "នៅបញ្ចប់នៃ"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "ខែ"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "ទាំង"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់ពីរ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ព្រះរាជវាំង"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "នគរ"
+    },
+    {
+      "surface": "די",
+      "gloss": "នៃ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "បាប៊ែល"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "គាត់កំពុងដើរ"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨កំពុង⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T10:04:18.825367245Z",
+  "model": "glm-5.3"
+}

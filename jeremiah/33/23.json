@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 33,
+  "translation": "ហើយពាក្យរបស់យ៉ាវេបានមកដល់យេរេមៀហ៊ូ ថា៖",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយ...បានមក"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "យេរេមៀហ៊ូ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:01:51.923490183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់អារ៉ាះ ចំនួនប្រាំពីររយ ហុកសិបនិងប្រាំ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "អារ៉ាះ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ប្រាំពីរ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ប្រាំ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ហុកសិបនិង"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:44.671203327Z",
+  "model": "glm-5.3"
+}

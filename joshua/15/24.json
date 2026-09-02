@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "ហ្ស៊ីហ្វ តេឡេម និងបេអាឡោត។",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "ហ្ស៊ីហ្វ"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "តេឡេម"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "បេអាឡោត"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:25.567421459Z",
+  "model": "glm-5.3"
+}

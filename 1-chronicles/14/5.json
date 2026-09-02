@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "និង យិប្រា និង អេលីស្ហួអ និង អែលប៉ាឡេត។",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "និង យិប្រា"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "និង អេលីស្ហួអ"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "និង អែលប៉ាឡេត"
+    }
+  ],
+  "timestamp": "2026-09-02T10:35:56.147140442Z",
+  "model": "glm-5.3"
+}

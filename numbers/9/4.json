@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "ហើយម៉ូស្ហេបានពោលទៅកូនចៅអ៊ីស្រាអែល ឱ្យធ្វើ ⟨את⟩ បុណ្យប៉ាស្គា។",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបានពោល"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រាអែល"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ឱ្យធ្វើ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "បុណ្យប៉ាស្គា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:35:22.635507925Z",
+  "model": "glm-5.3"
+}

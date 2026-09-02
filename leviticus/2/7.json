@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ហើយបើតង្វាយរបស់អ្នកជាតង្វាយដែលដាំក្នុងខ្ទះ នោះធ្វើពីម្សៅល្អិតក្នុងប្រេង។",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ហើយបើ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "តង្វាយ"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "ខ្ទះ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "របស់អ្នក"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ម្សៅល្អិត"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ក្នុងប្រេង"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ធ្វើ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:03:00.132554963Z",
+  "model": "glm-5.3"
+}

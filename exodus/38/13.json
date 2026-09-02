@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 38,
+  "translation": "និងសម្រាប់ភាគខាងកើត ទិសបូព៌ គឺហាសិបហត្ថ។",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "និងសម្រាប់ភាគ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ខាងមុខ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ទិសបូព៌"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហាសិប"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ហត្ថ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:59:00.591019153Z",
+  "model": "glm-5.3"
+}

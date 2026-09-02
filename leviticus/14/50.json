@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "ហើយគេសំលាប់ ⟨את⟩ សត្វស្លាបមួយ ក្នុងភាជន៍ដីឥដ្ឋ លើទឹករស់។",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ហើយគេសំលាប់"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "សត្វស្លាប"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "សត្វស្លាប"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ក្នុង"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ភាជន៍"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ដីឥដ្ឋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ទឹក"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "រស់"
+    }
+  ],
+  "timestamp": "2026-09-02T03:11:24.107908617Z",
+  "model": "glm-5.3"
+}

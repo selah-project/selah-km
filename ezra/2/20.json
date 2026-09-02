@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃគីបបារ កៅសិបប្រាំ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "គីបបារ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "កៅសិប"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:10:14.181262952Z",
+  "model": "glm-5.3"
+}

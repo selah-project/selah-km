@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 34,
+  "translation": "ហើយលើកសាកោនកូនប្រុសនៃដាន គឺនាស៊ី ប៊ុកឃី កូនប្រុសនៃយោហ្គលី។",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ហើយក្សត្រិយ៍នៃ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនប្រុសនៃ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ដាន"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "នាស៊ី"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ប៊ុកឃី"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុសនៃ"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "យោហ្គលី"
+    }
+  ],
+  "timestamp": "2026-09-02T03:54:19.824103474Z",
+  "model": "glm-5.3"
+}

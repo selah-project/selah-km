@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 95,
+  "translation": "ដ្បិតយ៉ាវេជាអែលដ៏ធំធេង ហើយជាស្តេចដ៏ធំធេង លើសព្រះនានាទាំងអស់។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "אל",
+      "gloss": "អែល"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ដ៏ធំធេង"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ហើយជាស្តេច"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ដ៏ធំធេង"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើស"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ព្រះនានា"
+    }
+  ],
+  "timestamp": "2026-09-02T08:51:42.075771807Z",
+  "model": "glm-5.3"
+}

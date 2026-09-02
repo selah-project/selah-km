@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 43,
+  "translation": "ហើយការអត់ឃ្លានធ្ងន់ធ្ងរក្នុងដី។",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "ហើយការអត់ឃ្លាន"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ធ្ងន់ធ្ងរ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ក្នុងដី"
+    }
+  ],
+  "timestamp": "2026-09-02T02:23:13.262529476Z",
+  "model": "glm-5.3"
+}

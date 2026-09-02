@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ហើងពាក្យរបស់យ៉ាវេបានមកដល់ខ្ញុំ ដើម្បីនិយាយថា",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើង...បានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:21:22.644480969Z",
+  "model": "glm-5.3"
+}

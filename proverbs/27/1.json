@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "កុំអួតអាងពីថ្ងៃស្អែក ដ្បិតអ្នកមិនដឹងទេថា ថ្ងៃនឹងបង្កើតអ្វីចេញមក។",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "អួតអាង"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ពីថ្ងៃ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ស្អែក"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "អ្នកដឹង"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "បង្កើត...ចេញមក"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:20:58.427364616Z",
+  "model": "glm-5.3"
+}

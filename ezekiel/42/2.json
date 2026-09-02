@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 42,
+  "translation": "មុខបណ្តោយគឺមួយរយ ⟨តឹក⟩ នៅទ្វារភាគខាងជើង ហើយទទឹងគឺហាសិប ⟨តឹក⟩។",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "បណ្តោយ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "តឹក"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ទ្វារ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ភាគខាងជើង"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "ហើយទទឹង"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហាសិប"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "តឹក"
+    }
+  ],
+  "timestamp": "2026-09-02T07:46:25.453784508Z",
+  "model": "glm-5.3"
+}

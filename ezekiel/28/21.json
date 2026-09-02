@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "កូនមនុស្ស ដាក់មុខរបស់អ្នកទៅរកស៊ីដុន ហើយប្រទានសុទ្ឋទៅលើវា។",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ដាក់"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "មុខរបស់អ្នក"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅរក"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ស៊ីដុន"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ហើយប្រទានសុទ្ឋ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ទៅលើវា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:37:16.915189468Z",
+  "model": "glm-5.3"
+}

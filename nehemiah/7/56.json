@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅនៃនេតស៊ីអាខ កូនចៅនៃហាទីហ្វ៉ា។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "នេតស៊ីអាខ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ហាទីហ្វ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:12.466917317Z",
+  "model": "glm-5.3"
+}

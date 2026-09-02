@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ហាឡូចេស្ហ ពីលស្ហា ស្ហូវែក",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "ហាឡូចេស្ហ"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "ពីលស្ហា"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "ស្ហូវែក"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:58.427384113Z",
+  "model": "glm-5.3"
+}

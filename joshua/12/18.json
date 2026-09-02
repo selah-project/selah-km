@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្តេចនៃអាហ្វេក មួយ; ស្តេចនៃលាស្ហារូន មួយ។",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "អាហ្វេក"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "លាស្ហារូន"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:25:12.405003025Z",
+  "model": "glm-5.3"
+}

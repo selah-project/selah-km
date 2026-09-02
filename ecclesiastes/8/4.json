@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ដែលជាកន្លែងពាក្យនៃស្តេច គេ⟨មាន⟩អំណាច ហើយអ្នកណានឹងនិយាយទៅគាត់ថា អ្នកធ្វើអ្វី?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "ដែលជាកន្លែង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យនៃ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "អំណាចគ្រប់គ្រង"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ហើយអ្នកណា"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "នឹងនិយាយ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ទៅគាត់"
+    },
+    {
+      "surface": "מה",
+      "gloss": "អ្វី"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "អ្នកធ្វើ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:54:58.671935994Z",
+  "model": "glm-5.3"
+}

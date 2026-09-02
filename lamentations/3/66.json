@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "អ្នកដេញតាមក្នុងកំហឹង ហើយកម្ទេចពួកគេចេញពីក្រោមផ្ទៃមេឃរបស់យ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "អ្នកដេញតាម"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ក្នុងកំហឹង"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "ហើយកម្ទេចពួកគេ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ពីក្រោម"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ផ្ទៃមេឃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:10.089388952Z",
+  "model": "glm-5.3"
+}

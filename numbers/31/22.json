@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "ប៉ុន្តែតែ ⟨את⟩ មាស និង ⟨את⟩ ប្រាក់ ⟨את⟩ សំរិទ្ធ ⟨את⟩ ដែក ⟨את⟩ ដែកស័ង្ក និង ⟨את⟩ ស៊ីសា",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ប៉ុន្តែតែ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "មាស"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "មាស"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ប្រាក់"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ប្រាក់"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "សំរិទ្ធ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "សំរិទ្ធ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ដែក"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ដែក"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ដែកស័ង្ក"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ដែកស័ង្ក"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ស៊ីសា"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ស៊ីសា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:51:28.313682707Z",
+  "model": "glm-5.3"
+}

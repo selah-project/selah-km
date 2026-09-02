@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "មីយ៉ាមីន ម៉ាអាដីយ៉ា ប៊ីលហ្គា។",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "មីយ៉ាមីន"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "ម៉ាអាដីយ៉ា"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "ប៊ីលហ្គា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:25:25.127981556Z",
+  "model": "glm-5.3"
+}

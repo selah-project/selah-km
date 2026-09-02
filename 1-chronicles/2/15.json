@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "អូតសេម ជាទីប្រាំមួយ ដាវីដ ជាទីប្រាំពីរ។",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "អូតសេម"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ជាទីប្រាំមួយ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ដាវីដ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ជាទីប្រាំពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:57:32.839231368Z",
+  "model": "glm-5.3"
+}

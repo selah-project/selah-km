@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "អ្វីដែលភ្នែកឃើញ ល្អជាងការត្រាច់រាប់រករបស់នេហ្វេស្ហ; ទាំងនេះក៏ជាហេបែល និងការប្រមាញ់រូអះដែរ។",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ល្អជាង"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ការឃើញ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ភ្នែក"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ការត្រាច់រាប់រក"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "នេហ្វេស្ហ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ក៏"
+    },
+    {
+      "surface": "זה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ហេបែល"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "និងការប្រមាញ់"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "រូអះ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:47.021975461Z",
+  "model": "glm-5.3"
+}

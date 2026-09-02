@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 38,
+  "translation": "បើអ្នកមិនព្រមចេញទៅ នេះ⟨ជា⟩ពាក្យដែលយ៉ាវេបានបង្ហាញដល់ខ្ញុំ៖",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "បើ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "មិនព្រម"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "ចេញទៅ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "បានបង្ហាញដល់ខ្ញុំ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T07:07:45.789180551Z",
+  "model": "glm-5.3"
+}

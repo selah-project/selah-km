@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ទីប្រាំបួន ដល់យេស្ហួអ; ទីដប់ ដល់ស្ហេកានីយ៉ាហ៊ូ។",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "ដល់យេស្ហួអ"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "ទីប្រាំបួន"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "ដល់ស្ហេកានីយ៉ាហ៊ូ"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "ទីដប់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:40:47.036917450Z",
+  "model": "glm-5.3"
+}

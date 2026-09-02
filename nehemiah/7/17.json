@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅរបស់អាហ្សៈគាដ ពីរពាន់ បីរយ ម្ភៃពីរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "អាហ្សៈគាដ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពីរពាន់"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បីរយ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ម្ភៃ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T13:33:51.853364551Z",
+  "model": "glm-5.3"
+}

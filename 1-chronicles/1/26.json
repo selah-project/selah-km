@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ស្ហេរូគ ណាហ្គោរ ថេរាច។",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "ស្ហេរូគ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ណាហ្គោរ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ថេរាច"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:18.229553210Z",
+  "model": "glm-5.3"
+}

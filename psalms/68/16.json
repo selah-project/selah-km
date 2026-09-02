@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 68,
+  "translation": "ភ្នំនៃអេឡូហ៊ីម ⟨គឺ⟩ ភ្នំបាស្ហាន; ភ្នំកំពូលៗ ⟨គឺ⟩ ភ្នំបាស្ហាន។",
+  "tokens": [
+    {
+      "surface": "ហេ",
+      "gloss": "ភ្នំ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "នៃអេឡូហ៊ីម"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ភ្នំ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "បាស្ហាន"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ភ្នំ"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "កំពូលៗ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ភ្នំ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "បាស្ហាន"
+    }
+  ],
+  "timestamp": "2026-09-02T11:40:20.356753045Z",
+  "model": "glm-5.3"
+}

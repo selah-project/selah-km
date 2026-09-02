@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "ហើយនៅ⟨⟩ដើមឈើខែទីមួយ នៅថ្ងៃទីដប់បួននៃខែ គឺបេសាចរបស់យ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ហើយនៅខែ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ទីមួយ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "នៅថ្ងៃទីដប់បួន"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "នៃខែ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "បេសាច"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "របស់យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:50:16.411915526Z",
+  "model": "glm-5.3"
+}

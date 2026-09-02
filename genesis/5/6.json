@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ហើយស្ហេតបានរស់ ប្រាំឆ្នាំ និងមួយរយឆ្នាំ ហើយគាត់បានកើត ⟨את⟩ អេន៉ោស្ហ។",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "រស់"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ស្ហេត"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ប្រាំ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អេន៉ោស្ហ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "អេន៉ោស្ហ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:52:09.546611119Z",
+  "model": "glm-5.3"
+}

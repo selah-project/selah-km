@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "និងនោហ្គាហ និងនេហ្វេគ និងយ៉ាហ្វីយ៉ា។",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "និងនោហ្គាហ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "និងនេហ្វេគ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "និងយ៉ាហ្វីយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:29:11.193334426Z",
+  "model": "glm-5.3"
+}

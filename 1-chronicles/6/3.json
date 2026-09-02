@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ហើយបុត្រកេហាត ⟨គឺ⟩ អាំមរ៉ាម យីតសារ ហេបរូន និងអ៊ូតស៊ីអែល។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ហើយបុត្រ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "កេហាត"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "អាំមរ៉ាម"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "យីតសារ"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ហេបរូន"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "និងអ៊ូតស៊ីអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:46.895280798Z",
+  "model": "glm-5.3"
+}

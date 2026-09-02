@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 22,
+  "translation": "បើបុរសម្នាក់យកស្ត្រីម្នាក់ជាប្រពន្ធ ហើយចូលទៅរកនាង ប៉ុន្តែស្អប់នាង",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "បើ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "យក"
+    },
+    {
+      "surface": "איש",
+      "gloss": "បុរសម្នាក់"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ស្ត្រីម្នាក់ជាប្រពន្ធ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ហើយចូលទៅ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "រកនាង"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ប៉ុន្តែស្អប់នាង"
+    }
+  ],
+  "timestamp": "2026-09-02T04:11:06.256046435Z",
+  "model": "glm-5.3"
+}

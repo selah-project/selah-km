@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "កូនបុត្រនៃអេតាន កូនបុត្រនៃហ្សីម៉ា កូនបុត្រនៃស្ហីម៉ៃ។",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "កូនបុត្រនៃ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "អេតាន"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនបុត្រនៃ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ហ្សីម៉ា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនបុត្រនៃ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ស្ហីម៉ៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:38.764332325Z",
+  "model": "glm-5.3"
+}

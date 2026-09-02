@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ម៉ាលឡូក ស្ហារីម ប៉ាអាណា",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "ម៉ាលឡូក"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ស្ហារីម"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ប៉ាអាណា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:58.427838328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ភិលិកបានរស់ បីសិបឆ្នាំ ហើយគាត់បានកើត ⟨את⟩ រ្អ៊ូ។",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "បានរស់"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ភិលិក"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "បីសិប"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ហើយគាត់បានកើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "រ្អ៊ូ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "រ្អ៊ូ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:57:53.444728658Z",
+  "model": "glm-5.3"
+}

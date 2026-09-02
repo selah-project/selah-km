@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 35,
+  "translation": "ហើយពាក្យនៃយ៉ាវេ បានមកដល់ យ៉ិរមាយ៉ាហ៊ូ ដោយពោលថា —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយបានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យនៃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "មកដល់"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "យ៉ិរមាយ៉ាហ៊ូ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:01:39.694598583Z",
+  "model": "glm-5.3"
+}

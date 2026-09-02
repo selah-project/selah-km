@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "បេន៉ាយ៉ា, បេដ៉ាយ៉ា, កេលុហៃ។",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "បេន៉ាយ៉ា"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "បេដ៉ាយ៉ា"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "កេលុហៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:15:47.648836671Z",
+  "model": "glm-5.3"
+}

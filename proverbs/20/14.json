@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 20,
+  "translation": "អាក្រក់ អាក្រក់ អ្នកទិញនិយាយ; តែពេលដើរចេញទៅ ⟨គាត់⟩ គាត់ក៏អួត។",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "អាក្រក់"
+    },
+    {
+      "surface": "רע",
+      "gloss": "អាក្រក់"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "អ្នកទិញ"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "តែពេលដើរចេញទៅ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "គាត់"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ក៏"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "អួត"
+    }
+  ],
+  "timestamp": "2026-09-02T09:17:30.579054612Z",
+  "model": "glm-5.3"
+}

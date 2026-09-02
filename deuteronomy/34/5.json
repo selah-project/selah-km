@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 34,
+  "translation": "ហើយម៉ូស្ហេ អ្នកបំរើនៃយ៉ាវេ បានស្លាប់នៅទីនោះ ក្នុងដែនដីម៉ូអាប តាមបញ្ជានៃយ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ហើយបានស្លាប់"
+    },
+    {
+      "surface": "שם",
+      "gloss": "នៅទីនោះ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "អ្នកបំរើ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ក្នុងដែនដី"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ម៉ូអាប"
+    },
+    {
+      "surface": "על",
+      "gloss": "តាម"
+    },
+    {
+      "surface": "פי",
+      "gloss": "បញ្ជា (មាត់)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:18:08.552253064Z",
+  "model": "glm-5.3"
+}

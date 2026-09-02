@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 40:15",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 40,
+  "translation": "ហើយពីមុខទ្វារចូល ដល់មុខផ្ទះជើងទ្វារក្នុង — ហត្ថប្រាំសិា។",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ហើយពី"
+    },
+    {
+      "surface": "פני",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ទ្វារ"
+    },
+    {
+      "surface": "היאתון",
+      "gloss": "ចូល"
+    },
+    {
+      "surface": "על",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ផ្ទះជើង"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ទ្វារ"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "ក្នុង"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ប្រាំសិា"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ហត្ថ"
+    }
+  ],
+  "timestamp": "2026-09-02T07:45:26.808026786Z",
+  "model": "glm-5.3"
+}

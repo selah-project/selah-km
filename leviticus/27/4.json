@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "បើជាស្ត្រី តម្លៃរបស់អ្នកនឹងជា ៣០ សិកល។",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "បើ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ស្ត្រី"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ជា"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "នឹងជា"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "តម្លៃរបស់អ្នក"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "៣០"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "សិកល"
+    }
+  ],
+  "timestamp": "2026-09-02T03:24:30.632999515Z",
+  "model": "glm-5.3"
+}

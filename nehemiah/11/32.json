@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ក្នុងអានាថត នោប អានានយ៉ា —",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "អានាថត"
+    },
+    {
+      "surface": "נב",
+      "gloss": "នោប"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "អានានយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T13:33:58.693833452Z",
+  "model": "glm-5.3"
+}

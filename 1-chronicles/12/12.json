@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "អ៉ាតថៃ ជាទីប្រាំមួយ អេលីអែល ជាទីប្រាំពីរ។",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "អ៉ាតថៃ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ជាទីប្រាំមួយ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "អេលីអែល"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ជាទីប្រាំពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:34:07.258405737Z",
+  "model": "glm-5.3"
+}

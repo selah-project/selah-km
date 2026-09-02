@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "យ៉ាវេ អេឡូហ៊ីមបានហៅដល់មនុស្ស ហើយពោលទៅ ⟨គាត់⟩ ថា តើអ្នកនៅឯណា។",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "បានហៅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "អេឡូហ៊ីម"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយពោល"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ទៅ ⟨គាត់⟩"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "តើនៅឯណា"
+    }
+  ],
+  "timestamp": "2026-09-02T01:51:47.156629520Z",
+  "model": "glm-5.3"
+}

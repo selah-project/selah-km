@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 41,
+  "translation": "ដល់អ្នកដឹកនាំចម្រៀង មីស្ហមោរ ដល់ដាវីដ។",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ដល់អ្នកដឹកនាំចម្រៀង"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "មីស្ហមោរ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ដល់ដាវីដ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:33:25.233084484Z",
+  "model": "glm-5.3"
+}

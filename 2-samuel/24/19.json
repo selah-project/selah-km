@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ហើយដាវីដបានឡើងទៅតាមពាក្យរបស់គាដ ដូចយ៉ាវេបានបង្គាប់។",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ហើយ...បានឡើងទៅ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ដាវីដ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "តាមពាក្យ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "គាដ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ដូច"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "បានបង្គាប់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T05:22:07.667687561Z",
+  "model": "glm-5.3"
+}

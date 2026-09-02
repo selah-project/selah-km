@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "អេនូស្ហ៊ីបានរស់នៅប្រាំបួនសិបឆ្នាំ ហើយបានបង្កើត ⟨את⟩ កេណាន។",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "បានរស់នៅ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "អេនូស្ហ៊ី"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ប្រាំបួនសិប"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "កេណាន"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "កេណាន"
+    }
+  ],
+  "timestamp": "2026-09-02T12:19:58.347180133Z",
+  "model": "glm-5.3"
+}

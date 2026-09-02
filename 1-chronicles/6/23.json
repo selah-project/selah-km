@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "បុត្រនៃយិតសាហរ បុត្រនៃកេហាថ បុត្រនៃឡេវី បុត្រនៃអ៊ីស្រាអែល។",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "យិតសាហរ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "កេហាថ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ឡេវី"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រាអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:13.582941051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "និងជួរទីពីរ៖ ណូផេក សាពីរ និងយ៉ាហាឡោម។",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "និងជួរ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ទីពីរ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ណូផេក"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "សាពីរ"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "និងយ៉ាហាឡោម"
+    }
+  ],
+  "timestamp": "2026-09-02T02:49:46.861241938Z",
+  "model": "glm-5.3"
+}

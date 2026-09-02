@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "ភារៈនៃបាប៊ីឡូន ដែល យេសាយ៉ាហ៊ូ បុត្រ អាម៉ូតស៍ បានមើលឃើញ",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ភារៈ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "បាប៊ីឡូន"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "បានមើលឃើញ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "យេសាយ៉ាហ៊ូ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "អាម៉ូតស៍"
+    }
+  ],
+  "timestamp": "2026-09-02T06:08:34.630304296Z",
+  "model": "glm-5.3"
+}

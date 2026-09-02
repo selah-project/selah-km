@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "ហើយយ៉ាវេបានពោលទៅកាន់ហ្គាដ អ្នកមើលឃើញនៃដាវីឌ ដើម្បីថ្លែងថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយ…បានពោល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ហ្គាដ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "អ្នកមើលឃើញ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "នៃដាវីឌ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីថ្លែងថា"
+    }
+  ],
+  "timestamp": "2026-09-02T13:36:26.804918388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពពែល្ហុងមួយ សម្រាប់យញ្ញបូជាបាប។",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ពពែល្ហុង"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "(នៃពពែ)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "សម្រាប់យញ្ញបូជាបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:30:22.398025697Z",
+  "model": "glm-5.3"
+}

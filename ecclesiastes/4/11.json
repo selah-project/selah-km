@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ផងដែរ បើពីរនាក់ដេកជាមួយគ្នា គេនឹងមានកំដៅ; ចុះម្នាក់ឯង តើនឹងក្តៅដូចម្តេច?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ផងដែរ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "បើ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ដេក"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ពីរនាក់"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "គេនឹងមានកំដៅ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "គេ"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ចុះម្នាក់ឯង"
+    },
+    {
+      "surface": "איך",
+      "gloss": "តើដូចម្តេច"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "នឹងក្តៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:35.439720497Z",
+  "model": "glm-5.3"
+}

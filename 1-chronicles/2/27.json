@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ពួកកូនប្រុសរបស់រ៉ាម បុត្រច្បងនៃយេរ៉ាខមេអែល គឺម៉ាតស យ៉ាមីន និងអេកែរ។",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "គឺ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ពួកកូនប្រុស"
+    },
+    {
+      "surface": "רם",
+      "gloss": "រ៉ាម"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "បុត្រច្បង"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "យេរ៉ាខមេអែល"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "ម៉ាតស"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "យ៉ាមីន"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "អេកែរ"
+    }
+  ],
+  "timestamp": "2026-09-02T13:35:14.129079787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "អែបេរបានរស់បួនសាមសិបឆ្នាំ ហើយបង្កើត ⟨את⟩ ពាឡេក។",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "បានរស់"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "អែបេរ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "បួន"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "និងសាមសិប"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ហើយបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ពាឡេក"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ពាឡេក"
+    }
+  ],
+  "timestamp": "2026-09-02T01:57:31.486940211Z",
+  "model": "glm-5.3"
+}

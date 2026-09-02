@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "និងយីប្រា អេលីស្ហូអា នេហ្វេក និងយ៉ាហ្វីយ៉ា។",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "យីប្រា"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "អេលីស្ហូអា"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "នេហ្វេក"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "យ៉ាហ្វីយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T05:09:19.713711141Z",
+  "model": "glm-5.3"
+}

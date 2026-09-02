@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "កូនប្រុសទាំងឡាយនៃលេវី គឺគេរស្ហូន កេហាត និងមេរារី។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនប្រុសទាំងឡាយនៃ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "លេវី"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "គេរស្ហូន"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "កេហាត"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "និងមេរារី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:23.987699880Z",
+  "model": "glm-5.3"
+}

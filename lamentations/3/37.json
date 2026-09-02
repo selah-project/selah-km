@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "អ្នកណានេះទើបនិយាយ ហើយវាបានកើតឡើង បើអាដូណាយមិនបានបញ្ជាទេ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "អ្នកណា"
+    },
+    {
+      "surface": "זה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ហើយវាបានកើតឡើង"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "អាដូណាយ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "បានបញ្ជា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:09.858303314Z",
+  "model": "glm-5.3"
+}

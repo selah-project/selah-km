@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "តើអ្នកណាមិនដឹង ក្នុងទាំងអស់នៃទាំងនេះ ថា ដៃយ៉ាវេបានធ្វើ ⟨នេះ⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "អ្នកណា"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ដឹង"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ក្នុងទាំងអស់នៃ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ទាំងនេះ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ដៃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "បានធ្វើ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "នេះ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:28:29.243597679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ស្លាបព្រាមួយ ទម្ងន់ដប់សិកល ធ្វើដោយមាស ពេញដោយគ្រឿងក្រអូប។",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ស្លាបព្រា"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "មាស"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ពេញ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "គ្រឿងក្រអូប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:31:34.879609827Z",
+  "model": "glm-5.3"
+}

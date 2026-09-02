@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ដ្បិតគាត់មិនស្គាល់ឡើយ នូវអ្វីដែលនឹងកើតមាន; ដ្បិតនៅពេលវានឹងកើតមាន នរណានឹងប្រាប់គាត់?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "គាត់មិន"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ស្គាល់"
+    },
+    {
+      "surface": "מה",
+      "gloss": "អ្វី"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ដែលនឹងកើតមាន"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "នៅពេល"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "វានឹងកើតមាន"
+    },
+    {
+      "surface": "מי",
+      "gloss": "នរណា"
+    },
+    {
+      "surface": "យגיד",
+      "gloss": "នឹងប្រាប់"
+    },
+    {
+      "surface": "לו",
+      "gloss": "គាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:35.560714702Z",
+  "model": "glm-5.3"
+}

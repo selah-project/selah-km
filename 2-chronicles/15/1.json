@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "អាហ្សារយ៉ាហ៊ូ កូនប្រុសអូដែដ — វិញ្ញាណនៃអេឡូហ៊ីមបានមកលើគាត់។",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "អាហ្សារយ៉ាហ៊ូ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "អូដែដ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "បានមក"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "លើគាត់"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "វិញ្ញាណ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "អេឡូហ៊ីម"
+    }
+  ],
+  "timestamp": "2026-09-02T10:53:50.829058517Z",
+  "model": "glm-5.3"
+}

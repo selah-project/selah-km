@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "នៅពេលនោះ ស្តេចអាចាសបានផ្ញើសារទៅកាន់ស្តេចទាំងឡាយនៃអាស្ហូរ ដើម្បីជួយគាត់។",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "នៅពេល"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "នោះ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "បានផ្ញើសារ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "អាចាស"
+    },
+    {
+      "surface": "על",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ស្តេចទាំងឡាយនៃ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "អាស្ហូរ"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ដើម្បីជួយ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "គាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:59:35.357111194Z",
+  "model": "glm-5.3"
+}

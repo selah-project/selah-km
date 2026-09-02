@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ហើយមានល្ងាច ហើយមានព្រឹក — ថ្ងៃទីបី។",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយមាន"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ល្ងាច"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយមាន"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ព្រឹក"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ទីបី"
+    }
+  ],
+  "timestamp": "2026-09-02T01:51:43.099932275Z",
+  "model": "glm-5.3"
+}

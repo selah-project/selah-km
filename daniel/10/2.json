@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "នៅគ្រានោះ ខ្ញុំ ដាន្យែល បានសោកសៅអស់រយៈពេលបីសប្ដាហ៍នៃថ្ងៃ។",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "នៅគ្រានោះ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ទាំងនោះ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ខ្ញុំ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ដាន្យែល"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "បានសោកសៅ"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "សោកសៅ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "បី"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "សប្ដាហ៍"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ថ្ងៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:08:24.365880238Z",
+  "model": "glm-5.3"
+}

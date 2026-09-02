@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "ហេតុដូច្នេះ អញបង្គាប់អ្នកថា អ្នកត្រូវបែងផ្សាយទីក្រុងបីសម្រាប់អ្នក។",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ដោយសារ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ហេតុនោះ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "អញ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "បង្គាប់អ្នក"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ទីក្រុង"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "ត្រូវបែងផ្សាយ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "សម្រាប់អ្នក"
+    }
+  ],
+  "timestamp": "2026-09-02T04:09:06.448378977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅអាទើ នៃហេស៊ើគីយ៉ា ប្រាំបួនសិបប្រាំបី។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "អាទើ"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "នៃហេស៊ើគីយ៉ា"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ប្រាំបួនសិប"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ប្រាំបី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:42.254504489Z",
+  "model": "glm-5.3"
+}

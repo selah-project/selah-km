@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ចាប់ពីអារ៉ូអេរ ដែលស្ថិតលើគែមទន្លេអារណុន រហូតដល់ភ្នំស៊ីយ៉ុន — នោះគឺហេរម៉ុន —",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "ចាប់ពីអារ៉ូអេរ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "គែម"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ទន្លេ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "អារណុន"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "រហូតដល់"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ភ្នំ"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "ស៊ីយ៉ុន"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "នោះគឺ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ហេរម៉ុន"
+    }
+  ],
+  "timestamp": "2026-09-02T04:00:28.082398715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "យេទូរ ណាពីស្ហ និងក្សេដេម៉ា។ ទាំងនេះហើយជាបុត្រនៃយីស្ហម៉ើអែល។",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "យេទូរ"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ណាពីស្ហ"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "និងក្សេដេម៉ា"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ទាំងនេះ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨គេ⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "យីស្ហម៉ើអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:39.728143421Z",
+  "model": "glm-5.3"
+}

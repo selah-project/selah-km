@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "កូនប្រុសរបស់ហ្គែរស្ហូម គឺស្ហេបូអែល ជាមេ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនប្រុសរបស់"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ហ្គែរស្ហូម"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "ស្ហេបូអែល"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ជាមេ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:41:27.211953664Z",
+  "model": "glm-5.3"
+}

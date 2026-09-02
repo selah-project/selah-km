@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និងអាហ្គីយ៉ូ ស្ហាស្ហាក និងយេរេម៉ូត។",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "និងអាហ្គីយ៉ូ"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ស្ហាស្ហាក"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "និងយេរេម៉ូត"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:30.469360799Z",
+  "model": "glm-5.3"
+}

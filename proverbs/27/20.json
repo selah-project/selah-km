@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "ស្ហេអុល និងអាបឌុនមិនឆ្អែតឡើយ ហើយភ្នែកនៃមនុស្សក៏មិនឆ្អែតឡើយ។",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ស្ហេអុល"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "ហើយអាបឌុន"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "ឆ្អែតឡើយ"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ហើយភ្នែក"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "នៃមនុស្ស"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "ឆ្អែតឡើយ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:20:46.750455340Z",
+  "model": "glm-5.3"
+}

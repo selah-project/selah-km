@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ដើម្បីសំណើច គេបាច់អាហារ ហើយស្រារីករាយជីវិត តែប្រាក់ឆ្លើយតបនឹង ⟨את⟩ គ្រប់យ៉ាង។",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ដើម្បីសំណើច"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "គេបាច់"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "អាហារ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ហើយស្រា"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "រីករាយ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ជីវិត"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "តែប្រាក់"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ឆ្លើយតប"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "គ្រប់យ៉ាង"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "គ្រប់យ៉ាង"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:00.357374403Z",
+  "model": "glm-5.3"
+}

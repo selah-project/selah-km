@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "ហើយយ៉ាវេនឹងគង់ជាស្តេច លើគ្រប់ផែនដី; នៅថ្ងៃនោះ យ៉ាវេនឹងមានតែមួយ ហើយព្រះនាមទ្រង់តែមួយ។",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ហើយនឹងគង់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ជាស្តេច"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "គ្រប់"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ផែនដី"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "នៅថ្ងៃ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "នោះ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "នឹងមាន"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "តែមួយ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ហើយព្រះនាមទ្រង់"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "តែមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:19:12.405059715Z",
+  "model": "glm-5.3"
+}

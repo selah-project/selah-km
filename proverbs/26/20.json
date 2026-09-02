@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 26,
+  "translation": "នៅពេលឈើអស់ ភ្លើងនឹងរលត់ ហើយនៅពេលគ្មានអ្នកញុះញង់ ជម្លោះនឹងស្ងាត់។",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "នៅពេលអស់"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ឈើ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "រលត់"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ភ្លើង"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "ហើយនៅពេលគ្មាន"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "អ្នកញុះញង់"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "ស្ងាត់"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ជម្លោះ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:20:21.293554365Z",
+  "model": "glm-5.3"
+}

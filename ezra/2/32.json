@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់ហារ៊ីម ជាចំនួនបីរយ និងម្ភៃ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ហារ៊ីម"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "និងម្ភៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:48.424377252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និង យីស្ហផាន និង អែបេរ និង អែលីអែល។",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "និង យីស្ហផាន"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "និង អែបេរ"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "និង អែលីអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:56.852668452Z",
+  "model": "glm-5.3"
+}

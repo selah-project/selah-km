@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ហាតសូរ រ៉ាម៉ា ហ្គីតាយិម",
+  "tokens": [
+    {
+      "surface": "חָצוֹר",
+      "gloss": "ហាតសូរ"
+    },
+    {
+      "surface": "רָמָה",
+      "gloss": "រ៉ាម៉ា"
+    },
+    {
+      "surface": "גִּתָּיִם",
+      "gloss": "ហ្គីតាយិម"
+    }
+  ],
+  "timestamp": "2026-09-02T14:11:11.143329539Z",
+  "model": "glm-5.3"
+}

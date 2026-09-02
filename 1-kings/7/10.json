@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "និងគ្រឹះ ⟨គឺ⟩ ថ្មមានតម្លៃ ថ្មធំៗ ថ្មដប់ហត្ថ និងថ្មប្រាំបីហត្ថ។",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "និងគ្រឹះ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ថ្ម"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "មានតម្លៃ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ថ្ម"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ធំៗ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ថ្ម"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ហត្ថ"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "និងថ្ម"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ប្រាំបី"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ហត្ថ"
+    }
+  ],
+  "timestamp": "2026-09-02T05:26:17.396980943Z",
+  "model": "glm-5.3"
+}

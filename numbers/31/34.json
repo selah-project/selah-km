@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "ហើយក្របី គឺមួយម៉ឺន និងប៉ង្សឹងពាន់។",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ហើយលា"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "និងប៉ង្សឹង"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ពាន់"
+    }
+  ],
+  "timestamp": "2026-09-02T03:51:53.870000976Z",
+  "model": "glm-5.3"
+}

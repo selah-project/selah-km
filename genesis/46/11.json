@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 46,
+  "translation": "និងកូនប្រុសរបស់ លេវី៖ គែរស្ហូន កេហាត និងមេរ៉ារី។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "និងកូនប្រុសរបស់"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "លេវី"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "គែរស្ហូន"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "កេហាត"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "និងមេរ៉ារី"
+    }
+  ],
+  "timestamp": "2026-09-02T02:25:32.557583876Z",
+  "model": "glm-5.3"
+}

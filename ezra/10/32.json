@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ប៊ិនយ៉ាមីន ម៉លឡូខ ស្ហេម៉រយ៉ា។",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ប៊ិនយ៉ាមីន"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ម៉លឡូខ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ស្ហេម៉រយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T11:55:25.151775379Z",
+  "model": "glm-5.3"
+}

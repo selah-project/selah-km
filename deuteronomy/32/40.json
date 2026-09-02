@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 32,
+  "translation": "ព្រោះអញងើបដៃអញឡើងទៅមេឃ ហើយនិយាយថា ដូចជាអញរស់ដល់អស់កល្បជានិច្ឍ។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ងើបឡើង"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "មេឃ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ដៃអញ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ហើយនិយាយថា"
+    },
+    {
+      "surface": "חי",
+      "gloss": "រស់"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "អញ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ដល់អស់កល្បជានិច្ឍ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:16:43.786342043Z",
+  "model": "glm-5.3"
+}

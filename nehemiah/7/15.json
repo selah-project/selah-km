@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅរបស់ប៊ិននូយ ប្រាំមួយរយ សែសិបប្រាំបី។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "ប៊ិននូយ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ប្រាំមួយ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "សែសិប"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ប្រាំបី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:56.567495962Z",
+  "model": "glm-5.3"
+}

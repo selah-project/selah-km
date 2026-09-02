@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "តើរហូតដល់ពេលណា ខ្ញុំនឹងឃើញទង់សញ្ញា និងឮសំឡេងនៃស្គរសត្វ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "រហូតដល់"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ពេលណា"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ខ្ញុំនឹងឃើញ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ទង់សញ្ញា"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ខ្ញុំនឹងឮ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "សំឡេងនៃ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ស្គរសត្វ"
+    }
+  ],
+  "timestamp": "2026-09-02T06:40:11.179046973Z",
+  "model": "glm-5.3"
+}

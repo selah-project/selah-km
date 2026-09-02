@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 26,
+  "translation": "ហើយរបារកណ្តាល នៅចំកណ្តាលក្បាលឈើ នឹងទំលុះពីចុងមួយទៅចុងមួយ។",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "ហើយរបារ"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "កណ្តាល"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "នៅចំកណ្តាល"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ក្បាលឈើ"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "នឹងទំលុះ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ពី"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ចុងមួយ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ចុងមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:47:44.118648523Z",
+  "model": "glm-5.3"
+}

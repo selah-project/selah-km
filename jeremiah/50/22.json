@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 50,
+  "translation": "សំឡេងនៃសង្គ្រាមនៅក្នុងដី និងការបែកបាក់ដ៏ធំមួយ។",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "សំឡេងនៃ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "សង្គ្រាម"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "នៅក្នុងដី"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "និងការបែកបាក់"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ដ៏ធំ"
+    }
+  ],
+  "timestamp": "2026-09-02T07:14:11.941234909Z",
+  "model": "glm-5.3"
+}

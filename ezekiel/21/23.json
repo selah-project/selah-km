@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "ហើយពាក្យនៃយ៉ាវេបានមកដល់អញ ដើម្បីនិយាយថា —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយ...បានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ដល់អញ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:29:36.740072673Z",
+  "model": "glm-5.3"
+}

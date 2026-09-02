@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "អ្វីដែលខូច មិនអាចត្រូវធ្វើឱ្យត្រង់បានទេ ហើយអ្វីដែលខ្វះ មិនអាចត្រូវរាប់បានទេ។",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "អ្វីដែលខូច"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "អាច"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ត្រូវធ្វើឱ្យត្រង់"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ហើយអ្វីដែលខ្វះ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "អាច"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ត្រូវរាប់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:54.741229489Z",
+  "model": "glm-5.3"
+}

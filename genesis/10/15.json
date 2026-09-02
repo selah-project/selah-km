@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ហើយកាណានបានកើត ⟨את⟩ ស៊ីដូន បុត្របង្កើតរបស់គាត់ និង ⟨את⟩ ហេត។",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ហើយកាណាន"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "បានកើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ស៊ីដូន"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "ស៊ីដូន"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "បុត្របង្កើតរបស់គាត់"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ហេត"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ហេត"
+    }
+  ],
+  "timestamp": "2026-09-02T12:20:27.835575407Z",
+  "model": "glm-5.3"
+}

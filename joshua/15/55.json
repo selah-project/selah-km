@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "ម៉ាអោន, ការមែល, ហ្ស៊ីហ្វ, និងយូតាហ,",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "ម៉ាអោន"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "ការមែល"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "ហ្ស៊ីហ្វ"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "យូតាហ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:38.844081137Z",
+  "model": "glm-5.3"
+}

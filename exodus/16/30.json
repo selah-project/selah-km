@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 16,
+  "translation": "ហើយប្រជាជនបាននៅសម្រាកនៅថ្ងៃទីប្រាំពីរ។",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ហើយបាននៅសម្រាក"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ប្រជាជន"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "នៅថ្ងៃ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ទីប្រាំពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:41:58.510453Z",
+  "model": "glm-5.3"
+}

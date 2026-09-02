@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "ហើយអ្នកនឹងធ្វើស៊ុមត្បូងធ្វើពីមាស។",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ហើយអ្នកនឹងធ្វើ"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "ស៊ុមត្បូង"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "មាស"
+    }
+  ],
+  "timestamp": "2026-09-02T02:50:08.568425484Z",
+  "model": "glm-5.3"
+}

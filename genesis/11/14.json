@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ស្ហេលាខបានរស់សាមសិបឆ្នាំ ហើយបង្កើត ⟨את⟩ អែបេរ។",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ស្ហេលាខ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "បានរស់"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "សាមសិប"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ហើយបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អែបេរ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "អែបេរ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:57:31.486671720Z",
+  "model": "glm-5.3"
+}

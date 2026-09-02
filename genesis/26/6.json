@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 26,
+  "translation": "ហើយអ៊ីស្ហាក់បានរស់នៅក្នុងក្រារ។",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ហើយបានរស់នៅ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "អ៊ីស្ហាក់"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ក្នុងក្រារ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:08:46.841429579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ហើយយ៉ាវេបានទំនាក់ទំនងទៅកាន់ម៉ូស្ហេ ដោយពោលថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានទំនាក់ទំនង"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T13:47:17.241083430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "យញ្ញបាប វាជា; មានទោសមែនៗ ចំពោះយ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "យញ្ញបាប"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វាជា"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "មានទោស"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "មែនៗ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ចំពោះយ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:04:56.037151249Z",
+  "model": "glm-5.3"
+}

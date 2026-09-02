@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "គោវ័យក្មេងមួយ ក្របីមួយ ចៀមមួយ អាយុមួយឆ្នាំ ដើម្បី⟨ជា⟩យញ្ញបូជា។",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "គោ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ហ្វូងក្របី"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ក្របី"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ចៀម"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "មួយឆ្នាំ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ដើម្បីយញ្ញបូជា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:33:27.568569743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ភ្លើងនេះត្រូវដុតជាប្រចាំលើអាសនៈបូជា មិនត្រូវឱ្យរលត់ឡើយ។",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ភ្លើង"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ជាប្រចាំ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ត្រូវដុត"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "អាសនៈបូជា"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ត្រូវឱ្យរលត់"
+    }
+  ],
+  "timestamp": "2026-09-02T03:05:08.957542028Z",
+  "model": "glm-5.3"
+}

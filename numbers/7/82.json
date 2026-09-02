@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពពែរាប់មួយ ដើម្បី⟨ជា⟩បូជានៃបាប។",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ពពែរាប់"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "នៃពពែ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ដើម្បីបូជានៃបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:33:27.568826992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 29,
+  "translation": "ហើយដាវីដកូនយីស្ហៃបានសោយរាជ្យលើអ៊ីស្រាអែលទាំងអស់។",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ហើយដាវីដ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "យីស្ហៃ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "បានសោយរាជ្យ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រាអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T12:00:31.541407846Z",
+  "model": "glm-5.3"
+}

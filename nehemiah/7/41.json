@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅរបស់ផាស្ហ្ហ៊ួរ មួយពាន់ ពីររយ សែសិបប្រាំពីរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ផាឡ្ស៊ូរ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "មួយពាន់"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ពីររយ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "សែសិប"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ប្រាំពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:56:09.334296943Z",
+  "model": "glm-5.3"
+}

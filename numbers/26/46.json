@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 26,
+  "translation": "ហើយឈ្មោះកូនស្រីរបស់អាស្ហេរ គឺសេរ៉ាះ។",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ហើយឈ្មោះ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "កូនស្រី"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "អាស្ហេរ"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "សេរ៉ាះ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:49:10.233039042Z",
+  "model": "glm-5.3"
+}

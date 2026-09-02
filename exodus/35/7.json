@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 35,
+  "translation": "ស្បែកក្រពើឈីលាបក្រហម និងស្បែកទាខៈ និងឈើស៊ីតឹម។",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ស្បែក"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ក្រពើឈី"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "លាបក្រហម"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ស្បែក"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ទាខៈ"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ឈើ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ស៊ីតឹម"
+    }
+  ],
+  "timestamp": "2026-09-02T02:54:22.756180921Z",
+  "model": "glm-5.3"
+}

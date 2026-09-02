@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "km",
+  "chapter": 16,
+  "translation": "ហើយអ៊ីយ៉ុបបានឆ្លើយ ហើយនិយាយថា ៖",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ហើយបានឆ្លើយ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "អ៊ីយ៉ុប"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T11:45:57.794344047Z",
+  "model": "glm-5.3"
+}

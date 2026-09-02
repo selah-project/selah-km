@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "km",
+  "chapter": 40,
+  "translation": "អ៊ីយ៉ូបក៏ឆ្លើយតប ⟨את⟩ យ៉ាវេ ហើយនិយាយថា។",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ក៏ឆ្លើយតប"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "អ៊ីយ៉ូប"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "យ៉ាវេ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:41:45.747286025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ហូស្ហេអា ហាណានយ៉ា ហាស្ហ៊ុប។",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "ហូស្ហេអា"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ហាណានយ៉ា"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ហាស្ហ៊ុប"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:48.226580780Z",
+  "model": "glm-5.3"
+}

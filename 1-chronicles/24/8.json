@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "សម្រាប់ហារីមទីបី សម្រាប់ស្ហេអូរីមទីបួន។",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "សម្រាប់ហារីម"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ទីបី"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "សម្រាប់ស្ហេអូរីម"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "ទីបួន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:41:32.251060778Z",
+  "model": "glm-5.3"
+}

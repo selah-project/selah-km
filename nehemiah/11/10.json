@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ពីបុរោហិតទាំងឡាយ៖ យេដាយ៉ា កូនរបស់យ៉ូយ៉ារីប យ៉ាគីន។",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ពី"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "បុរោហិតទាំងឡាយ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "យេដាយ៉ា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនរបស់"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "យ៉ូយ៉ារីប"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "យ៉ាគីន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:25:02.223860139Z",
+  "model": "glm-5.3"
+}

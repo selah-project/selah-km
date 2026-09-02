@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 35,
+  "translation": "អ្នកបានឃើញហើយ យ៉ាវេអើយ កុំស្ងាត់; អាដូណាយអើយ កុំឲ្យឆ្ងាយពីខ្ញុំ។",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "អ្នកបានឃើញ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ស្ងាត់"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "អាដូណាយ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ឲ្យឆ្ងាយ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ពីខ្ញុំ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:30:20.663516053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "សូមមើលមកខ្ញុំ ហើយចំឡែកចិត្ត ហើយដាក់ដៃលើមាត់។",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "សូមមើលមក"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ខ្ញុំ"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "ហើយចំឡែកចិត្ត"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "ហើយដាក់"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ដៃ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "មាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T11:46:11.540478293Z",
+  "model": "glm-5.3"
+}

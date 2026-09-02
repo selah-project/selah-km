@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "ទាំងដើមឈើរបស់អ្នក និងផលនៃដីរបស់អ្នក ស្រមោចនឹងកាន់កាប់។",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ទាំង"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ដើមឈើរបស់អ្នក"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "និងផល"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "នៃដីរបស់អ្នក"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "នឹងកាន់កាប់"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ស្រមោច"
+    }
+  ],
+  "timestamp": "2026-09-02T04:13:41.104114014Z",
+  "model": "glm-5.3"
+}

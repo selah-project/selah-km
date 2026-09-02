@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ខ្ញុំបានហៅនាមអ្នក យ៉ាវេ ពីរណ្តៅទឹកដីជ្រៅបំផុត។",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ខ្ញុំបានហៅ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "នាមអ្នក"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ពីរណ្តៅ"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ទឹកដីជ្រៅបំផុត"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:19.061340084Z",
+  "model": "glm-5.3"
+}

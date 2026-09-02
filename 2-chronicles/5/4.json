@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ហើយពុទ្ធចារ្យទាំងអស់នៃយីស្រាអែលបានមក ហើយឡេវីទាំងឡាយបានលើក ⟨את⟩ ហូប។",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ហើយបានមក"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ពុទ្ធចារ្យ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "យីស្រាអែល"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ហើយបានលើក"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ឡេវី"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ហូប"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ហូប"
+    }
+  ],
+  "timestamp": "2026-09-02T10:48:19.426196681Z",
+  "model": "glm-5.3"
+}

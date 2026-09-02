@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ដេញព្រា ដេញព្រាខ្ញុំដូចសត្វស្លាប សត្រូវរបស់ខ្ញុំ ដោយឥតមូលហេតុ។",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "ដេញព្រា"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "ដេញព្រាខ្ញុំ"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ដូចសត្វស្លាប"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "សត្រូវរបស់ខ្ញុំ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ដោយឥតមូលហេតុ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:26.480621981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ហើយពេលប្រមូល ⟨את⟩ សភាសហគមន៍ អ្នករួមផ្លុំតែមិនរោទ៍។",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "ពេលប្រមូល"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "សភាសហគមន៍"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "សភាសហគមន៍"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "អ្នកផ្លុំ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "រោទ៍"
+    }
+  ],
+  "timestamp": "2026-09-02T03:34:49.776590746Z",
+  "model": "glm-5.3"
+}

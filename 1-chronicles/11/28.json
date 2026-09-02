@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "អ៊ីរ៉ា កូនប្រុសអ៊ីកេស ទេកូអី អាប៊ីអេសេរ អាណាថោធី។",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "អ៊ីរ៉ា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "អ៊ីកេស"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ទេកូអី"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "អាប៊ីអេសេរ"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "អាណាថោធី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:33:57.121569107Z",
+  "model": "glm-5.3"
+}

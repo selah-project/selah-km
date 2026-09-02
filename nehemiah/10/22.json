@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "មិស្ហេហ្ស៊ាបេអែល តសាដូក យ៉ាដួ។",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "មិស្ហេហ្ស៊ាបេអែល"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "តសាដូក"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "យ៉ាដួ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:48.226357968Z",
+  "model": "glm-5.3"
+}

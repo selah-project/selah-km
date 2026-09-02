@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "បាទ បានបង្វែរមករកខ្ញុំ គាត់បង្វែរដៃ ⟨របស់គាត់⟩ គ្រប់ៗថ្ងៃ។",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "បាទ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "មករកខ្ញុំ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "បានបង្វែរ"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "គាត់បង្វែរ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ដៃរបស់គាត់"
+    },
+    {
+      "surface": "כל",
+      "gloss": "គ្រប់ៗ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ថ្ងៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:10.977603648Z",
+  "model": "glm-5.3"
+}

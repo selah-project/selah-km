@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "ហើយពួកលេវីនឹងឆ្លើយតប ហើយនិយាយទៅរដ្ឋមន្ត្រីទាំងអស់នៃអ៊ីស្រាអែល ដោយសំឡេងខ្ពស់៖",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ហើយនឹងឆ្លើយតប"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ពួកលេវី"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ហើយនិយាយ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "איש",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រាអែល"
+    },
+    {
+      "surface": "קול",
+      "gloss": "សំឡេង"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ខ្ពស់"
+    }
+  ],
+  "timestamp": "2026-09-02T04:12:41.439264363Z",
+  "model": "glm-5.3"
+}

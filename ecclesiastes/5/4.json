@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ប្រសើរជាង គឺដែលអ្នកមិនស្បថ ជាងពីអ្នកស្បថហើយមិនបង្គ្រប់។",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ប្រសើរជាង"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "អ្នកស្បថ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ជាងពីអ្នកស្បថ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ហើយមិន"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "បង្គ្រប់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:53:44.443692955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "km",
+  "chapter": 56,
+  "translation": "សត្វនៃវាលទាំងប៉ុន្មាន មកបរិភោគទៅ សត្វនៃព្រៃទាំងប៉ុន្មាន",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ទាំងប៉ុន្មាន"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "សត្វនៃ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "វាល"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "មក"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "បរិភោគទៅ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងប៉ុន្មាន"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "សត្វនៃ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ព្រៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T06:29:31.622859393Z",
+  "model": "glm-5.3"
+}

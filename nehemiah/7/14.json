@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅរបស់ហ្សាក្កាយ ប្រាំពីររយ ហុកសិប។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ហ្សាក្កាយ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ប្រាំពីរ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ហុកសិប"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:56.567321694Z",
+  "model": "glm-5.3"
+}

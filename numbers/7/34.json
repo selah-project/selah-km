@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនពពីឈ្មោលមួយ សម្រាប់ពលីកម្មបាប",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "កូនពពីឈ្មោល"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ហ្វូងពពី"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "សម្រាប់ពលីកម្មបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:30:57.257139933Z",
+  "model": "glm-5.3"
+}

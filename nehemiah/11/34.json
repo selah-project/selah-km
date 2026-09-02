@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ហាឌិត តស្បោអ៊ីម នេប៉ាឡាត។",
+  "tokens": [
+    {
+      "surface": "חָדִ֥יד",
+      "gloss": "ហាឌិត"
+    },
+    {
+      "surface": "צְבֹעִ֖ים",
+      "gloss": "តស្បោអ៊ីម"
+    },
+    {
+      "surface": "נְבַלָּֽט",
+      "gloss": "នេប៉ាឡាត"
+    }
+  ],
+  "timestamp": "2026-09-02T13:33:54.240132406Z",
+  "model": "glm-5.3"
+}

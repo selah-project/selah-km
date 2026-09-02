@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 20,
+  "translation": "ចាំមុខ ⟨את⟩ ថ្ងៃសប្ប័ន្យ ដើម្បីបរិសុទ្ធនូវវា។",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ចាំមុខ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ថ្ងៃសប្ប័ន្យ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "សប្ប័ន្យ"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ដើម្បីបរិសុទ្ធនូវវា"
+    }
+  ],
+  "timestamp": "2026-09-02T11:09:33.592463841Z",
+  "model": "glm-5.3"
+}

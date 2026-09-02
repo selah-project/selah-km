@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "ហើយអ្នក មនុស្សកំណើត ចូរលើកឡើងនូវការសោកសង្រេងចំពោះ តសូរ។",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ហើយអ្នក"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ចូរលើកឡើង"
+    },
+    {
+      "surface": "על",
+      "gloss": "ចំពោះ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "តសូរ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ការសោកសង្រេង"
+    }
+  ],
+  "timestamp": "2026-09-02T07:36:01.548626766Z",
+  "model": "glm-5.3"
+}

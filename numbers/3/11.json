@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 3:11",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ហើយយ៉ាវេបាននិយាយដល់ម៉ូស្ហេ ដោយពោលថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយ...បាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:28:29.838531141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ភ្នែករបស់ខ្ញុំហូរចុះ ហើយមិនស្ងប់ ដោយគ្មានការសម្រាកឡើយ។",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ភ្នែករបស់ខ្ញុំ"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ហូរចុះ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ហើយមិន"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "ស្ងប់"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ដោយគ្មាន"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "ការសម្រាក"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:26.480127045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 16,
+  "translation": "អាបត្តិដល់យ៉ាវេ គឺរាល់អ្នកដែលមានចិត្តអំនួត; ដៃចាប់នឹងដៃ គេនឹងមិនរួចផុតទោសឡើយ។",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "អាបត្តិ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "រាល់"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "អំនួត"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ចិត្ត"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ដៃ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "នឹងដៃ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "រួចផុតទោស"
+    }
+  ],
+  "timestamp": "2026-09-02T09:14:59.168774070Z",
+  "model": "glm-5.3"
+}

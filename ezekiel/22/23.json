@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 22,
+  "translation": "ហើយពាក្យនៃយ៉ាវេបានមកដល់ខ្ញុំ ថា៖",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយ…បានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:32:18.372483885Z",
+  "model": "glm-5.3"
+}

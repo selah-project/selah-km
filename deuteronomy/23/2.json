@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "អ្នកដែលត្រូវរបួសខ្ទេះ ឬត្រូវកាត់សមាជិតភេទ នឹងមិនចូលក្នុងប្រជុំរបស់យ៉ាវេឡើយ។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ចូល"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "ត្រូវរបួស"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ខ្ទេះ"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "ឬត្រូវកាត់"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "សមាជិតភេទ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ក្នុងប្រជុំ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:11:53.292385316Z",
+  "model": "glm-5.3"
+}

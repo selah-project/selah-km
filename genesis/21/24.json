@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "ហើយអាវរ៉ាហាំបាននិយាយថា ខ្ញុំនឹងស្បថ។",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយ (គាត់) បាននិយាយថា"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "អាវរ៉ាហាំ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ខ្ញុំ"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "នឹងស្បថ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:03:34.064468168Z",
+  "model": "glm-5.3"
+}

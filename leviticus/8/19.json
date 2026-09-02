@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ហើយគេបានសំលាប់វា ហើយម៉ូស្ហេបានរោច ⟨את⟩ ឈាមនោះលើចេតីនោះជុំវិញ។",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ហើយគេបានសំលាប់វា"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ហើយ...បានរោច"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ឈាមនោះ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ឈាមនោះ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ចេតីនោះ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ជុំវិញ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:09:43.470485374Z",
+  "model": "glm-5.3"
+}

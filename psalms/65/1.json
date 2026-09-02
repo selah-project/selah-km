@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 65,
+  "translation": "ដល់អ្នកដឹកនាំចម្រៀង ម័យម៉រ របស់ដាវីដ ចម្រៀង។",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ដល់អ្នកដឹកនាំចម្រៀង"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ម័យម៉រ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "របស់ដាវីដ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ចម្រៀង"
+    }
+  ],
+  "timestamp": "2026-09-02T08:39:53.876583273Z",
+  "model": "glm-5.3"
+}

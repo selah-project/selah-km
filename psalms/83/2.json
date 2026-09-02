@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 83,
+  "translation": "អេឡូហ៊ីមអើយ កុំឲ្យ ⟨មាន⟩ ភាពស្ងាត់ដល់អ្នក; កុំស្ងាត់ ហើយកុំនៅស្ងៀម អែលអើយ។",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "អេឡូហ៊ីម"
+    },
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ភាពស្ងាត់"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ដល់អ្នក"
+    },
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ស្ងាត់"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ហើយកុំ"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "នៅស្ងៀម"
+    },
+    {
+      "surface": "אל",
+      "gloss": "អែល"
+    }
+  ],
+  "timestamp": "2026-09-02T08:46:40.892263191Z",
+  "model": "glm-5.3"
+}

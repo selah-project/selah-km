@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 49,
+  "translation": "ដើម្បីឱ្យគេនៅតែរស់ដល់កាលអនន្ត ហើយមិនឃើញរណ្តៅឡើយ។",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ដើម្បីឱ្យរស់"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "នៅតែ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ដល់កាលអនន្ត"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ឃើញ"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "រណ្តៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:34:53.153987531Z",
+  "model": "glm-5.3"
+}

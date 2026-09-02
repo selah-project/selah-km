@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "និង ហ្គេដោរ និង អាហ៊ីយោ និង ហ្ស៊េការីយ៉ា និង មិកឡោត។",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "និង ហ្គេដោរ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "និង អាហ៊ីយោ"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "និង ហ្ស៊េការីយ៉ា"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "និង មិកឡោត"
+    }
+  ],
+  "timestamp": "2026-09-02T10:34:36.474166155Z",
+  "model": "glm-5.3"
+}

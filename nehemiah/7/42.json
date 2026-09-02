@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅរបស់ហារីម មួយពាន់ ដប់ប្រាំពីរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ហារីម"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "មួយពាន់"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ប្រាំពីរ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    }
+  ],
+  "timestamp": "2026-09-02T11:56:09.334518847Z",
+  "model": "glm-5.3"
+}

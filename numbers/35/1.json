@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 35,
+  "translation": "យ៉ាវេបានទូន្មានដល់ម៉ូស្ហេនៅទំនាបម៉ូអាប នៅចំហៀងយ៉ារដែន មុខយេរីហូ ថាទៅ។",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានទូន្មាន"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "នៅទំនាប"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ម៉ូអាប"
+    },
+    {
+      "surface": "על",
+      "gloss": "នៅចំហៀង"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "យ៉ារដែន"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "យេរីហូ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថាទៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:55:14.226204556Z",
+  "model": "glm-5.3"
+}

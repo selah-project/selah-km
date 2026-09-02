@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 8:1",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ហើយយ៉ាវេបានទូលដល់ម៉ូស្ហេ ថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបានទូល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:35:21.761601192Z",
+  "model": "glm-5.3"
+}

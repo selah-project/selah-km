@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ស៊ីបបេកាយ ជនហ៊ូស្ហាថ អ៊ីឡាយ ជនអាហោហ៊ី។",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "ស៊ីបបេកាយ"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "ជនហ៊ូស្ហាថ"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "អ៊ីឡាយ"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ជនអាហោហ៊ី"
+    }
+  ],
+  "timestamp": "2026-09-02T11:58:03.523603918Z",
+  "model": "glm-5.3"
+}

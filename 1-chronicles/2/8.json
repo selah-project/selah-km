@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនប្រុសទាំងឡាយនៃអេថាន គឺ អាហ្សារយ៉ា។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "កូនប្រុសទាំងឡាយនៃ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "អេថាន"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "អាហ្សារយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:30.596389146Z",
+  "model": "glm-5.3"
+}

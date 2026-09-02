@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ហើយយ៉ាវេបានទូតថតទៅម៉ូស្ហេ ដោយពោលថា",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយបានទូតថត"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:30:07.060238822Z",
+  "model": "glm-5.3"
+}

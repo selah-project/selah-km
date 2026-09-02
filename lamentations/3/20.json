@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ការចងចាំ អ្នកនឹងចងចាំ ហើយនេហ្វេស្ហរបស់ខ្ញុំទ្រេតទាបលើខ្ញុំ។",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ការចងចាំ"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "អ្នកនឹងចងចាំ"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "ហើយទ្រេតទាប"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "លើខ្ញុំ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "នេហ្វេស្ហរបស់ខ្ញុំ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:03.311215961Z",
+  "model": "glm-5.3"
+}

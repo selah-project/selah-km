@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "អាម៉ូន បុត្ររបស់គាត់ យ៉ូសីយ៉ា បុត្ររបស់គាត់។",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "អាម៉ូន"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "បុត្ររបស់គាត់"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "យ៉ូសីយ៉ា"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "បុត្ររបស់គាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:29:21.224968358Z",
+  "model": "glm-5.3"
+}

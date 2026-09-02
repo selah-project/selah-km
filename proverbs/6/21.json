@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ចងវានៅលើចិត្តរបស់អ្នកជានិច្ច ខ្សែវានៅលើករបស់អ្នក។",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ចងវានៅ"
+    },
+    {
+      "surface": "על",
+      "gloss": "នៅលើ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ចិត្តរបស់អ្នក"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ជានិច្ច"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "ខ្សែវានៅលើ"
+    },
+    {
+      "surface": "על",
+      "gloss": "នៅលើ"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "ករបស់អ្នក"
+    }
+  ],
+  "timestamp": "2026-09-02T09:10:33.559779754Z",
+  "model": "glm-5.3"
+}

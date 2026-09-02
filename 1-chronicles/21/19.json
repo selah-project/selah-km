@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "ហើយដាវីឌបានឡើងទៅតាមពាក្យរបស់កាដ ដែលគាត់បាននិយាយក្នុងព្រះនាមយ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ហើយបានឡើងទៅ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ដាវីឌ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "តាមពាក្យរបស់"
+    },
+    {
+      "surface": "גד",
+      "gloss": "កាដ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "បាននិយាយ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ក្នុងព្រះនាម"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:58:52.027040762Z",
+  "model": "glm-5.3"
+}

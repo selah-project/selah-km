@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "អែប្រូន រេហុប ហាមូន និងកាណា រហូតដល់ស្ហីដោន ដ៏ធំ។",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "អែប្រូន"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "រេហុប"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "ហាមូន"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "កាណា"
+    },
+    {
+      "surface": "עד",
+      "gloss": "រហូតដល់"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ស្ហីដោន"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ដ៏ធំ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:29:17.463118116Z",
+  "model": "glm-5.3"
+}

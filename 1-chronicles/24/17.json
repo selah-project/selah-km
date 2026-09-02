@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ទៅ យ៉ាគីន ទីម្នាក់ និងម្ភៃ; ទៅ ហ្គាម៊ូល ទីពីរ និងម្ភៃ។",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "ទៅ យ៉ាគីន"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "និងម្ភៃ"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ទៅ ហ្គាម៊ូល"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ពីរ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "និងម្ភៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:40:56.590260245Z",
+  "model": "glm-5.3"
+}

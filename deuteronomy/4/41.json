@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "នៅពេលនោះ ម៉ូស្ហេបានបំបែកទីក្រុងបី នៅឯង័នៃហ្យារដិន ខាងកើតដែលព្រះអាទិត្យរះ។",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "នៅពេលនោះ"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "បានបំបែក"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ទីក្រុង"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "នៅឯង"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ហ្យារដិន"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ខាងកើត"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ព្រះអាទិត្យរះ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:59:32.919518253Z",
+  "model": "glm-5.3"
+}

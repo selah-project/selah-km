@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "ពីក្រុមពូជនៃស៊េប៊ូលូន កាឌ្យែល កូននៃសូឌី។",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ពីក្រុមពូជនៃ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ស៊េប៊ូលូន"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "កាឌ្យែល"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូននៃ"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "សូឌី"
+    }
+  ],
+  "timestamp": "2026-09-02T03:35:37.678811441Z",
+  "model": "glm-5.3"
+}

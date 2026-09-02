@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "ហើយស្ហលោម៉ូបានទៅកាន់ហាមាតស្ហូបាហ៍ ហើយបានត្រដរ់លើវា។",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ហើយ...បានទៅ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ស្ហលោម៉ូ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ហាមាត"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ស្ហូបាហ៍"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ហើយបានត្រដរ់"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "លើវា"
+    }
+  ],
+  "timestamp": "2026-09-02T13:38:24.300448149Z",
+  "model": "glm-5.3"
+}

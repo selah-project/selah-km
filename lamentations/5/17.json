@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ដោយសារនេះ ចិត្តរបស់យើងឈឺថ្លាប់; ដោយសារទាំងនេះ ភ្នែករបស់យើងងងឹត។",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ដោយសារ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "បានកើតឡើង"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ឈឺថ្លាប់"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ចិត្តរបស់យើង"
+    },
+    {
+      "surface": "על",
+      "gloss": "ដោយសារ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ទាំងនេះ"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ងងឹត"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ភ្នែករបស់យើង"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:08.774172088Z",
+  "model": "glm-5.3"
+}

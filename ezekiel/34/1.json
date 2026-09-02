@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 34,
+  "translation": "ពាក្យរបស់យ៉ាវេបានមកដល់ខ្ញុំ ដោយពោលថា —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយបានកើតមាន"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "របស់យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:41:10.410410689Z",
+  "model": "glm-5.3"
+}

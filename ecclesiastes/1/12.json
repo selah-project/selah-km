@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ខ្ញុំ កូហេឡេត បានជាស្តេចលើអ៊ីស្រាអែលនៅយេរូស្ហាឡាយិម។",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ខ្ញុំ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "កូហេឡេត"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "បានជា"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រាអែល"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "យេរូស្ហាឡាយិម"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:24.861655803Z",
+  "model": "glm-5.3"
+}

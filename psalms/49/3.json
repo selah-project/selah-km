@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 49,
+  "translation": "ទាំងបុត្រនៃអាដាម ទាំងបុត្រនៃអ៊ីស្ហ រួមគ្នា អ្នកមាន និងអ្នកក្រ។",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ទាំង"
+    },
+    {
+      "surface": "בני",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "អាដាម"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ទាំង"
+    },
+    {
+      "surface": "בני",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "អ៊ីស្ហ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "រួមគ្នា"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "អ្នកមាន"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "និងអ្នកក្រ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:35:28.775837830Z",
+  "model": "glm-5.3"
+}

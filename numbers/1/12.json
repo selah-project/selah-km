@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "សម្រាប់ដាន — អាហ៊ីអេសែរ កូនប្រុសនៃអាមីស្ហាដៃ។",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "សម្រាប់ដាន"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "អាហ៊ីអេសែរ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុសនៃ"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "អាមីស្ហាដៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:25:06.691367538Z",
+  "model": "glm-5.3"
+}

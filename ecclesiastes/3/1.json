@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ដល់គ្រប់យ៉ាងមានពេលកំណត់ ហើយដល់ចំណង់ទាំងប៉ុន្មានក្រោមផ្ទៃមេឃ មានដំណើរកាលរបស់វា។",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ដល់គ្រប់យ៉ាង"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ពេលកំណត់"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ហើយដល់...ដំណើរកាល"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "គ្រប់"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ចំណង់"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ក្រោម"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ផ្ទៃមេឃ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:54.058662016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "កូនម៉ាខលី កូនមូស្ហី កូនម៉េរ៉ារី កូនឡេវី។",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ម៉ាខលី"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "មូស្ហី"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ម៉េរ៉ារី"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ឡេវី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:12.541719833Z",
+  "model": "glm-5.3"
+}

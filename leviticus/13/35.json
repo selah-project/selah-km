@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "តែបើទីកោរសក់រាលដាលក្នុងស្បែក បន្ទាប់ពីការស្អាតរបស់គាត់",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "តែបើ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "រាលដាល"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "រាលដាល"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ទីកោរសក់"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ក្នុងស្បែក"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "បន្ទាប់ពី"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ការស្អាតរបស់គាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T03:12:04.940152091Z",
+  "model": "glm-5.3"
+}

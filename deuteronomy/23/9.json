@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "កូនប្រុសទាំងឡាយដែលកើតមកពីគេ ជាន់ទីបី នឹងបានចូលក្នុងប្រជុំរបស់យ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "កូនប្រុសទាំងឡាយ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "កើតមកពី"
+    },
+    {
+      "surface": "להם",
+      "gloss": "គេ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ជាន់"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ទីបី"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "នឹងបានចូល"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ក្នុង​(គេ)"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ក្នុងប្រជុំ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:10:40.668919964Z",
+  "model": "glm-5.3"
+}

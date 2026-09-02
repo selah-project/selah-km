@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ការងាររបស់ជនសុចរិតគឺដល់ជីវិត ចំណូលរបស់ជនទុច្ចរិតគឺដល់បាប។",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "ការងារ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ជនសុចរិត"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ដល់ជីវិត"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ចំណូល"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ជនទុច្ចរិត"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ដល់បាប"
+    }
+  ],
+  "timestamp": "2026-09-02T09:12:31.424178428Z",
+  "model": "glm-5.3"
+}

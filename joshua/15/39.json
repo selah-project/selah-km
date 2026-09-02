@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "ឡាគីស្ហ និងបូតសខាត និងអេគ្លូន",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "ឡាគីស្ហ"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "និងបូតសខាត"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "និងអេគ្លូន"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:17.194844064Z",
+  "model": "glm-5.3"
+}

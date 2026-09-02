@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ពីរនាក់ល្អជាងម្នាក់ឯង ព្រោះថាពួកគេមានសំណងល្អក្នុងការខំប្រឹងរបស់ខ្លួន។",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ល្អជាង"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ពីរនាក់"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ជាង"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ម្នាក់ឯង"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ព្រោះថា"
+    },
+    {
+      "surface": "יש",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ពួកគេ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "សំណង"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ល្អ"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ក្នុងការខំប្រឹងរបស់ខ្លួន"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:35.439315174Z",
+  "model": "glm-5.3"
+}

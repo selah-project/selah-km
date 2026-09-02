@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "អីដ្តូ គីនថុន អាប៊ីយ៉ា។",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "អីដ្តូ"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "គីនថុន"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "អាប៊ីយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:25:34.008010873Z",
+  "model": "glm-5.3"
+}

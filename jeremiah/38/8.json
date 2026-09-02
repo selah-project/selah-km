@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 38,
+  "translation": "អែបេដ-មែឡែកបានចេញចាកពីព្រះរាជវាំង ហើយបាននិយាយទៅកាន់ស្តេចថា",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "បានចេញចាក"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "អែបេដ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-មែឡែក"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ពីព្រះរាជវាំង"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "របស់ស្តេច"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបាននិយាយ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T12:13:45.253645159Z",
+  "model": "glm-5.3"
+}

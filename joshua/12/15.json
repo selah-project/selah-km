@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្តេចនៃលីប្សណាហ៍ មួយ; ស្តេចនៃអាឌុលឡាម មួយ។",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "លីប្សណាហ៍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "អាឌុលឡាម"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:17:27.501331624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ទាំងអស់នេះបានមកដល់លើនេប៊ូខាដនេតសរ ⟨ស្តេច⟩។",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ទាំងអស់នេះ"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "បានមកដល់"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "នេប៊ូខាដនេតសរ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ស្តេច"
+    }
+  ],
+  "timestamp": "2026-09-02T10:04:18.825144574Z",
+  "model": "glm-5.3"
+}

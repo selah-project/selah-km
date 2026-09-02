@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "យ៉ាវេនឹងអញ្ជើញពរអ្នក ហើយយ៉ាវេនឹងរក្សាអ្នក។",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "នឹងអញ្ជើញពរអ្នក"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "ហើយ...នឹងរក្សាអ្នក"
+    }
+  ],
+  "timestamp": "2026-09-02T03:30:50.341098802Z",
+  "model": "glm-5.3"
+}

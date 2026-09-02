@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនប្រុសរបស់យេតេរ គឺយេហ្វូនេ ភីស្ប៉ា និងអារ៉ា។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "កូនប្រុសរបស់"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "យេតេរ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "យេហ្វូនេ"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "ភីស្ប៉ា"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "អារ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:14.375679034Z",
+  "model": "glm-5.3"
+}

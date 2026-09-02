@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "បុត្រនៃតាហាថ បុត្រនៃអាស៊ីរ បុត្រនៃអែបយ៉ាសាហ្វ បុត្រនៃកូរាហ។",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "តាហាថ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "អាស៊ីរ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "អែបយ៉ាសាហ្វ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "កូរាហ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:13.582779984Z",
+  "model": "glm-5.3"
+}

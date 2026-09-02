@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅ ហារ៊ីម បី​រយ និង​ម្ភៃ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ហារ៊ីម"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ម្ភៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:53.522870691Z",
+  "model": "glm-5.3"
+}

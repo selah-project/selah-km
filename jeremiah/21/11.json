@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "ហើយដល់គ្រាស់ត្រកូលរបស់ស្តេចយូដា ស្តាប់ពាក្យនៃយ៉ាវេ:",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "ហើយដល់គ្រាស់ត្រកូល"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "យូដា"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ស្តាប់"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យនៃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T06:51:46.822778965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "ហាតសរ-គាដា ហេស្ហមូន និងបេត-ប៉ាឡេត",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ហាតសរ"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "គាដា"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "ហេស្ហមូន"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "និងប៉ាឡេត"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:31.505125064Z",
+  "model": "glm-5.3"
+}

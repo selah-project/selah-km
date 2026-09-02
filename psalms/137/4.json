@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 137,
+  "translation": "តើយើងនឹងច្រៀងដូចម្ដេចបាន ⟨את⟩ ចម្រៀងរបស់យ៉ាវេ លើដីបរទេស?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "តើ…ដូចម្ដេចបាន"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "យើងនឹងច្រៀង"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ចម្រៀងរបស់យ៉ាវេ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ចម្រៀង"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ដី"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "បរទេស"
+    }
+  ],
+  "timestamp": "2026-09-02T09:04:29.776711780Z",
+  "model": "glm-5.3"
+}

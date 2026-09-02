@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "km",
+  "chapter": 36,
+  "translation": "រួមកំឡុងទាំងឡាយក៏ស្ងាត់ ហើយមិនបានឆ្លើយ ⟨את⟩ ពាក្យទេ ដោយសារបញ្ជារបស់ស្តេចគឺ ⟨ថា⟩ កុំឆ្លើយគាត់។",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "ក៏ស្ងាត់"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ហើយមិនបាន"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ឆ្លើយ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ គាត់",
+      "marks": "NOTE: אתו here is pronoun 'him', not DOM"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ដោយសារ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "បញ្ជា"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "របស់ស្តេច"
+    },
+    {
+      "surface": "היא",
+      "gloss": "គឺ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "לא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "ឆ្លើយគាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T06:18:22.057794412Z",
+  "model": "glm-5.3"
+}

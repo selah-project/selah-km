@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 20,
+  "translation": "ចង្កៀងនៃយ៉ាវេ គឺដង្ហើមនៃមនុស្ស ស្វែងរកគ្រប់បន្ទប់នៃពោះ។",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ចង្កៀង"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "នៃយ៉ាវេ"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ដង្ហើមនៃ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ស្វែងរក"
+    },
+    {
+      "surface": "כל",
+      "gloss": "គ្រប់"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "បន្ទប់នៃ"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "ពោះ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:16:42.839489578Z",
+  "model": "glm-5.3"
+}

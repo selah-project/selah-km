@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "នៃប៊ីលហ្គា ស្ហាម៊ួអ; នៃស្ហេម៉ាយ៉ា យេហូណាតាន។",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "នៃប៊ីលហ្គា"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ស្ហាម៊ួអ"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "នៃស្ហេម៉ាយ៉ា"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "យេហូណាតាន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:25:30.046665908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ហើយខេល៊ូប បងប្អូននៃស្ហូហះ បានកំណើត ⟨את⟩ មេហ៊ីរ គាត់ជាឪពុកនៃអេស្ហតូន។",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "ហើយខេល៊ូប"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "បងប្អូននៃ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ស្ហូហះ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "បានកំណើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "មេហ៊ីរ"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "មេហ៊ីរ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "គាត់"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ឪពុកនៃ"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "អេស្ហតូន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:47.197346793Z",
+  "model": "glm-5.3"
+}

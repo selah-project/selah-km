@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "និង អាស្ហិយ៉ា ស្ហាណាន អាណាន",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "និង អាស្ហិយ៉ា"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ស្ហាណាស"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "អាណាន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:58.427721754Z",
+  "model": "glm-5.3"
+}

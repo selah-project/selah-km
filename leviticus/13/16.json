@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "ឬបើសាច់ស្រស់នោះត្រឡប់មកវិញ ហើយប្រែទៅជាពណ៌ស នោះគាត់ត្រូវមករកអាចារ្យ។",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "បើ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ត្រឡប់មកវិញ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "សាច់"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ស្រស់នោះ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ហើយប្រែទៅជា"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ពណ៌ស"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ហើយមក"
+    },
+    {
+      "surface": "אל",
+      "gloss": "រក"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "អាចារ្យ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:11:30.640864210Z",
+  "model": "glm-5.3"
+}

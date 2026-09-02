@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "តើដូរព្រៃទ្រហ៊ោយ លើស្មៅឬ? ឬតើគោបន្ទោសង លើចំណីរបស់វា?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "ទ្រហ៊ោយ"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "ដូរព្រៃ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ស្មៅ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "បន្ទោសង"
+    },
+    {
+      "surface": "שור",
+      "gloss": "គោ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "ចំណីរបស់វា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:24:54.938618435Z",
+  "model": "glm-5.3"
+}

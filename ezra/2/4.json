@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃស្ហេផាតយ៉ា បីរយ ចំនួនេះសិប និងពីរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ស្ហេផាតយ៉ា"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ចំនួនេះសិប"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "និងពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:11:00.369795451Z",
+  "model": "glm-5.3"
+}

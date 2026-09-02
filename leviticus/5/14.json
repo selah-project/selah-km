@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ហើយយ៉ាវេបានមានបន្ទូលទៅកាន់ម៉ូស្ហេ ឱ្យថ្លែងថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានមានបន្ទូល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ឱ្យថ្លែងថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:05:42.415810145Z",
+  "model": "glm-5.3"
+}

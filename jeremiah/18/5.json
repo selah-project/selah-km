@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 18,
+  "translation": "ហើយពាក្យរបស់យ៉ាវេបានមកដល់ខ្ញុំ ថា",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយ...បានមកដល់"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:51:42.147484808Z",
+  "model": "glm-5.3"
+}

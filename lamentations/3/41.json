@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "សូមយើងលើកចិត្តរបស់យើងទៅ ⟨ទៅ⟩ បាតដៃ ទៅ ⟨ទៅ⟩ អែលនៅក្នុងមេឃ។",
+  "tokens": [
+    {
+      "surface": "נִשָּׂא",
+      "gloss": "សូមយើងលើក"
+    },
+    {
+      "surface": "לְבָבֵנוּ",
+      "gloss": "ចិត្តរបស់យើង"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "כַּפַּיִם",
+      "gloss": "បាតដៃ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "អែល"
+    },
+    {
+      "surface": "בַּשָּׁמַיִם",
+      "gloss": "នៅក្នុងមេឃ"
+    }
+  ],
+  "timestamp": "2026-09-02T13:28:21.691548591Z",
+  "model": "glm-5.3"
+}

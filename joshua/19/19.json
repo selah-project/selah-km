@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "ហាហ្វារ៉ាយិម ស្ហិអ៊ូន និងអាណាហារ៉ាត។",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "ហាហ្វារ៉ាយិម"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "ស្ហិអ៊ូន"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "និងអាណាហារ៉ាត"
+    }
+  ],
+  "timestamp": "2026-09-02T04:29:11.661480628Z",
+  "model": "glm-5.3"
+}

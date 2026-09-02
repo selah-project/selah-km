@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅនៃផារ៉ោស ពីរពាន់មួយរយឯកសិប និងពីរ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ផារ៉ោស"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពីរពាន់"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ឯកសិប"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "និងពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:53.358983357Z",
+  "model": "glm-5.3"
+}

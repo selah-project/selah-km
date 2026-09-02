@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "នៃ អ៊ីដូ — ស្ហេខារ៉ីយ៉ា; នៃ គីនណេតូន — មេស្ហុឡាម។",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "នៃ អ៊ីដូ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ស្ហេខារ៉ីយ៉ា"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "នៃ គីនណេតូន"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "មេស្ហុឡាម"
+    }
+  ],
+  "timestamp": "2026-09-02T10:25:21.035722826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "រហូតដល់យ៉ាវេងាក់មកមើល ហើយឃើញ ពី⟨ក្នុង⟩មេឃ។",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "រហូតដល់"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ងាក់មកមើល"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ហើយឃើញ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "មשמים",
+      "gloss": "ពីមេឃ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:26.480379403Z",
+  "model": "glm-5.3"
+}

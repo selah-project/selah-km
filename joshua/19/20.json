@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "ហារ៉ាប៊ីត គិស្ហិយ៉ូន និងអាបែតស់។",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "ហារ៉ាប៊ីត"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "គិស្ហិយ៉ូន"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "និងអាបែតស់"
+    }
+  ],
+  "timestamp": "2026-09-02T04:29:11.661619201Z",
+  "model": "glm-5.3"
+}

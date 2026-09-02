@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "យ៉ាវេបានអន់ចិត្តលើរឿងនេះ វានឹងមិនកើតឡើងទេ យ៉ាវេបាននិយាយ។",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "បានអន់ចិត្ត"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "រឿងនេះ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "នឹងកើតឡើងទេ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "បាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:02:51.714453638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 17,
+  "translation": "ហើយម៉ូស្ហេ និងអាហារូនបានមកដល់ចំពោះមុខតណាងនៃការជំនួប។",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ហើយ...បានមកដល់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "និងអាហារូន"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ចំពោះមុខ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "តណាង"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "នៃការជំនួប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:40:45.524375282Z",
+  "model": "glm-5.3"
+}

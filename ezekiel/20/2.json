@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 20,
+  "translation": "ហើយពាក្យរបស់យ៉ាវេបានមកដល់ខ្ញុំ ដោយពោលថា",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយកើតមាន"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:31:00.325993788Z",
+  "model": "glm-5.3"
+}

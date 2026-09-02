@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "មីស្ហម៉ាណា ជាទីបួន យិរម់យ៉ា ជាទីប្រាំ។",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "មីស្ហម៉ាណា"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ជាទីបួន"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "យិរម់យ៉ា"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "ជាទីប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:34:07.258309348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "ដែកធ្វើឱ្យដែកមុត ហើយមនុស្សធ្វើឱ្យមុខនៃមិត្តរបស់គេមុត។",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ដែក"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "ធ្វើឱ្យដែក"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "មុត"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ហើយមនុស្ស"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ធ្វើឱ្យ…មុត"
+    },
+    {
+      "surface": "פני",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "នៃមិត្តរបស់គេ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:20:46.749950905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "ក្នុងខែទីមួយ នៅថ្ងៃទីដប់បួននៃខែ រវាងពេលល្ងាចទាំងពីរ ⟨គឺ⟩ ពិស្ហា ដល់យ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ក្នុងខែ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ទីមួយ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "បួន"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "នៃខែ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "រវាង"
+    },
+    {
+      "surface": "העรבים",
+      "gloss": "ពេលល្ងាចទាំងពីរ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ពិស្ហា"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ដល់យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:20:11.822220236Z",
+  "model": "glm-5.3"
+}

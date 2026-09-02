@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 32,
+  "translation": "ហើយម៉ូស្ហេបានចប់ការនិយាយ ⟨את⟩ ពាក្យទាំងអស់នេះ ទៅកាន់អ៊ីស្រាអែលទាំងមូល។",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "បានចប់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ការនិយាយ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ពាក្យទាំងអស់នេះ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងមូល"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រាអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T04:16:26.410600052Z",
+  "model": "glm-5.3"
+}

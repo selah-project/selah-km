@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ហើយគុណប្រយោជន៍នៃដី គឺសម្រាប់ទាំងអស់ — សូម្បីស្តេចក៏បម្រើស្រែដែរ។",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ហើយគុណប្រយោជន៍"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "នៃដី"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "សម្រាប់ទាំងអស់"
+    },
+    {
+      "surface": "היא",
+      "gloss": "គឺ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ស្រែ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "បម្រើ\/ដាំដុះ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:30.807358626Z",
+  "model": "glm-5.3"
+}

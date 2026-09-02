@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅហារីហ្វ មួយរយដប់ពីរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ហារីហ្វ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ពីរ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:42.254912675Z",
+  "model": "glm-5.3"
+}

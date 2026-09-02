@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "បុត្រនៃអែលកាណាឲ បុត្រនៃយ៉ូអែល បុត្រនៃអាហ្សារយ៉ា បុត្រនៃតសេហ្វានយ៉ា។",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "អែលកាណាឲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "យ៉ូអែល"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "អាហ្សារយ៉ា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រនៃ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "តសេហ្វានយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:13.582536567Z",
+  "model": "glm-5.3"
+}

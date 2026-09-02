@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "និង ⟨את⟩ ⟨ពួក⟩ ហ៊ីវី និង ⟨את⟩ ⟨ពួក⟩ អារ៉ាគី និង ⟨את⟩ ⟨ពួក⟩ ស៊ីនី។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ហ៊ីវី"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ហ៊ីវី"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អារ៉ាគី"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "អារ៉ាគី"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ស៊ីនី"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ស៊ីនី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:36.922742828Z",
+  "model": "glm-5.3"
+}

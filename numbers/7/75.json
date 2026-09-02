@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "គោមួយ កូននៃហ្វូងគោ ចៀមឈ្មោលមួយ កូនចៀមមួយ កូនអាយុមួយឆ្នាំ សម្រាប់ពលីការដុត",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "គោ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "នៃហ្វូងគោ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ចៀមឈ្មោល"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "កូនចៀម"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "អាយុមួយឆ្នាំ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "សម្រាប់ពលីការដុត"
+    }
+  ],
+  "timestamp": "2026-09-02T03:33:49.296534796Z",
+  "model": "glm-5.3"
+}

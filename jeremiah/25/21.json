@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "⟨את⟩ អេដូម និង ⟨את⟩ ម៉ូអាប និង ⟨את⟩ កូនចៅជាតិអាម៉ូន",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អេដូម"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "អេដូម"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ម៉ូអាប"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ម៉ូអាប"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "កូនចៅជាតិអាម៉ូន"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "អាម៉ូន"
+    }
+  ],
+  "timestamp": "2026-09-02T14:47:30.935320730Z",
+  "model": "glm-5.3"
+}

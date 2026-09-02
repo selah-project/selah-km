@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 26,
+  "translation": "ហើយគាត់បានឡើងចេញពីទីនោះ ទៅ ប៊ែរ-ស្ហាបាអ។",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ហើយគាត់បានឡើងចេញ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ពីទីនោះ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ប៊ែរ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ស្ហាបាអ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:07:37.670814703Z",
+  "model": "glm-5.3"
+}

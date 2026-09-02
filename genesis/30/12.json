@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 30,
+  "translation": "ហើយស៊ីលប៉ា ស្រីបម្រើរបស់ឡេអា បានកើតបុត្រទីពីរឱ្យយ៉ាកុប។",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "បានកើត"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ស៊ីលប៉ា"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ស្រីបម្រើរបស់"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ឡេអា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ទីពីរ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ឱ្យយ៉ាកុប"
+    }
+  ],
+  "timestamp": "2026-09-02T02:09:09.848633362Z",
+  "model": "glm-5.3"
+}

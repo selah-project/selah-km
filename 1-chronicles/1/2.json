@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "កាយណាន ម៉ាហាឡាឡអែល យេរេដ។",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "កាយណាន"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ម៉ាហាឡាឡអែល"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "យេរេដ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:03.492030168Z",
+  "model": "glm-5.3"
+}

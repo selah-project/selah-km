@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "និងពាក្យរបស់យ៉ាវេបានមកដល់ខ្ញុំ ដោយនិយាយថា",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "និង...បានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:37:44.368273416Z",
+  "model": "glm-5.3"
+}

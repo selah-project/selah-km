@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និង អាប់ដូន និង ស៊ិក្រី និង ហាណាន។",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "និង អាប់ដូន"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "និង ស៊ិក្រី"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "និង ហាណាន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:56.852782792Z",
+  "model": "glm-5.3"
+}

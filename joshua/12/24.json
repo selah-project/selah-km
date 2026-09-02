@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្តេចនៃតិរសះ ម្នាក់; ស្តេចទាំងអស់ ជាបីសិបម្នាក់។",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "តិរសះ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ម្នាក់"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "បីសិប"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ម្នាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T04:25:16.601288115Z",
+  "model": "glm-5.3"
+}

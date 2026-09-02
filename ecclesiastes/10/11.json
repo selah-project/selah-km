@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "បើពស់ទិច ព្រោះគ្មានមន្តស្រករ ⟨ឡើយ⟩ គ្មានផលប្រយោជន៍ទៅដល់ម្ចាស់នៃអណ្តាតភាសា។",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "បើ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ទិច"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ពស់"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ព្រោះគ្មាន"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "មន្តស្រករ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "គ្មាន"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ផលប្រយោជន៍"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ដល់ម្ចាស់នៃ"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "អណ្តាតភាសា"
+    }
+  ],
+  "timestamp": "2026-09-02T13:29:31.513966473Z",
+  "model": "glm-5.3"
+}

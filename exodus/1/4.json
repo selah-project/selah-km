@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ដាន និងន៉ាហ្វតាឡី ហ្គាដ និងអាហ្សេរ។",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ដាន"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "និងន៉ាហ្វតាឡី"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ហ្គាដ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "និងអាហ្សេរ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:30:10.681083978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "យ៉ូអែល បងប្រុស នាថាន មិបចារ កូនប្រុស ហ្គ្រី។",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "យ៉ូអែល"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "បងប្រុស"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "នាថាន"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "មិបចារ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ហ្គ្រី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:33:23.395630198Z",
+  "model": "glm-5.3"
+}

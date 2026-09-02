@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "ថ្ងៃនេះ អ្នករាល់គេកំពុងចេញ ក្នុងខែអាប៊ីប។",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ថ្ងៃនេះ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "អ្នករាល់គេ"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "កំពុងចេញ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ក្នុងខែ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "អាប៊ីប"
+    }
+  ],
+  "timestamp": "2026-09-02T02:39:25.809443437Z",
+  "model": "glm-5.3"
+}

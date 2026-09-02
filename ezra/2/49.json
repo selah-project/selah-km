@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់អ៊ូហ្សា កូនចៅរបស់ផាសេអាខ កូនចៅរបស់បេសាយ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "អ៊ូហ្សា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ផាសេអាខ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "បេសាយ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:12:23.975122598Z",
+  "model": "glm-5.3"
+}

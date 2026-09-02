@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "អនុភរិយារបស់កាឡេបគឺម៉ាអាខ៉ា បានសំ្រាលស្ហេបេរ និង ⟨את⟩ ទីរចានា។",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "អនុភរិយា"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "កាឡេប"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ម៉ាអាខ៉ា"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "បានសំ្រាល"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ស្ហេបេរ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ទីរចានា"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ទីរចានា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:58.784284447Z",
+  "model": "glm-5.3"
+}

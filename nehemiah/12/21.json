@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ពី ហ៊ីលគីយ៉ា — ហាស្ហាវយ៉ា; ពី យ៉ាដាយ៉ា — ណេតាណេអែល។",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "ពី ហ៊ីលគីយ៉ា"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ហាស្ហាវយ៉ា"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "ពី យ៉ាដាយ៉ា"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ណេតាណេអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T11:56:52.095820743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "អេលអាហ្សារបានបង្កើត ⟨את⟩ ពីន៉ាស ពីន៉ាសបានបង្កើត ⟨את⟩ អាភីស្ហួអ។",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "អេលអាហ្សារ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ពីន៉ាស"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ពីន៉ាស"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ពីន៉ាស"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អាភីស្ហួអ"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "អាភីស្ហួអ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:05.504618055Z",
+  "model": "glm-5.3"
+}

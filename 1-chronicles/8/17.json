@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និង ស្ហប់ទីយ៉ា និង មេស្ហូឡាម និង ហ៊ីតស្គី និង ហាបែរ។",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "និង ស្ហប់ទីយ៉ា"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "និង មេស្ហូឡាម"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "និង ហ៊ីតស្គី"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "និង ហាបែរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:54.679662325Z",
+  "model": "glm-5.3"
+}

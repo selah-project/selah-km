@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 56,
+  "translation": "ថ្ងៃដែលខ្ញុំខ្លាច ខ្ញុំនឹងទុកចិត្តលើអ្នក។",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ខ្ញុំខ្លាច"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ខ្ញុំ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "លើអ្នក"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "នឹងទុកចិត្ត"
+    }
+  ],
+  "timestamp": "2026-09-02T08:37:21.543235843Z",
+  "model": "glm-5.3"
+}

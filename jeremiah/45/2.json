@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 45,
+  "translation": "យ៉ាវេ អេឡូហ៊ីមនៃយិស្រាអែល បានពោលដូច្នេះ ចំពោះអ្នក នាស៊ីបារុក៖",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ដូច្នេះ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "បានពោល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "អេឡូហ៊ីមនៃ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "យិស្រាអែល"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ចំពោះអ្នក"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "បារុក"
+    }
+  ],
+  "timestamp": "2026-09-02T07:10:10.798783049Z",
+  "model": "glm-5.3"
+}

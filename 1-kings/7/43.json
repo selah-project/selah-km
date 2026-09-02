@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "និង ⟨את⟩ គ្រែទាំងដប់ និង ⟨את⟩ អាងទឹកទាំងដប់លើគ្រែទាំងនោះ។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "គ្រែ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "គ្រែ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អាងទឹក"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "អាងទឹក"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "គ្រែទាំងនោះ"
+    }
+  ],
+  "timestamp": "2026-09-02T05:25:43.337120781Z",
+  "model": "glm-5.3"
+}

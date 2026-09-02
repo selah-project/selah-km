@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ហើយនៅយេស្ហួអĜ និងនៅម៉ូឡាដាហះ និងនៅបេត-ផាឡេត។",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "ហើយនៅយេស្ហួអĜ"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "និងនៅម៉ូឡាដាហះ"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "និងនៅបេត"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ផាឡេត"
+    }
+  ],
+  "timestamp": "2026-09-02T10:24:16.973809752Z",
+  "model": "glm-5.3"
+}

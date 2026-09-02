@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និង ហ្គេរ៉ា និង ស្ហេហ្វូហ្វ៉ាន និង ហ្ឆូរ៉ាម។",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "និង ហ្គេរ៉ា"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "និង ស្ហេហ្វូហ្វ៉ាន"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "និង ហ្ឆូរ៉ាម"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:42.223184755Z",
+  "model": "glm-5.3"
+}

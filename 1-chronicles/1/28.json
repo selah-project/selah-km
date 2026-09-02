@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "កូនប្រុសទាំងឡាយនៃអាវរ៉ាហាំ៖ យិតស្ហាគ និងយិស្ហមាអែល។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនប្រុសទាំងឡាយនៃ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "អាវរ៉ាហាំ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "យិតស្ហាគ"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "និងយិស្ហមាអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:18.229781051Z",
+  "model": "glm-5.3"
+}

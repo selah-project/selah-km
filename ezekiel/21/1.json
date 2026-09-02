@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 21:1",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 21,
+  "translation": "ហើយពាក្យរបស់យ៉ាវេបានមកដល់ខ្ញុំ ដោយពាក្យសម្គាល់ ថា៖",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយបានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពាក្យសម្គាល់ ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:30:59.209327264Z",
+  "model": "glm-5.3"
+}

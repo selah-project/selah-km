@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "យិហ្គាល់ កូនប្រុសនាថាន មកពីមីហ្សោប៉ា, ប៉ានី ហ្គាឌី,",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "យិហ្គាល់"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "នាថាន"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "មីហ្សោប៉ា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ប៉ានី"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "ហ្គាឌី"
+    }
+  ],
+  "timestamp": "2026-09-02T05:21:15.776200544Z",
+  "model": "glm-5.3"
+}

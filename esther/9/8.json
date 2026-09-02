@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "ហើយ ⟨את⟩ ពោរាថា ហើយ ⟨את⟩ អាដាលយ៉ា ហើយ ⟨את⟩ អារីដាថា",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ហើយ ⟨את⟩",
+      "marks": "ពោរាថា"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "ពោរាថា"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ហើយ ⟨את⟩",
+      "marks": "អាដាលយ៉ា"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "អាដាលយ៉ា"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ហើយ ⟨את⟩",
+      "marks": "អារីដាថា"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "អារីដាថា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:59:03.390307912Z",
+  "model": "glm-5.3"
+}

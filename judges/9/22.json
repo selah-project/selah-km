@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "ហើយអភីមេលេកបានគ្រប់គ្រងលើអ៊ីស្រាអែល បីឆ្នាំ។",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "ហើយបានគ្រប់គ្រង"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "អភីមេលេក"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រាអែល"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ឆ្នាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:38:09.452396829Z",
+  "model": "glm-5.3"
+}

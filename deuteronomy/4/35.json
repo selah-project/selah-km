@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "អ្នកត្រូវបានបង្ហាញ ដើម្បីឱ្យដឹងថា យ៉ាវេគឺ ⟨ជា⟩ អេឡូហ៊ីមពិត គ្មានទៀតទេ ក្រៅពីគាត់។",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ត្រូវបានបង្ហាញ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ដើម្បីឱ្យដឹងថា"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "គឺ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "អេឡូហ៊ីមពិត"
+    },
+    {
+      "surface": "אין",
+      "gloss": "គ្មាន"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ទៀត"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "ក្រៅពីគាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T04:00:49.262957702Z",
+  "model": "glm-5.3"
+}

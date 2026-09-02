@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 30,
+  "translation": "ហើយស៊ីលប៉ា ស្រីបម្រើរបស់ឡេអា បានកើតបុត្រមួយឱ្យយ៉ាកុប។",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "បានកើត"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ស៊ីលប៉ា"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ស្រីបម្រើរបស់"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ឡេអា"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ឱ្យយ៉ាកុប"
+    },
+    {
+      "surface": "בן",
+      "gloss": "បុត្រមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:09:09.848401678Z",
+  "model": "glm-5.3"
+}

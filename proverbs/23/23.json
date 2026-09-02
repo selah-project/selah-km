@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "ទិញការពិត ហើយកុំលក់វា ព្រមទាំងសុភាព និងវិន័យ និងប្រាជ្ញា។",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "ការពិត"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ទិញ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ហើយកុំ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "លក់វា"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "សុភាព"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "និងវិន័យ"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "និងប្រាជ្ញា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:18:34.976287713Z",
+  "model": "glm-5.3"
+}

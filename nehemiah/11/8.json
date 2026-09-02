@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "និងបន្ទាប់ពីលោក ហ្គាបៃ សាឡៃ — ប្រាំបួន រយ ម្ភៃ និង ប្រាំបី។",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "និងបន្ទាប់ពីលោក"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ហ្គាបៃ"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "សាឡៃ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ប្រាំបួន"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ម្ភៃ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "និង ប្រាំបី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:24:57.834752686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 30,
+  "translation": "ក្រោមបីដង ផែនដីរន្ធត់; និងក្រោមបួនដង វាមិនអាចទទួលយកបានទេ។",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ក្រោម"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "រន្ធត់"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ផែនដី"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "និងក្រោម"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "បួន"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "អាច"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ទទួលយក"
+    }
+  ],
+  "timestamp": "2026-09-02T09:20:43.873443890Z",
+  "model": "glm-5.3"
+}

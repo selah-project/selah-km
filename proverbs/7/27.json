@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ផ្លូវនៃស្ហេអុល គឺជាផ្ទះរបស់នាង ចុះទៅកាន់បន្ទប់នៃការស្លាប់។",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ផ្លូវនៃ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ស្ហេអុល"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ផ្ទះរបស់នាង"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ចុះទៅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "កាន់"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "បន្ទប់នៃ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ការស្លាប់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:10:49.039603269Z",
+  "model": "glm-5.3"
+}

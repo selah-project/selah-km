@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់ហ៉ារីម មួយពាន់ និងដប់ប្រាំព្រៃ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ហ៉ារីម"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "មួយពាន់"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "និងប្រាំព្រៃ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:10:10.041827241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "មនុស្សនៃអាណាតូត មួយរយម្ភៃប្រាំបី។",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "មនុស្សនៃ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "អាណាតូត"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ម្ភៃ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ប្រាំបី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:10.048617250Z",
+  "model": "glm-5.3"
+}

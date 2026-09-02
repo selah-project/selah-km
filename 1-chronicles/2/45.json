@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនប្រុសរបស់ស្ហ៉ាម៉ាយគឺម៉ាអូន ហើយម៉ាអូនជាឪពុកនៃប៉េត-តស៊ូរ។",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "កូនប្រុសរបស់"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ស្ហ៉ាម៉ាយ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ម៉ាអូន"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ហើយម៉ាអូន"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ជាឪពុកនៃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ប៉េត"
+    },
+    {
+      "surface": "צור",
+      "gloss": "តស៊ូរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:58.783708559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 16,
+  "translation": "ហើយអូមែរគឺជាបំណែកទីដប់នៃអែហ្វា។",
+  "tokens": [
+    {
+      "surface": "וְהָעֹמֶר",
+      "gloss": "ហើយអូមែរ"
+    },
+    {
+      "surface": "עֲשִׂרִית",
+      "gloss": "បំណែកទីដប់"
+    },
+    {
+      "surface": "הָאֵיפָה",
+      "gloss": "នៃអែហ្វា"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "គឺជា"
+    }
+  ],
+  "timestamp": "2026-09-02T13:45:59.275182016Z",
+  "model": "glm-5.3"
+}

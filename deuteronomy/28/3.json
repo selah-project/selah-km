@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "អ្នកទទួលពរក្នុងទីក្រុង ហើយអ្នកទទួលពរក្នុងស្រែក្រៅ។",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ទទួលពរ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ក្នុងទីក្រុង"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ហើយទទួលពរ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ក្នុងស្រែក្រៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:14:30.886405369Z",
+  "model": "glm-5.3"
+}

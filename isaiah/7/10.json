@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ហើយយ៉ាវេបានបន្ថែមដើម្បីនិយាយទៅអាចាស្ហ៍ ឱ្យថាថ្លៃ",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ហើយបានបន្ថែម"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "អាចាស្ហ៍"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ឱ្យថាថ្លៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T06:03:31.344691362Z",
+  "model": "glm-5.3"
+}

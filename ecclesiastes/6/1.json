@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "មានសេចក្ដីអាក្រក់មួយដែលខ្ញុំបានឃើញក្រោមផ្ទៃមេឃ ហើយវា〈ជាអ្វីដែល〉ធ្ងន់លើមនុស្ស។",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "សេចក្ដីអាក្រក់"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ខ្ញុំបានឃើញ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ក្រោម"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ផ្ទៃមេឃ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ហើយធ្ងន់"
+    },
+    {
+      "surface": "היא",
+      "gloss": "វា"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "មនុស្ស"
+    }
+  ],
+  "timestamp": "2026-09-02T11:49:06.368378321Z",
+  "model": "glm-5.3"
+}

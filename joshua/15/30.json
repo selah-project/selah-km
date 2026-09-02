@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "និង អែលតោឡាដ និង ខេស៊ីល និង ចំមាភ។",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "និង អែលតោឡាដ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "និង ខេស៊ីល"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "និង ចំមាភ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:17.844682179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "បុត្ររបស់ឡេវី ⟨គឺ⟩ គេរស្ហូម កេហាត និងមេរ៉ារី។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "បុត្រ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ឡេវី"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "គេរស្ហូម"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "កេហាត"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "និងមេរ៉ារី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:46.894919759Z",
+  "model": "glm-5.3"
+}

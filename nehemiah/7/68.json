@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "អូស្ត្រចំនួនបួនរយសាមសិបប្រាំ កុន្តចំនួនប្រាំមួយពាន់ប្រាំពីររយពីរសិប។",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "អូស្ត្រ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "បួន"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "សាមសិប"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "និងប្រាំ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "កុន្ត"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ប្រាំមួយ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពាន់"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ប្រាំពីរ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "និងពីរសិប"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:02.272238608Z",
+  "model": "glm-5.3"
+}

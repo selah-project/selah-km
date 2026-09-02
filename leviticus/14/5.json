@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "ហើយបាងបង្គំបានបញ្ជា ទើបគេស្រឡាយ ⟨את⟩ សត្វស្លាបមួយ ទៅកាន់ភាជន៍ដីស្រទប លើទឹករស់។",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "បានបញ្ជា"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "បាងបង្គំ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ទើបគេស្រឡាយ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "សត្វស្លាបមួយ"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "សត្វស្លាប"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ភាជន៍"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ដីស្រទប"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ទឹក"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "រស់"
+    }
+  ],
+  "timestamp": "2026-09-02T03:13:08.983657121Z",
+  "model": "glm-5.3"
+}

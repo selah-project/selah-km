@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "យីហ្ស្រេអែល, យ៉ូកដេអាម, និងហ្ស៊ាណូហ,",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "យីហ្ស្រេអែល"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "យ៉ូកដេអាម"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "ហ្ស៊ាណូហ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:38.844204902Z",
+  "model": "glm-5.3"
+}

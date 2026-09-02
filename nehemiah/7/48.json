@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅនៃលេប៉ាណា កូនចៅនៃហាហ្គាបា កូនចៅនៃសាល់មៃ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "លេប៉ាណា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "ហាហ្គាបា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "សាល់មៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:16.430817296Z",
+  "model": "glm-5.3"
+}

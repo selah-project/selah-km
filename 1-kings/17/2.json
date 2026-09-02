@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "km",
+  "chapter": 17,
+  "translation": "ពាក្យរបស់យ៉ាវេបានមកដល់គាត់ដោយនិយាយថា",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "បានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ដល់គាត់"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T05:37:03.586757046Z",
+  "model": "glm-5.3"
+}

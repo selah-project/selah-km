@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 42,
+  "translation": "⟨את⟩ ទិស​ខាង​ត្បូង លោក​បាន​វាស់ ប្រាំ​រយ​ជញ្ជីង ដោយ​ជញ្ជីង​វាស់។",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ទិស​ខាង​ត្បូង"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ទិស"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ខាង​ត្បូង"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "បាន​វាស់"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ប្រាំ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ជញ្ជីង"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ដោយ​ជញ្ជីង"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "វាស់"
+    }
+  ],
+  "timestamp": "2026-09-02T07:45:52.019857931Z",
+  "model": "glm-5.3"
+}

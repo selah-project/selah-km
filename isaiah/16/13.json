@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "km",
+  "chapter": 16,
+  "translation": "នេះជាពាក្យដែលយ៉ាវេបាននិយាយទៅម៉ូអាប តាំងពីពេលដំបូងមក។",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "បាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ម៉ូអាប"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "តាំងពីពេលដំបូងមក"
+    }
+  ],
+  "timestamp": "2026-09-02T06:09:16.747055394Z",
+  "model": "glm-5.3"
+}

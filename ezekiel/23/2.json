@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "កូនប្រុសនៃមនុស្សអើយ ស្ត្រីពីរនាក់ កូនស្រីរបស់មាតាម្នាក់ បានកើតឡើង",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុសនៃ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ពីរ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ស្ត្រី"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "កូនស្រីរបស់"
+    },
+    {
+      "surface": "אם",
+      "gloss": "មាតា"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ម្នាក់"
+    },
+    {
+      "surface": "היו",
+      "gloss": "បានកើតឡើង"
+    }
+  ],
+  "timestamp": "2026-09-02T07:33:06.893602042Z",
+  "model": "glm-5.3"
+}

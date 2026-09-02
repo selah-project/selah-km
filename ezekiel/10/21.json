@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 10:21",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "បួន បួន ⟨ជា⟩ មុខមួយៗ ហើយបួនស្លាបមួយៗ ហើយរូបដៃមនុស្សនៅក្រោមស្លាបរបស់វា។",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "បួន"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "បួន"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "មួយៗ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "និងបួន"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ស្លាប"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "មួយៗ"
+    },
+    {
+      "surface": "ודמות",
+      "gloss": "និងរូប"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ដៃ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ក្រោម"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "ស្លាបរបស់វា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:22:26.197476101Z",
+  "model": "glm-5.3"
+}

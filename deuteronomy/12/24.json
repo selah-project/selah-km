@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "អ្នកកុំបរិភោគវា; លើដី អ្នកនឹងចាក់វាចេញ ដូចទឹក។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "បរិភោគវា"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ដី"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ចាក់វាចេញ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ដូចទឹក"
+    }
+  ],
+  "timestamp": "2026-09-02T11:16:32.081338031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "ក៏ដូច្នេះ ខ្ញុំបានឃើញប្រាជ្ញភាពនេះ ក្រោមផ្ទៃមេឃ ហើយវាធំបានណាស់ចំពោះខ្ញុំ។",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ក៏ដូច្នេះ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ខ្ញុំបានឃើញ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ប្រាជ្ញភាព"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ក្រោម"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ផ្ទៃមេឃ"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ហើយធំ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "វា"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ចំពោះខ្ញុំ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:22.967937659Z",
+  "model": "glm-5.3"
+}

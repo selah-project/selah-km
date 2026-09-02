@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្តេចនៃដុរ នៅខ្ពស់នៃដុរ ម្នាក់; ស្តេចនៃហ្គោយីម នៅគីលគាល ម្នាក់។",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ដុរ"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "នៅខ្ពស់នៃ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ដុរ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ម្នាក់"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ហ្គោយីម"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "នៅគីលគាល"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ម្នាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T04:25:16.601096812Z",
+  "model": "glm-5.3"
+}

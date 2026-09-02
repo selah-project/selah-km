@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "និងលើអ្នកធ្វើការងារស្រែ សម្រាប់ការបម្រើដី គឺអែសរីកូនបុត្រកេលូប។",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "និងលើ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "អ្នកធ្វើ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ការងារ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ស្រែ"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "សម្រាប់ការបម្រើ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ដី"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "អែសរី"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនបុត្រ"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "កេលូប"
+    }
+  ],
+  "timestamp": "2026-09-02T10:43:21.702047431Z",
+  "model": "glm-5.3"
+}

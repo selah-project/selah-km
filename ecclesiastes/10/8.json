@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "អ្នកដែលជីករណ្តៅនឹងទៅធ្លាក់ចូលទីនោះ ហើយអ្នកដែលរុះរាំងជញ្ជាំងនឹងត្រូវពស់ខាំ។",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "អ្នកដែលជីក"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "រណ្តៅ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ចូលទីនោះ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "នឹងទៅធ្លាក់"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ហើយអ្នកដែលរុះរាំង"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ជញ្ជាំង"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "នឹងខាំ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ពស់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:54:25.540243595Z",
+  "model": "glm-5.3"
+}

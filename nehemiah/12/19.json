@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "និងនៃយ៉ូយ៉ារីប ម៉ាត់ណៃ; នៃយ៉ាដ៉ាយ៉ា អុហ្ស៊ី។",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "និងនៃយ៉ូយ៉ារីប"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ម៉ាត់ណៃ"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "នៃយ៉ាដ៉ាយ៉ា"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "អុហ្ស៊ី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:25:30.046796172Z",
+  "model": "glm-5.3"
+}

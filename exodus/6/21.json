@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ហើយបុត្ររបស់យិតសាហាគឺ ក័រាខ នេហ្វេក និងស៊ិករី។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ហើយបុត្ររបស់"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "យិតសាហា"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ក័រាខ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "នេហ្វេក"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ស៊ិករី"
+    }
+  ],
+  "timestamp": "2026-09-02T14:05:41.621064409Z",
+  "model": "glm-5.3"
+}

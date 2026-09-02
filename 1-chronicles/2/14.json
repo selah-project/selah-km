@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "នេតាន៉ែល ជាទីបួន រ៉ាដាយ ជាទីប្រាំ។",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "នេតាហ្នែល"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ជាទីបួន"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "រ៉ាដាយ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ជាទីប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:57:25.175182481Z",
+  "model": "glm-5.3"
+}

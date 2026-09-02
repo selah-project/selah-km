@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្ហេក៉នយ៉ាះ, រ៉ះហ៊ូម, ម៉េរ៉េមោត;",
+  "tokens": [
+    {
+      "surface": "שְׁכַנְיָ֥ה",
+      "gloss": "ស្ហេក៉នយ៉ាះ"
+    },
+    {
+      "surface": "רְחֻ֖ם",
+      "gloss": "រ៉ះហ៊ូម"
+    },
+    {
+      "surface": "מְרֵמֹֽת",
+      "gloss": "ម៉េរ៉េមោត"
+    }
+  ],
+  "timestamp": "2026-09-02T13:34:03.735994764Z",
+  "model": "glm-5.3"
+}

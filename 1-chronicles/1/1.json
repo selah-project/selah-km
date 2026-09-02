@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "អាដាម ស្ហេត អេន្វូស្ហ។",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "អាដាម"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ស្ហេត"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "អេន្វូស្ហ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:03.491727311Z",
+  "model": "glm-5.3"
+}

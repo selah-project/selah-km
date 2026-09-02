@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ខារីហ្វ អានាតូត នូបៃ",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "ខារីហ្វ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "អានាតូត"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "នូបៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:23:58.484342787Z",
+  "model": "glm-5.3"
+}

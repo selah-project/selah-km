@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ហើយម៉ូស្ហេឡើងទៅភ្នំនោះ ហើយពពកបានគ្រប ⟨את⟩ ភ្នំនោះ។",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ហើយ...ឡើងទៅ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ភ្នំនោះ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ហើយ...បានគ្រប"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ពពក"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ភ្នំនោះ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ភ្នំនោះ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:44:36.380078174Z",
+  "model": "glm-5.3"
+}

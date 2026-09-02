@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "តើទុក្ខលំបាក និងសុភមង្គល មិនចេញមកពីបំពង់មាត់នៃអែលយ៉ូនទេឬ?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "ពីបំពង់មាត់"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "អែលយ៉ូន"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ចេញមក"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ទុក្ខលំបាក"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "និងសុភមង្គល"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:09.858540235Z",
+  "model": "glm-5.3"
+}

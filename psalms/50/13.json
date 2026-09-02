@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 50,
+  "translation": "តើ⟨អញ⟩បរិភោគសាច់គោញ៉ាំ ហើយផឹកឈាមពពែប្រុសទេ?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "តើបរិភោគ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "សាច់"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "គោញ៉ាំ"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ហើយឈាម"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "ពពែប្រុស"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ផឹក"
+    }
+  ],
+  "timestamp": "2026-09-02T08:35:46.590734322Z",
+  "model": "glm-5.3"
+}

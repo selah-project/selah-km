@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "អូ! ស៊ីយ៉ូន រត់រួចចុះ អ្នកដែលអាស្រ័យនៅជាមួយកូនស្រីរបស់បាប៊ីឡូន។",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "អូ!"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ស៊ីយ៉ូន"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "រត់រួចចុះ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "អ្នកដែលអាស្រ័យនៅ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "កូនស្រី"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "បាប៊ីឡូន"
+    }
+  ],
+  "timestamp": "2026-09-02T08:14:39.550561411Z",
+  "model": "glm-5.3"
+}

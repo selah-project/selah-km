@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 33,
+  "translation": "តូរ៉ា ដែលម៉ូស្ហេបានបញ្ជាទៅយើងខ្ញុំ — មរតកនៃសមាជរបស់យ៉ាកុប។",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "តូរ៉ា"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "បានបញ្ជា"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ទៅយើងខ្ញុំ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "មរតក"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "នៃសមាជ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "យ៉ាកុប"
+    }
+  ],
+  "timestamp": "2026-09-02T04:16:49.948592791Z",
+  "model": "glm-5.3"
+}

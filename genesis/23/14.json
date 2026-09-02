@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "ហើយអែព្រោនបានឆ្លើយតប ⟨את⟩ អាវរ៉ាហាំ ដោយនិយាយទៅគាត់ថា",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ហើយបានឆ្លើយតប"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "អែព្រោន"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "អាវរ៉ាហាំ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "អាវរ៉ាហាំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយនិយាយ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ទៅគាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T02:03:50.686190489Z",
+  "model": "glm-5.3"
+}

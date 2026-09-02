@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "ហើយយ៉ាវេបាននិយាយដល់ម៉ូស្ហេ ឱ្យនិយាយថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយ…បាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ឱ្យនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:23:08.628719762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "អាគ្មោះ! នាងជាស្ត្រីប្រឆាំង និងសៅហ្មង — ទីក្រុងបៀតបៀន!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "អាគ្មោះ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ប្រឆាំង"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "និងសៅហ្មង"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ទីក្រុង"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "បៀតបៀន"
+    }
+  ],
+  "timestamp": "2026-09-02T13:56:50.456300218Z",
+  "model": "glm-5.3"
+}

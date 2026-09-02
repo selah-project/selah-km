@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ពួកគេនិយាយថា យើងហៅក្មេងស្រីមក ហើយសួរតាមមាត់នាង។",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ពួកគេនិយាយថា"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "យើងហៅ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ក្មេងស្រីមក"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "ហើយសួរតាម"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "មាត់នាង"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "មាត់នាង"
+    }
+  ],
+  "timestamp": "2026-09-02T02:06:22.518654909Z",
+  "model": "glm-5.3"
+}

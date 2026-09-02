@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ហូឌីយ៉ា បានី បេនីនូ",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ហូឌីយ៉ា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "បានី"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "បេនីនូ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:24:16.540346602Z",
+  "model": "glm-5.3"
+}

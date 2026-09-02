@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ហើយទៅម៉ាគីរ ខ្ញុំបានថ្វាយ ⟨את⟩ ហ្គីលអាដ។",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "ហើយទៅម៉ាគីរ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ខ្ញុំបានថ្វាយ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ហ្គីលអាដ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ហ្គីលអាដ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:57:56.114031256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "តែបើអ្នកឈប់ មិនសច្ចាថាត នឹងគ្មានបាបកម្មក្នុងអ្នកទេ។",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "តែបើ"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "អ្នកឈប់"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "មិនសច្ចាថាត"
+    },
+    {
+      "surface": "לא",
+      "gloss": "នឹងគ្មាន...ទេ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ក្លាយជា"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ក្នុងអ្នក"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "បាបកម្ម"
+    }
+  ],
+  "timestamp": "2026-09-02T04:11:00.456300983Z",
+  "model": "glm-5.3"
+}

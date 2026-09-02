@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ចុំមូរគឺជាស្នេហ៍របស់ខ្ញុំ វាសំណាក់នៅចន្លោះដោះទាំងពីររបស់ខ្ញុំ។",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ចុំ"
+    },
+    {
+      "surface": "המר",
+      "gloss": "មូរ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ស្នេហ៍"
+    },
+    {
+      "surface": "לי",
+      "gloss": "របស់ខ្ញុំ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ចន្លោះ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ដោះទាំងពីរ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "សំណាក់នៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:43:09.683751931Z",
+  "model": "glm-5.3"
+}

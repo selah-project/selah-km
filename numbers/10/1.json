@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ហើយយ៉ាវេបានទូលដល់ម៉ូស្ហេ ថា ⟨ទូលដូច្នេះ⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយទូលដល់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:34:33.426279648Z",
+  "model": "glm-5.3"
+}

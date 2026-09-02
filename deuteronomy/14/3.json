@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "កុំបរិភោគអ្វីៗដែលជាអត់ធម្មជាតិ។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "បរិភោគ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "អ្វីៗទាំងអស់"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "អត់ធម្មជាតិ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:04:51.189213620Z",
+  "model": "glm-5.3"
+}

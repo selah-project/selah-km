@@ -1,0 +1,108 @@
+#:rendering{:label "ភាសាខ្មែរ",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role
+              :open-questions
+              :rendering/people
+              :rendering/process
+              :rendering/checks
+              :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-02", :to "2026-09-02"},
+            :people
+            {:ruled-by "Scott",
+             :shovel "Claude (Fable 5)",
+             :assayer "Codex"},
+            :id "km.v1",
+            :catalog {:ui "resources/i18n/ui/km.edn"},
+            :license "CC BY-SA 4.0 (The Selah Khmer Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23204, "fable-5-hand" 9},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/km.md",
+             :rails-commit "b6299f1e",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "អាដូណាយ",
+              "אל" "អែល",
+              "אלהים" "អេឡូហ៊ីម",
+              "אלוה" "អេឡូអះ",
+              "יה" "យ៉ា",
+              "יהוה" "យ៉ាវេ",
+              "שדי" "ស្ហាដាយ"},
+             :open-questions
+             ["9 transliteration flags for Scott incl. the ស្ហ-for-ש convention"
+              "UI: 34 catalog flags (កណ្ឌគម្ពីរ, ពាក្យមូល lemma coinage, ព្រះនាម, ហូស្ហែន)"]},
+            :status :live,
+            :adjudication
+            {:chair 53,
+             :note "the fifty-third chair — the first Khmer-script"},
+            :checks
+            {:census
+             {:amchas 0,
+              :preah-bare-honorific-lawful 1925,
+              :verses 23213,
+              :elohim 2067,
+              :leak-classes 0,
+              :yahweh 5944,
+              :preah-prefixed 0,
+              :et-verses 7309,
+              :yehova 0},
+             :aleph-tav {:misaligned 0, :stray 0, :missing 0},
+             :residue-after-relay 168,
+             :gleaning-trail [2267 518 152 53 26 15],
+             :tekoa {:lawful 202, :garble 0},
+             :model-tics
+             [:arrow-self-corrections
+              :midword-foreign-script-garble
+              :amchas-sideways-at-josh-8-20]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-km",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :km,
+            :process
+            [:relay-burn
+             :census-gleaning-rounds
+             :hand-repair
+             :tekoa-review
+             :aleph-tav-audit
+             :readers-documents
+             :notes
+             :manifest]}

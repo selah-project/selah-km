@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "បក្សីស្អាតគ្រប់បែបយ៉ាង អ្នករាល់គេបរិភោគបាន។",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "គ្រប់បែបយ៉ាង"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "បក្សី"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ស្អាត"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "អ្នករាល់គេបរិភោគបាន"
+    }
+  ],
+  "timestamp": "2026-09-02T04:04:47.892176371Z",
+  "model": "glm-5.3"
+}

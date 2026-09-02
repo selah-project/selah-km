@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ហើយស្តេច និងហាម៉នបានចូលមកផឹកជាមួយអេស្ថរម្ចាស់ស្តេច។",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "បានចូលមក"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ហាម៉ន"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ដើម្បីផឹក"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ជាមួយ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "អេស្ថរ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ម្ចាស់ស្តេច"
+    }
+  ],
+  "timestamp": "2026-09-02T12:15:05.488851948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "កូនចៅរបស់អ៊ូហ្ស៊ីអែល៖ មីខា; កូនចៅរបស់មីខា៖ ស្ហាមូរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "អ៊ូហ្ស៊ីអែល"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "មីខា"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "មីខា"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ស្ហាមូរ"
+    }
+  ],
+  "timestamp": "2026-09-02T13:37:19.176680187Z",
+  "model": "glm-5.3"
+}

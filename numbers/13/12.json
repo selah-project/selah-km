@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "ពីក្រុមពូជនៃដាន អាំមីែល កូននៃគេម៉ាល្លី។",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ពីក្រុមពូជនៃ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ដាន"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "អាំមីែល"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូននៃ"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "គេម៉ាល្លី"
+    }
+  ],
+  "timestamp": "2026-09-02T03:35:37.679842391Z",
+  "model": "glm-5.3"
+}

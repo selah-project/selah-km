@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្តេចនៃស្ហ៊ីមរូន-មេរូន មួយ; ស្តេចនៃអាកស្ហាហ្វ មួយ។",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ស្ហ៊ីមរូន"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "មេរូន"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "អាកស្ហាហ្វ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:25:12.405403441Z",
+  "model": "glm-5.3"
+}

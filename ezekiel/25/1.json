@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 25:1",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "និយាយបានកើតឡើងពីយ៉ាវេមកដល់ខ្ញុំ ថា៖",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "កើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "និយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T11:36:33.245620774Z",
+  "model": "glm-5.3"
+}

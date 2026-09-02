@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "km",
+  "chapter": 48,
+  "translation": "គ្មានសន្តិភាពទេ យ៉ាវេមានប្រសាសន៍ ដល់ពួកអព្រាត។",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "គ្មាន"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "សន្តិភាព"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "មានប្រសាសន៍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ដល់ពួកអព្រាត"
+    }
+  ],
+  "timestamp": "2026-09-02T06:25:40.968700159Z",
+  "model": "glm-5.3"
+}

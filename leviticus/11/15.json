@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "⟨את⟩ ក្អកទាំងប៉ុន្មាន តាមប្រភេទរបស់វា។",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ក្អកទាំងប៉ុន្មាន"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងប៉ុន្មាន"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ក្អក"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "តាមប្រភេទរបស់វា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:08:58.316040705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "មិនមានដល់អ្នកនៅក្នុងផ្ទះរបស់អ្នក ឯផាមួយនិងឯផាមួយ ធំនិងតូចទេ។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ដល់អ្នក"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "នៅក្នុងផ្ទះរបស់អ្នក"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ឯផាមួយ"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "និងឯផាមួយ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ធំ"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "និងតូច"
+    }
+  ],
+  "timestamp": "2026-09-02T04:10:42.131913994Z",
+  "model": "glm-5.3"
+}

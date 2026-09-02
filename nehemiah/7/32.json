@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពួកអ្នក⟨នៃ⟩បេត-អែល និងហ៉ាអ៊ី មួយរយម្ភៃ និងបី។",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ពួកអ្នក"
+    },
+    {
+      "surface": "בית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "אל",
+      "gloss": "អែល"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "និងហ៉ាអ៊ី"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ម្ភៃ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "និងបី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:11.761826636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ទឹករបស់យើង ដោយប្រាក់ យើងបានផឹក; អ៊ុយរបស់យើង ដោយតម្លៃ បានមកដល់។",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ទឹករបស់យើង"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ដោយប្រាក់"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "យើងបានផឹក"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "អ៊ុយរបស់យើង"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "ដោយតម្លៃ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "បានមកដល់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:51:56.116826223Z",
+  "model": "glm-5.3"
+}

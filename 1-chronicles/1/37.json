@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "កូនចៅរបស់រ៉ាអ៊ូអែល គឺ នាខាត សេរាខ ស្ហម៉ា និងមីស្ហា។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "រ៉ាអ៊ូអែល"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "នាខាត"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "សេរាខ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ស្ហម៉ា"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "និងមីស្ហា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:08.557358940Z",
+  "model": "glm-5.3"
+}

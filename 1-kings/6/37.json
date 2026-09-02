@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "នៅឆ្នាំទីបួន បានតម្កល់គ្រឹះនៃប៊េត យ៉ាវេ នៅខែស៊ីវ",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "នៅឆ្នាំ"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "ទីបួន"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "តម្កល់គ្រឹះ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ប៊េត"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "នៅខែ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ស៊ីវ"
+    }
+  ],
+  "timestamp": "2026-09-02T12:51:00.992515528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 22,
+  "translation": "កុំភ្ជួរដោយគោ និងដោយលា ព្រមគ្នា។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ភ្ជួរ"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ដោយគោ"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "និងដោយលា"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ព្រមគ្នា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:07:57.648529351Z",
+  "model": "glm-5.3"
+}

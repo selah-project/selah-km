@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 36,
+  "translation": "និងទាំងនេះជាពូជពង្សរបស់អេសាវ ឳឪកុរបស់អេដូម នៅភ្នំស្ហេអ៊ីរ។",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "និងទាំងនេះ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ពូជពង្ស"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "អេសាវ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ឳឪកុរបស់"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "អេដូម"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "នៅភ្នំ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ស្ហេអ៊ីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:15:33.598362948Z",
+  "model": "glm-5.3"
+}

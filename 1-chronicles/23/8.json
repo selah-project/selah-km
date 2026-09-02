@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "កូនចៅរបស់លាដាន — យេហ៊ីអែលជាប្រមុខ ⟨ហើយ⟩ ស៊េតាម និងយ៉ូអែល គឺបីនាក់។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "លាដាន"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ប្រមុខ"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "យេហ៊ីអែល"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "ហើយស៊េតាម"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "និងយ៉ូអែល"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "បីនាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T12:16:42.395821632Z",
+  "model": "glm-5.3"
+}

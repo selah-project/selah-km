@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "នូន កូនប្រុសរបស់គាត់ យេហូស្ហួ កូនប្រុសរបស់គាត់។",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "នូន"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "កូនប្រុសរបស់គាត់"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "យេហូស្ហួ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "កូនប្រុសរបស់គាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T11:57:33.506609553Z",
+  "model": "glm-5.3"
+}

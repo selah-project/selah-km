@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "ហើយម៉ូស្ហេបាននិយាយទៅកាន់យ៉ាវេដោយពោលថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយ...បាននិយាយ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:50:28.717787230Z",
+  "model": "glm-5.3"
+}

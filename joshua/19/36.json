@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "និង អាដាម៉ា និង ហារ៉ាម៉ា និង ហាតសោរ។",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "និង អាដាម៉ា"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "និង ហារ៉ាម៉ា"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "និង ហាតសោរ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:29:36.538655032Z",
+  "model": "glm-5.3"
+}

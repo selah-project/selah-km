@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "បំបែកវា ⟨את⟩ ជាដុំៗ ហើយអ្នកនឹងចាក់ប្រេងលើវា; វាជាតង្វាយ។",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "បំបែក"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ជាដុំៗ"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ដុំៗ"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ហើយអ្នកនឹងចាក់"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "លើវា"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ប្រេង"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "តង្វាយ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វាជា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:03:00.132422533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ដោយសាទីភ្នំស៊ីយ៉ូន ដែលសោកសៅឥតគេនៅ; ចចកដើរលើវា។",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ដោយសាទី"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ភ្នំ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ស៊ីយ៉ូន"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "ដែលសោកសៅឥតគេនៅ"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "ចចក"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ដើរ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "លើវា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:08.774397484Z",
+  "model": "glm-5.3"
+}

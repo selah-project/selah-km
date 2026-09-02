@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "សាលម៉ា ជាបិតានៃ បេត លេខេម; ហារេប ជាបិតានៃ បេត គាដេរ។",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "សាលម៉ា"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ជាបិតានៃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "លេខេម"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ហារេប"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ជាបិតានៃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "គាដេរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:31.554099874Z",
+  "model": "glm-5.3"
+}

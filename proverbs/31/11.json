@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "បេះដូងប្តីនាងទុកចិត្តលើនាង ហើយគាត់មិនខ្វះភោគផលទេ។",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ទុកចិត្ត"
+    },
+    {
+      "surface": "בה",
+      "gloss": "លើនាង"
+    },
+    {
+      "surface": "לב",
+      "gloss": "បេះដូង"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ប្តីនាង"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ហើយភោគផល"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ខ្វះ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:22:31.818995855Z",
+  "model": "glm-5.3"
+}

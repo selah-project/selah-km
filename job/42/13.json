@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "km",
+  "chapter": 42,
+  "translation": "ហើយគាត់មានប្រុស៧នាក់ និងកូនស្រី៣នាក់។",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយមាន"
+    },
+    {
+      "surface": "לו",
+      "gloss": "គាត់"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "៧"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ប្រុស"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "និង៣"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "កូនស្រី"
+    }
+  ],
+  "timestamp": "2026-09-02T09:42:48.958991296Z",
+  "model": "glm-5.3"
+}

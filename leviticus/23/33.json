@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "យ៉ាវេបានទូលគប់ដល់ម៉ូស្ហេ ថានាំថ្លែង ថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បានទូលគប់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថានាំថ្លែង"
+    }
+  ],
+  "timestamp": "2026-09-02T03:21:26.955029669Z",
+  "model": "glm-5.3"
+}

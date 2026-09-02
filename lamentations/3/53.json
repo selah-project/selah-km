@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ពួកគេបានកាត់បំផ្លាញជីវិតខ្ញុំក្នុងរណ្តៅ ហើយបានប្រោះដុំថ្មមកលើខ្ញុំ។",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "បានកាត់បំផ្លាញ"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ក្នុងរណ្តៅ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ជីវិតខ្ញុំ"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "ហើយបានប្រោះ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ដុំថ្ម"
+    },
+    {
+      "surface": "בי",
+      "gloss": "លើខ្ញុំ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:19.060871690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ពីពួកកូនចៅរបស់ស្ហេវី បួនពាន់នាក់ និងប្រាំមួយរយនាក់។",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ពី"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ពួកកូនចៅរបស់"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ស្ហេវី"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "បួន"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពាន់នាក់"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "និងប្រាំមួយ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយនាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T10:36:17.994732944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 30,
+  "translation": "បីគឺទាំងនេះ ដែលអស្ចារ្យលើសខ្ញុំ ហើយបួនដែលខ្ញុំមិនបានស្គាល់៖",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "បី"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ទាំងនេះ"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "ដែលអស្ចារ្យ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "លើសខ្ញុំ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ហើយបួន"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "ខ្ញុំបានស្គាល់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:22:21.030711172Z",
+  "model": "glm-5.3"
+}

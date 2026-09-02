@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 13,
+  "translation": "ពីក្រុមពូជនៃប៊ីនយ៉ាមីន ផាលទី កូននៃរ៉ាហ្វូ។",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ពីក្រុមពូជនៃ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ប៊ីនយ៉ាមីន"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "ផាលទី"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូននៃ"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "រ៉ាហ្វូ"
+    }
+  ],
+  "timestamp": "2026-09-02T03:35:37.678162697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "អ្នក⟨ទីកន្លែង⟩ នេប៉ូ មួយ​ទៀត ហាសិប​ពីរ។",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "នេប៉ូ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "មួយ​ទៀត"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហាសិប"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:53.522543108Z",
+  "model": "glm-5.3"
+}

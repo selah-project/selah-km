@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និងហ្សេប៉ាដីយ៉ា និងអារ៉ាដ និងអេដែរ។",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "និងហ្សេប៉ាដីយ៉ា"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "និងអារ៉ាដ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "និងអេដែរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:32:30.469480657Z",
+  "model": "glm-5.3"
+}

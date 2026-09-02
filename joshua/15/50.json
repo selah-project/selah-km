@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "និង​អាណាប និង​អេស្តេម៉ូ និង​អានីម។",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "និង​អាណាប"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "និង​អេស្តេម៉ូ"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "និង​អានីម"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:13.986270690Z",
+  "model": "glm-5.3"
+}

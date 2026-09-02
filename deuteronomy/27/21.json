@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "បានស្ត្យានុភាព អ្នកដែលដេកជាមួយសត្វណាមួយ ហើយប្រជាជនទាំងអស់នឹងពោលថា អាម៉ែន។",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "បានស្ត្យានុភាព"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ដេកជាមួយ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ជាមួយ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ណាមួយ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "សត្វ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ហើយនឹងពោលថា"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ប្រជាជន"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "អាម៉ែន"
+    }
+  ],
+  "timestamp": "2026-09-02T04:13:18.550660039Z",
+  "model": "glm-5.3"
+}

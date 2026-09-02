@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 29,
+  "translation": "សំឡេងនៃយ៉ាវេ ⟨គឺ⟩ដោយអំណាច; សំឡេងនៃយ៉ាវេ ⟨គឺ⟩ដោយភាពរុងរឿង។",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "សំឡេងនៃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ដោយអំណាច"
+    },
+    {
+      "surface": "קול",
+      "gloss": "សំឡេងនៃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ដោយភាពរុងរឿង"
+    }
+  ],
+  "timestamp": "2026-09-02T08:29:28.244917399Z",
+  "model": "glm-5.3"
+}

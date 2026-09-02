@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅរបស់ រ៉ាអាយ៉ា, កូនចៅរបស់ រ៉េតស៊ីន, កូនចៅរបស់ នេគោដា។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "រ៉ាអាយ៉ា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "រ៉េតស៊ីន"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "នេគោដា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:58.779615571Z",
+  "model": "glm-5.3"
+}

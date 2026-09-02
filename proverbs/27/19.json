@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "ដូចទឹកដែលមុខឆ្លុះទៅមុខ ដូច្នេះវិញ ចិត្តរបស់មនុស្សឆ្លុះទៅមនុស្ស។",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "ដូចទឹក"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ទៅមុខ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ដូច្នេះវិញ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ចិត្ត"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "របស់មនុស្ស"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ទៅមនុស្ស"
+    }
+  ],
+  "timestamp": "2026-09-02T09:20:46.750315925Z",
+  "model": "glm-5.3"
+}

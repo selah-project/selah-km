@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 17,
+  "translation": "ហើយយ៉ាវេបានត្រីមាត់ទៅកាន់ម៉ូស្ហេ ថា ។",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបានត្រីមាត់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T11:14:59.850280564Z",
+  "model": "glm-5.3"
+}

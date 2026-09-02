@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "បើនាងជាខ្លោង យើងនឹងសង់លើនាងនូវប៉មប្រាក់; បើនាងជាទ្វារ យើងនឹងការពារនាងដោយផ្ទាំងឈើស៊ីដារ។",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "បើ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "ខ្លោង"
+    },
+    {
+      "surface": "היא",
+      "gloss": "នាងជា"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "យើងនឹងសង់"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "លើនាង"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "ប៉ម"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ប្រាក់"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "បើ"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "ទ្វារ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "នាងជា"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "យើងនឹងការពារ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "លើនាង"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ផ្ទាំងឈើ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ស៊ីដារ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:48:23.216347198Z",
+  "model": "glm-5.3"
+}

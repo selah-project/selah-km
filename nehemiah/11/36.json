@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "និងពីក្រុមលេវី មាននិកាយនៃយេហូដាដ សម្រាប់(ភូមិ)ប៊ិនយាមីន។",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "និងពី"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ក្រុមលេវី"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "និកាយ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "យេហូដាដ"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "ប៊ិនយាមីន"
+    }
+  ],
+  "timestamp": "2026-09-02T13:33:53.742785129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ពាក្យដែលបានមកដល់ យេរេម្យ៉ាហ៊ូ ពី ⟨את⟩ យ៉ាវេ ដោយពោលថា៖",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "היה",
+      "gloss": "បានមកដល់"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "យេរេម្យ៉ាហ៊ូ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ពី ⟨את⟩",
+      "marks": "យ៉ាវេ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:45:44.649868079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "នាងនឹងកាត់ ⟨את⟩ ដៃនាងចោល ភ្នែករបស់អ្នកកុំសង្ស័យអាណិតនាង។",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "នាងនឹងកាត់ចោល"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ដៃនាង"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ដៃនាង (បាតដៃ)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "អាណិត"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ភ្នែករបស់អ្នក"
+    }
+  ],
+  "timestamp": "2026-09-02T04:10:56.048649514Z",
+  "model": "glm-5.3"
+}

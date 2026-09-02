@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "ហើយពាក្យនៃយ៉ាវេ បានមកដល់ខ្ញុំ ដោយពោលថា៖",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ហើយបានមកដល់"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យនៃ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:25:55.848261129Z",
+  "model": "glm-5.3"
+}

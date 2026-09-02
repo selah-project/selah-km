@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "និង ⟨את⟩ បេត-តសូរ និង ⟨את⟩ សូខូ និង ⟨את⟩ អាឌុលឡាម។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "បេត-តសូរ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "បេត"
+    },
+    {
+      "surface": "צור",
+      "gloss": "តសូរ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "សូខូ"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "សូខូ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អាឌុលឡាម"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "អាឌុលឡាម"
+    }
+  ],
+  "timestamp": "2026-09-02T10:49:04.078912155Z",
+  "model": "glm-5.3"
+}

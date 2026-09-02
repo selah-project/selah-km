@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 36,
+  "translation": "មេត្រកូល កេនាហ្ស៊ មេត្រកូល តេម៉ាន មេត្រកូល មីបតសារ។",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "មេត្រកូល"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "កេនាហ្ស៊"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "មេត្រកូល"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "តេម៉ាន"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "មេត្រកូល"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "មីបតសារ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:15:23.227519198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 18,
+  "translation": "ពាក្យដែលបានមកដល់ យិរមេយាហ៊ូ មកពី ⟨את⟩ យ៉ាវេ ដោយពោលថា៖",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "היה",
+      "gloss": "បានមកដល់"
+    },
+    {
+      "surface": "אל",
+      "gloss": "មកដល់"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "យិរមេយាហ៊ូ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "យ៉ាវេ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T06:52:39.129462140Z",
+  "model": "glm-5.3"
+}

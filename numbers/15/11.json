@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "ដូច្នេះត្រូវធ្វើដល់គោមួយ ឬក្របីមួយ ឬកូនចៀមពីពពាធមួយ ឬពីពពោ៌ក្តាមួយ។",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "ដូច្នេះ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ត្រូវធ្វើ"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "ដល់គោ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ក្របី"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "កូនចៀម"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "ពីពពាត"
+    },
+    {
+      "surface": "או",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "ពីពពោ៌ក្តា"
+    }
+  ],
+  "timestamp": "2026-09-02T13:47:58.960585243Z",
+  "model": "glm-5.3"
+}

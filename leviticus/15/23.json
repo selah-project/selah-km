@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 15,
+  "translation": "ហើយបើវានៅលើគ្រែដេក ឬលើរបស់របរដែលនាងអង្គុយលើវា នៅពេលគាត់ប៉ះវា គាត់នឹងមិនស្អាតរហូតដល់ល្ងាច។",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ហើយបើ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "គ្រែដេក"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វា"
+    },
+    {
+      "surface": "או",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "របស់របរ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "នាង"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "អង្គុយ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "លើវា"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "នៅពេលប៉ះ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "វា"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "គាត់នឹងមិនស្អាត"
+    },
+    {
+      "surface": "עד",
+      "gloss": "រហូតដល់"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ល្ងាច"
+    }
+  ],
+  "timestamp": "2026-09-02T03:15:02.470608270Z",
+  "model": "glm-5.3"
+}

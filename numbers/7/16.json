@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ក្របីខ្មៅមួយ ⟨នៃ⟩ពពែ ⟨មួយ⟩ សម្រាប់យញ្ញបូជាបាប។",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ក្របីខ្មៅ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ពពែ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "សម្រាប់យញ្ញបូជាបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T13:47:33.451387943Z",
+  "model": "glm-5.3"
+}

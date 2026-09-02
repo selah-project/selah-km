@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ពិធ្យផ្កាហិនណាគឺជាស្នេហ៍របស់ខ្ញុំ នៅក្នុងចម្ការទំនួរនៃអេន-ហ្គេឌី។",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "ពិធ្យ"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "ហិនណា"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ស្នេហ៍"
+    },
+    {
+      "surface": "לי",
+      "gloss": "របស់ខ្ញុំ"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "នៅក្នុងចម្ការទំនួរ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ប្រភពទឹក"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ហ្គេឌី"
+    }
+  ],
+  "timestamp": "2026-09-02T09:43:09.684001983Z",
+  "model": "glm-5.3"
+}

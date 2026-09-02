@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 32,
+  "translation": "ដ្បិតពួកគេជាជាតិមួយបាត់បង់ឧបាយកល ហើយគ្មានការយល់ដឹងនៅក្នុងពួកគេឡើយ។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ជាតិមួយ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "បានបាត់បង់"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ឧបាយកល"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ពួកគេ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ហើយគ្មាន"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "នៅក្នុងពួកគេ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ការយល់ដឹង"
+    }
+  ],
+  "timestamp": "2026-09-02T04:16:36.117398698Z",
+  "model": "glm-5.3"
+}

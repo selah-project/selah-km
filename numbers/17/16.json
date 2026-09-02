@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 17,
+  "translation": "ហើយ យ៉ាវេ បាន​និយាយ​ទៅ​កាន់ ម៉ូស្ហេ ដោយ​ពោល​ថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយ​បាន​និយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ​កាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយ​ពោល​ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:40:36.103427441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ពពែឈ្មោលមួយ សម្រាប់តង្វាយដើម្បីបាប។",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ពពែឈ្មោល"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "នៃពពែ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "សម្រាប់តង្វាយដើម្បីបាប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:33:48.504394989Z",
+  "model": "glm-5.3"
+}

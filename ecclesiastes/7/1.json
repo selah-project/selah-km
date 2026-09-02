@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ឈ្មោះល្អប្រសើរជាងប្រេងល្អ ហើយថ្ងៃនៃការស្លាប់ប្រសើរជាងថ្ងៃនៃការកើត។",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ល្អ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ឈ្មោះ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ជាងប្រេងល្អ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ល្អ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ហើយថ្ងៃ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "នៃការស្លាប់"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ជាងថ្ងៃ"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "នៃការកើត"
+    }
+  ],
+  "timestamp": "2026-09-02T13:28:23.721476779Z",
+  "model": "glm-5.3"
+}

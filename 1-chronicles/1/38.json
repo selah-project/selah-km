@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ហើយកូនចៅរបស់សេអ៊ីរ គឺ ឡូតាន ស្ហូបាល តសិប៉ុន អ៉ាណា ឌិស្ហុន អែសេរ និងឌិស្ហាន។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ហើយកូនចៅ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "សេអ៊ីរ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ឡូតាន"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ស្ហូបាល"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "តសិប៉ុន"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "អ៉ាណា"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ឌិស្ហុន"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "អែសេរ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ឌិស្ហាន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:08.557641820Z",
+  "model": "glm-5.3"
+}

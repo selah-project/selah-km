@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅរបស់ហ្សាតតូ ប្រាំបីរយ សែសិបប្រាំ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ហ្សាតតូ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ប្រាំបី"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "សែសិប"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:56.567108800Z",
+  "model": "glm-5.3"
+}

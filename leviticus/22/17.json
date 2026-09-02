@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 22,
+  "translation": "ហើយយ៉ាវេបានត្រាស់នឹងម៉ូស្ហេ ដោយថា ៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយ...បានត្រាស់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "នឹង"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:19:10.280720624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "សភាទាំងអស់នៃអ៊ីស្រាអែល ត្រូវធ្វើ ⟨את⟩ វា។",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "សភា"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រាអែល"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ត្រូវធ្វើ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ វា",
+      "marks": "វា"
+    }
+  ],
+  "timestamp": "2026-09-02T02:38:04.896979989Z",
+  "model": "glm-5.3"
+}

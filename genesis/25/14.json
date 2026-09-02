@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 25,
+  "translation": "និងមីស្ហ្មាអ និងឌូម៉ា និងម៉ាស្សា។",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "និងមីស្ហ្មាអ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "និងឌូម៉ា"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "និងម៉ាស្សា"
+    }
+  ],
+  "timestamp": "2026-09-02T11:07:10.946213932Z",
+  "model": "glm-5.3"
+}

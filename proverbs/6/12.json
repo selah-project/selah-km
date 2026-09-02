@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "មនុស្សឥតជាប្រយោជន៍ បុរសអាក្រក់ ជាអ្នកដើរដោយប្រោសប្រោឡើងនៃមាត់",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ឥតជាប្រយោជន៍"
+    },
+    {
+      "surface": "איש",
+      "gloss": "បុរស"
+    },
+    {
+      "surface": "און",
+      "gloss": "អាក្រក់"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ដើរ"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ប្រោសប្រោឡើង"
+    },
+    {
+      "surface": "פה",
+      "gloss": "នៃមាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:10:23.015519209Z",
+  "model": "glm-5.3"
+}

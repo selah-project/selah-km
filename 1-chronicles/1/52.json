@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ស្តេចត្រាញ់អូហូលីបាម៉ា ស្តេចត្រាញ់អេឡា ស្តេចត្រាញ់ពីណន។",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ស្តេចត្រាញ់"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "អូហូលីបាម៉ា"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ស្តេចត្រាញ់"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "អេឡា"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ស្តេចត្រាញ់"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "ពីណន"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:32.308162159Z",
+  "model": "glm-5.3"
+}

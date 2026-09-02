@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 76,
+  "translation": "អ្នកភ្លឺថ្លៃ អ្នកមហិមា ជាងភ្នំទាំងឡាយនៃភៀរ។",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ភ្លឺថ្លៃ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "មហិមា"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "ភ្នំទាំងឡាយនៃ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ភៀរ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:44:24.666573991Z",
+  "model": "glm-5.3"
+}

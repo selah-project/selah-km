@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "បុរសនៃណេត៉ូហ្វាហ៍ ហាសិបប្រាំមួយ។",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "បុរសនៃ"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "ណេត៉ូហ្វាហ៍"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ហាសិប"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ប្រាំមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:33.131919Z",
+  "model": "glm-5.3"
+}

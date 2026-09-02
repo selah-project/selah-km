@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "ទីដប់មួយ ដល់អែលយ៉ាស្ហីប; ទីដប់ពីរ ដល់យ៉ាគីម។",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ដល់អែលយ៉ាស្ហីប"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "(ដប់មួយ)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ទីដប់មួយ"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "ដល់យ៉ាគីម"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "(ពីរ)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ទីដប់ពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:40:47.037053303Z",
+  "model": "glm-5.3"
+}

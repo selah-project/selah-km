@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 9,
+  "translation": "ទើបយ៉ាវេនិយាយទៅកាន់ខ្ញុំថា ខ្ញុំបានឃើញ ⟨את⟩ ប្រជាជននេះ ហើយនេះនា ប្រជាជន រឹង ខ្នង ⟨វាជា⟩ ។",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ទើបនិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ទៅកាន់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ខ្ញុំបានឃើញ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ប្រជាជននេះ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ប្រជាជន"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ហើយនេះនា"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ប្រជាជន"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "រឹង"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ខ្នង"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:03:30.187258715Z",
+  "model": "glm-5.3"
+}

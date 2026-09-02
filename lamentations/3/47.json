@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ភាពភ័យខ្លាច និងគម្រោង បានកើតឡើងដល់យើង — ការរង្គើ និងការបែកបាក់។",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ភាពភ័យខ្លាច"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "និងគម្រោង"
+    },
+    {
+      "surface": "היה",
+      "gloss": "បានកើតឡើង"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ដល់យើង"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "ការរង្គើ"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "និងការបែកបាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:26.244259174Z",
+  "model": "glm-5.3"
+}

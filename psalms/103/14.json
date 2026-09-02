@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 103,
+  "translation": "ព្រោះទ្រង់ជ្រាបរូបភាពរបស់យើង ទ្រង់ចងចាំថាយើងជាធូលី។",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ទ្រង់"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ជ្រាប"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "រូបភាពរបស់យើង"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ចងចាំ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ថា"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ធូលី"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "យើង"
+    }
+  ],
+  "timestamp": "2026-09-02T08:53:56.210397787Z",
+  "model": "glm-5.3"
+}

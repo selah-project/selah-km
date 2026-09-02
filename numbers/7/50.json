@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ក្បាលស្លាក្របមាសមួយ ចំនួនដប់ស្ហេកល ពេញនឹងគុំភ្ញី។",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ក្បាលស្លាក្រប"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "មាស"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ពេញ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "គុំភ្ញី"
+    }
+  ],
+  "timestamp": "2026-09-02T03:32:05.586737300Z",
+  "model": "glm-5.3"
+}

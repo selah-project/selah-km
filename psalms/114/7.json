@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 114,
+  "translation": "ពីមុខ អាដ៉ូន សូមឱ្យដីញាក់ញ័រ; ពីមុខ អេឡូអះ នៃ យ៉ាអាកប។",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "ពីមុខ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "អាដ៉ូន"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "សូមឱ្យញាក់ញ័រ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ដី"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ពីមុខ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "អេឡូអះ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "យ៉ាអាកប"
+    }
+  ],
+  "timestamp": "2026-09-02T08:57:56.884482045Z",
+  "model": "glm-5.3"
+}

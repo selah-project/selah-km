@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "កុំបញ្ឈរព្រំដែនបុរាណ ហើយកុំចូលទៅក្នុងស្រែរបស់កូនកំព្រា។",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "បញ្ឈរ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ព្រំដែន"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "បុរាណ"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "ហើយក្នុងស្រែរបស់"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "កូនកំព្រា"
+    },
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ចូលទៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:18:38.960676612Z",
+  "model": "glm-5.3"
+}

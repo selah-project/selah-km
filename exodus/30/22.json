@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 30,
+  "translation": "ហើយយ៉ាវេបាននិយាយទៅកាន់ម៉ូស្ហេ ឱ្យនិយាយថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយបាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ឱ្យនិយាយថា"
+    }
+  ],
+  "timestamp": "2026-09-02T02:50:48.530045092Z",
+  "model": "glm-5.3"
+}

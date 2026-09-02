@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "ព្រំដែនរបស់ពួកគេគឺ ហ៊ែលកាត ហាឡី បេតេន និងអាក់ស្ហាវ់។",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "គឺ"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ព្រំដែនរបស់ពួកគេ"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ហ៊ែលកាត"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "ហាឡី"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "បេតេន"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "អាក់ស្ហាវ់"
+    }
+  ],
+  "timestamp": "2026-09-02T04:29:17.462461223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ហ៊ូរ៉ាយ ពីជ្រលងនៃហ្កាអាស្ហ៍, អាប៊ីអែល អ្នកហាអារ៉ាបាត។",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "ហ៊ូរ៉ាយ"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ជ្រលង"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ហ្កាអាស្ហ៍"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "អាប៊ីអែល"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "អ្នកហាអារ៉ាបាត"
+    }
+  ],
+  "timestamp": "2026-09-02T13:35:57.745117746Z",
+  "model": "glm-5.3"
+}

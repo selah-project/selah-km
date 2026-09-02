@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 30,
+  "translation": "អ៊ីយ៉ាងមឹកគ្មានស្តេចទេ តែវាចេញទៅទាំងអស់ជាក្រុមៗ។",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេច"
+    },
+    {
+      "surface": "אין",
+      "gloss": "គ្មាន"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "អ៊ីយ៉ាងមឹក"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ចេញទៅ"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "ជាក្រុមៗ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ទាំងអស់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:20:55.568559705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃ យ៉ាអាឡា កូនចៅនៃ ដារកូន កូនចៅនៃ ហ្គីដែល",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "យ៉ាអាឡា"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "ដារកូន"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ហ្គីដែល"
+    }
+  ],
+  "timestamp": "2026-09-02T10:12:31.509467576Z",
+  "model": "glm-5.3"
+}

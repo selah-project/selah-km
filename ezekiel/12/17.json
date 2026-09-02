@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "និងពាក្យរបស់យ៉ាវេបានមកដល់ខ្ញុំ ដោយពោលថា ៖",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "និងបានកើតឡើង"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "មកដល់ខ្ញុំ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:23:44.234839634Z",
+  "model": "glm-5.3"
+}

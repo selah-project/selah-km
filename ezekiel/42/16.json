@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 42,
+  "translation": "គាត់បានវាស់ទិសខាងកើត ដោយឬស្សីវាស់ ប្រាំរយឬស្សី ដោយឬស្សីវាស់ ជុំវិញ។",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "គាត់បានវាស់"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ទិស"
+    },
+    {
+      "surface": "ហקדים",
+      "gloss": "ខាងកើត"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ដោយឬស្សី"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "វាស់"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ប្រាំ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ឬស្សី"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ដោយឬស្សី"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "វាស់"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ជុំវិញ"
+    }
+  ],
+  "timestamp": "2026-09-02T07:46:09.350706847Z",
+  "model": "glm-5.3"
+}

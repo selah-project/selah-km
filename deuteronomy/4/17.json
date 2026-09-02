@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "រូបភាពនៃសត្វចតុបាបទាំងអស់ដែលនៅលើផែនដី រូបភាពនៃសត្វស្លាបទាំងអស់ដែលហោះនៅលើមេឃ",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "រូបភាព"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "សត្វចតុបាប"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "នៅលើផែនដី"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "រូបភាព"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "សត្វស្លាប"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ដែលមានស្លាប"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "ហោះ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "នៅលើមេឃ"
+    }
+  ],
+  "timestamp": "2026-09-02T12:38:19.389359766Z",
+  "model": "glm-5.3"
+}

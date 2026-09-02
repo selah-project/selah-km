@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "តើអ៊ីស្រ្រាអែលជាទាសករទេ? ឬម៉ែនកើតក្នុងផ្ទះ? ហេតុអ្វីបានជាគេក្លាយជាទីដណ្ដើម?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "ទាសករ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "អ៊ីស្រ្រាអែល"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ឬ"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "កើត"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ក្នុងផ្ទះ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "គេ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ហេតុអ្វី"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ក្លាយជា"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "ទីដណ្ដើម"
+    }
+  ],
+  "timestamp": "2026-09-02T06:37:49.833086748Z",
+  "model": "glm-5.3"
+}

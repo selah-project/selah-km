@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ស្លាបមាសមួយ ប្រាំសិបស្ហេកែល ពេញដោយធូនស្រៃ:",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ស្លាប"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "មាស"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ពេញ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ធូនស្រៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:14:38.430868934Z",
+  "model": "glm-5.3"
+}

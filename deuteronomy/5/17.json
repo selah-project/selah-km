@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "កុំសម្លាប់មនុស្ស។",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תִּרְצָח",
+      "gloss": "សម្លាប់មនុស្ស"
+    }
+  ],
+  "timestamp": "2026-09-02T12:38:43.219851088Z",
+  "model": "glm-5.3"
+}

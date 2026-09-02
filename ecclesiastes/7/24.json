@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ឆ្ងាយណាស់ អ្វីដែលបានកើតឡើង; និងជ្រៅ ជ្រៅខ្លាំង — នរណាអាចរកឃើញវា?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "ឆ្ងាយណាស់"
+    },
+    {
+      "surface": "מה",
+      "gloss": "អ្វីដែល"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "បានកើតឡើង"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "និងជ្រៅ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ជ្រៅខ្លាំង"
+    },
+    {
+      "surface": "מי",
+      "gloss": "នរណា"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "អាចរកឃើញវា"
+    }
+  ],
+  "timestamp": "2026-09-02T11:49:27.775928859Z",
+  "model": "glm-5.3"
+}

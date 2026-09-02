@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃអ៉ាហ្សមាវេត សែសិបពីរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "អ៉ាហ្សមាវេត"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "សែសិប"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:33.132170798Z",
+  "model": "glm-5.3"
+}

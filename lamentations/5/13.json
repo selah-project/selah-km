@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "យុវជនត្រូវយកទៅរិះឆៅ ហើយកុមារបានទន្ទេញក្រោមឈើ។",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "យុវជន"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "រិះឆៅ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ត្រូវយកទៅ"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "ហើយកុមារ"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "ក្រោមឈើ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "បានទន្ទេញ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:01.353466431Z",
+  "model": "glm-5.3"
+}

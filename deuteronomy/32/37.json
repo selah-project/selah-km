@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 32,
+  "translation": "ហើយនឹងនិយាយថា តើព្រះនានារបស់គេនៅឯណា ដូនតាដែលគេពឹងពំនាក់ក្នុងនោះ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ហើយនឹងនិយាយថា"
+    },
+    {
+      "surface": "אי",
+      "gloss": "នៅឯណា"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "ព្រះនានារបស់គេ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ដូនតា"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "ពឹងពំនាក់"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ក្នុងនោះ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:16:43.785716140Z",
+  "model": "glm-5.3"
+}

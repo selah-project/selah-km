@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ស៉ាម៉ូត ហារូរី ហេលែតស ពេឡូនី។",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ស៉ាម៉ូត"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ហារូរី"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ហេលែតស"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ពេឡូនី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:33:57.121439121Z",
+  "model": "glm-5.3"
+}

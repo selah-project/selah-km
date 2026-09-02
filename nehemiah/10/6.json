@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "ហារីម មេរេមោត អូបាដយ៉ា",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "ហារីម"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "មេរេមោត"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "អូបាដយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:23.459777368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 40,
+  "translation": "ហើយគាត់បានវាស់ ⟨את⟩ ទទឹកនៃច្រកទ្វារ ដប់ហត្ថ ហើយប្រវែងនៃទ្វារ ដប់បីហត្ថ។",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ហើយគាត់បានវាស់"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ទទឹក"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ទទឹក"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ច្រក"
+    },
+    {
+      "surface": "השער",
+      "gloss": "នៃទ្វារ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ហត្ថ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ប្រវែង"
+    },
+    {
+      "surface": "השער",
+      "gloss": "នៃទ្វារ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ដប់បី"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ហត្ថ"
+    }
+  ],
+  "timestamp": "2026-09-02T07:45:03.598033546Z",
+  "model": "glm-5.3"
+}

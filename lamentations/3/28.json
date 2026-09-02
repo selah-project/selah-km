@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "គាត់នឹងអង្គុយតែម្នាក់ឯង ហើយនៅស្ងាត់ ព្រោះទ្រង់បានដាក់វាលើគាត់។",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "គាត់នឹងអង្គុយ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "តែម្នាក់ឯង"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "ហើយនៅស្ងាត់"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "ទ្រង់បានដាក់"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "លើគាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:48:57.777792801Z",
+  "model": "glm-5.3"
+}

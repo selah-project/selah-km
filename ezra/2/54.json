@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃ នេតស៊ីអាច កូនចៅនៃ ហាតីហ្វា",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "នេតស៊ីអាច"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ហាតីហ្វា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:12:31.509224858Z",
+  "model": "glm-5.3"
+}

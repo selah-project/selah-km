@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅ យេរេហោ បី​រយ សែសិប និង​ប្រាំ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "យេរេហោ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "បី"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "សែសិប"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:53.523000606Z",
+  "model": "glm-5.3"
+}

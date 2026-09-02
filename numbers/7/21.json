@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "គោមួយក្បាល កូនគោ ឃ្មុំមួយក្បាល កូនចៀមមួយក្បាល កូននៃមួយឆ្នាំ ដើម្បីជាយញ្ញបូជា។",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "គោ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយក្បាល"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូន"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "គោ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ឃ្មុំ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយក្បាល"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "កូនចៀម"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយក្បាល"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូននៃ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "មួយឆ្នាំ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ដើម្បីជាយញ្ញបូជា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:31:13.621334306Z",
+  "model": "glm-5.3"
+}

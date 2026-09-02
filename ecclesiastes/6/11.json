@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "ដ្បិតមានពាក្យជាច្រើន ដែលពង្រីកហេបែល; តើមានអ្វីបន្ថែមដល់មនុស្ស?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "יש",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ជាច្រើន"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ពង្រីក"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ហេបែល"
+    },
+    {
+      "surface": "מה",
+      "gloss": "អ្វី"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "បន្ថែម\/លើស"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ដល់មនុស្ស"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:47.022382809Z",
+  "model": "glm-5.3"
+}

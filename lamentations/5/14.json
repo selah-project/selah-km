@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ពីធ្នូរបានឈប់ពីតាមផ្លូវវត្ត យុវជនពីការច្រៀងរបស់គេ។",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "ពីធ្នូរ"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ពីតាមផ្លូវវត្ត"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "បានឈប់"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "យុវជន"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "ពីការច្រៀងរបស់គេ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:52:01.353698812Z",
+  "model": "glm-5.3"
+}

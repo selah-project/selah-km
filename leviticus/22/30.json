@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 22,
+  "translation": "នៅថ្ងៃនោះហើយ ⟨វា⟩ នឹងត្រូវបរិភោគ; កុំទុកអ្វីនៃវាទុកដល់ព្រលឹម៖ អញគឺយ៉ាវេ។",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "នៅថ្ងៃ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "នោះ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "នឹងត្រូវបរិភោគ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תותירូ",
+      "gloss": "ទុក"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "អ្វីនៃវា"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ព្រលឹម"
+    },
+    {
+      "surface": "אני",
+      "gloss": "អញ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:13:32.425130109Z",
+  "model": "glm-5.3"
+}

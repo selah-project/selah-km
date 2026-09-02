@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ឯម៉េតុស្ហេឡាខបានរស់នៅ ១០០ ឆ្នាំ ៧ ឆ្នាំ និង ៨០ ឆ្នាំ ហើយគាត់បានបង្កើត ⟨את⟩ ឡេមេក។",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "បានរស់នៅ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "ម៉េតុស្ហេឡាខ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "៧"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "៨០"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "១០០"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ឡេមេក"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ឡេមេក"
+    }
+  ],
+  "timestamp": "2026-09-02T01:54:38.509692275Z",
+  "model": "glm-5.3"
+}

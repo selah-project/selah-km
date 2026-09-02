@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "បុរសទាំងឡាយនៃ មិកម៉ាស មួយរយម្ភៃពីរ។",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "បុរសទាំងឡាយនៃ"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "មិកម៉ាស"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ម្ភៃ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:54.323460636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "km",
+  "chapter": 43,
+  "translation": "ហើយផ្ទៃវេទីគឺប្រវែងដប់ពីរហត្ថ ទទឹងដប់ពីរហត្ថ ការេទៅភាគីទាំងបួនរបស់វា។",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "ហើយផ្ទៃវេទី"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ពីរ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ប្រវែង"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "ដប់ពីរ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ហត្ថ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ទទឹង"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ការេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ទាំងបួន"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "ភាគីរបស់វា"
+    }
+  ],
+  "timestamp": "2026-09-02T07:47:09.692423576Z",
+  "model": "glm-5.3"
+}

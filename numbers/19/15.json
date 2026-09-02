@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "ហើយគ្រប់សម្ភារៈដែលបើក ដែលគ្មានគម្របរឹតស្អិតដោយខ្សែលើវាទេ — វាមានមន្ទិល។",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ហើយគ្រប់"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "សម្ភារៈ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ដែលបើក"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "אין",
+      "gloss": "គ្មាន"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "គម្របស្អិត"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ខ្សែរឹត"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "លើវា"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "មានមន្ទិល"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "វា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:44:41.798441424Z",
+  "model": "glm-5.3"
+}

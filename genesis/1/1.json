@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "នៅដើមដំបូង អេឡូហ៊ីមបានបង្កើត ⟨את⟩ ផ្ទៃមេឃ និង ⟨את⟩ ផែនដី។",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "នៅដើមដំបូង"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "អេឡូហ៊ីម"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ផ្ទៃមេឃ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ផ្ទៃមេឃ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ផែនដី"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ផែនដី"
+    }
+  ],
+  "timestamp": "2026-09-02T01:50:33.953331512Z",
+  "model": "glm-5.3"
+}

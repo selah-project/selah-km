@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "សត្វខ្លាឃ្មុំដែលបង្កប់ចាំ — គាត់ដូច្នេះចំពោះខ្ញុំ; សត្វតោ នៅក្នុងទីកំបាំង។",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "សត្វខ្លាឃ្មុំ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "បង្កប់ចាំ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "គាត់"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ចំពោះខ្ញុំ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "សត្វតោ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "នៅក្នុងទីកំបាំង"
+    }
+  ],
+  "timestamp": "2026-09-02T11:49:37.522856777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 18,
+  "translation": "ហាអាវ៊ីម ហាប៉ារ៉ា និងអូហ្វរ៉ា។",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "ហាអាវ៊ីម"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "ហាប៉ារ៉ា"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "អូហ្វរ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T04:27:45.371095227Z",
+  "model": "glm-5.3"
+}

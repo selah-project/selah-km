@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅនៃគីប្អោន ប្រាំបួនសិបប្រាំ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "គីប្អោន"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ប្រាំបួនសិប"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:22:10.048270459Z",
+  "model": "glm-5.3"
+}

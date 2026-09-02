@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 65,
+  "translation": "អ្នកស្តាប់តាពិល្លា — ដល់អ្នក សាច់ឈាមទាំងអស់នឹងមក។",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "អ្នកស្តាប់"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "តាពិល្លា"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ដល់អ្នក"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "សាច់ឈាម"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "នឹងមក"
+    }
+  ],
+  "timestamp": "2026-09-02T08:39:53.877008432Z",
+  "model": "glm-5.3"
+}

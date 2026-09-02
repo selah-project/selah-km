@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "តើប្រាជ្ញាមិនហៅទេឬ និងតម្រាស់ដឹងមិនលើកសំឡេងរបស់នាងទេឬ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "តើ...ទេឬ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ប្រាជ្ញា"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ហៅ"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "និងតម្រាស់ដឹង"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ឲ្យ"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "សំឡេងរបស់នាង"
+    }
+  ],
+  "timestamp": "2026-09-02T09:11:37.381079577Z",
+  "model": "glm-5.3"
+}

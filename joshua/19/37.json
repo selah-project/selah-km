@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "និងក្យីដេស្ហ និងអេដរេអ៊ី និងអេ។ន-ហាតស្ហួរ",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "និងក្យីដេស្ហ"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "និងអេដរេអ៊ី"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "និងអេ។ន"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ហាតស្ហួរ"
+    }
+  ],
+  "timestamp": "2026-09-02T04:29:16.012454332Z",
+  "model": "glm-5.3"
+}

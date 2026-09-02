@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 27,
+  "translation": "ហើយយ៉ាវេបានមានប្រសាសន៍ទៅម៉ូស្ហេថា៖",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយបានមានប្រសាសន៍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:50:13.329704641Z",
+  "model": "glm-5.3"
+}

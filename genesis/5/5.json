@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "យ៉ាវេទាំងអស់នៃថ្ងៃរបស់អាដាម ដែលគាត់បានរស់ គឺប្រាំបួនរយបីសិបឆ្នាំ ហើយគាត់បានស្លាប់។",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "គ្រប់"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់នៃ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ថ្ងៃ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "អាដាម"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "חי",
+      "gloss": "រស់"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ប្រាំបួន"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "បីសិបឆ្នាំ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ស្លាប់"
+    }
+  ],
+  "timestamp": "2026-09-02T01:52:09.545905246Z",
+  "model": "glm-5.3"
+}

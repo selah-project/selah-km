@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 20,
+  "translation": "ហើយអេឡូហ៊ីមបាននិយាយ ⟨את⟩ ពាក្យទាំងអស់នេះ ដោយពោលថា៖",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បាននិយាយ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "អេឡូហ៊ីម"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ពាក្យទាំងអស់នេះ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ទាំងអស់"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដោយពោលថា"
+    }
+  ],
+  "timestamp": "2026-09-02T02:42:28.637537242Z",
+  "model": "glm-5.3"
+}

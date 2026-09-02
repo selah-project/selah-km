@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "ស្ហាអលាប៊ីន អយ្យាឡូន និងយីតលាស៍។",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "ស្ហាអលាប៊ីន"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "អយ្យាឡូន"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "និងយីតលាស៍"
+    }
+  ],
+  "timestamp": "2026-09-02T04:28:50.088615581Z",
+  "model": "glm-5.3"
+}

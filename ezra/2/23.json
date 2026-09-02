@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "បុរសនៃអាណាតត្ហ មួយរយ់ម្ភៃប្រាំបី។",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "បុរសនៃ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "អាណាតត្ហ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "មួយរយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ម្ភៃ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ប្រាំបី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:33.132057646Z",
+  "model": "glm-5.3"
+}

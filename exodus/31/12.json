@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 31,
+  "translation": "យ៉ាវេក៏មានប្រសាដល់ម៉ូស្ហេថា។",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ក៏មានប្រសាដល់"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ថា"
+    }
+  ],
+  "timestamp": "2026-09-02T02:52:19.013042303Z",
+  "model": "glm-5.3"
+}

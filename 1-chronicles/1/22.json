@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "និង ⟨את⟩ អេបាល និង ⟨את⟩ អាប៊ីម៉ាអែល និង ⟨את⟩ ស្ហេបា។",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អេបាល"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "អេបាល"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "អាប៊ីម៉ាអែល"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "អាប៊ីម៉ាអែល"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "ស្ហេបា"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ស្ហេបា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:09.713518208Z",
+  "model": "glm-5.3"
+}

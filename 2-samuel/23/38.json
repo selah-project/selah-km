@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "km",
+  "chapter": 23,
+  "translation": "អ៊ីរ៉ា ជាអ្នកយីត ហ្គារេប ជាអ្នកយីត។",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "អ៊ីរ៉ា"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ជាអ្នកយីត"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ហ្គារេប"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ជាអ្នកយីត"
+    }
+  ],
+  "timestamp": "2026-09-02T05:20:59.994508262Z",
+  "model": "glm-5.3"
+}

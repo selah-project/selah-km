@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ហើយអ័ត្តាយបានបង្កើត ⟨את⟩ ណាថាន ហើយណាថានបានបង្កើត ⟨את⟩ហ្សាបាដ។",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "ហើយអ័ត្តាយ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ណាថាន"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ណាថាន"
+    },
+    {
+      "surface": "וונתן",
+      "gloss": "ហើយណាថាន"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "បានបង្កើត"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ហ្សាបាដ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ហ្សាបាដ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:59.363978077Z",
+  "model": "glm-5.3"
+}

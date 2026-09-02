@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ហើយយ៉ាវេបានបង្ហាញខ្ញុំឃើញនូវជាងចំនួនបួននាក់។",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ហើយបានបង្ហាញខ្ញុំឃើញ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "បួន"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ជាង (ចំនួនបួននាក់)"
+    }
+  ],
+  "timestamp": "2026-09-02T08:15:53.732639512Z",
+  "model": "glm-5.3"
+}

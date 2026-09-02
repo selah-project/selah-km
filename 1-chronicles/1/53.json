@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "មេក្រុម កេណាស់ មេក្រុម តេម៉ាន មេក្រុម មីបសារ។",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "មេក្រុម"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "កេណាស់"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "មេក្រុម"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "តេម៉ាន"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "មេក្រុម"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "មីបសារ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:05.142064516Z",
+  "model": "glm-5.3"
+}

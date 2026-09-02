@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "បទចម្រៀង ដ៏ខ្ពស់ជាងបទចម្រៀងទាំងឡាយ គឺ⟨ជារបស់⟩ ស្ហល់ម៉ោ។",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "បទចម្រៀង"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "ដ៏ខ្ពស់ជាងបទចម្រៀងទាំងឡាយ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ស្ហល់ម៉ោ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:43:28.697360464Z",
+  "model": "glm-5.3"
+}

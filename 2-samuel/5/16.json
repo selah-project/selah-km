@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "អេលីស្ហាម៉ា អេលីយ៉ាដា និងអេលីហ្វាឡេត។",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "អេលីស្ហាម៉ា"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "អេលីយ៉ាដា"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "អេលីហ្វាឡេត"
+    }
+  ],
+  "timestamp": "2026-09-02T05:09:19.714644645Z",
+  "model": "glm-5.3"
+}

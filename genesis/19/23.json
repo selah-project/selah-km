@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 19,
+  "translation": "ព្រះអាទិត្យបានឡើងលើផែនដី ហើយលតក៏បានចូលទៅតសោអរ។",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "ព្រះអាទិត្យ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "បានឡើង"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ផែនដី"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ហើយលត"
+    },
+    {
+      "surface": "בא",
+      "gloss": "បានចូលទៅ"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "តសោអរ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:01:28.592793679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 46,
+  "translation": "ហើយកូនប្រុសទាំងឡាយរបស់ដាន គឺ ហ៊ូស្ហីម។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ហើយកូនប្រុសទាំងឡាយរបស់"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ដាន"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "ហ៊ូស្ហីម"
+    }
+  ],
+  "timestamp": "2026-09-02T02:25:34.658349649Z",
+  "model": "glm-5.3"
+}

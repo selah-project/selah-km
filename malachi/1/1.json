@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ភារៈនៃពាក្យរបស់យ៉ាវេ ដល់អ៊ីស្រាអែល តាមដៃម៉ាល់អាគី។",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ភារៈ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ពាក្យ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ដល់"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "អ៊ីស្រាអែល"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "តាមដៃ"
+    },
+    {
+      "surface": "מַלְאָכִי",
+      "gloss": "ម៉ាល់អាគី"
+    }
+  ],
+  "timestamp": "2026-09-02T08:19:58.369365890Z",
+  "model": "glm-5.3"
+}

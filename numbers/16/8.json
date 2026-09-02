@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 16,
+  "translation": "ហើយម៉ូស្ហេបាននិយាយទៅកាន់ កោរ៉ាខ ថា សូមស្តាប់ចុះ មកុដជាកូនលេវី។",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ហើយបាននិយាយ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "កោរ៉ាខ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "សូមស្តាប់"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ចុះ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "កូនចាប"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "លេវី"
+    }
+  ],
+  "timestamp": "2026-09-02T03:39:58.624607237Z",
+  "model": "glm-5.3"
+}

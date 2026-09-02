@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ដាន យូសែហ្វ ប៊ីនយ៉ាមីន ណាហ្វតាលី ហ្កាដ និងអាស្ហេរ។",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ដាន"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "យូសែហ្វ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ប៊ីនយ៉ាមីន"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ណាហ្វតាលី"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ហ្កាដ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "និងអាស្ហេរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:28:30.270774481Z",
+  "model": "glm-5.3"
+}

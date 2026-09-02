@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "កូនចៅនៃប៊ីកវៃ ពីរពាន់ ហុកសិប ហើយនឹងប្រាំពីរ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ប៊ីកវៃ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ពីរពាន់"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ហុកសិប"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ហើយនឹងប្រាំពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:21:59.829777820Z",
+  "model": "glm-5.3"
+}

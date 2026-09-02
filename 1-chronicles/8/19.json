@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និង យ៉ាគីម និង តស៊ីក្រី និង តសប់ឌី។",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "និង យ៉ាគីម"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "និង តស៊ីក្រី"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "និង តសប់ឌី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:54.680060243Z",
+  "model": "glm-5.3"
+}

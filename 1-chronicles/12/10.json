@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "អែហ្ស៊ែរ ជាប្រមុខ អូបាឌយ៉ា ជាទីពីរ អេលីអាប ជាទីបី។",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "អែហ្ស៊ែរ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ជាប្រមុខ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "អូបាឌយ៉ា"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ជាទីពីរ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "អេលីអាប"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ជាទីបី"
+    }
+  ],
+  "timestamp": "2026-09-02T10:34:07.258179571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ដល់អ្នកមាននោះ មានចៀម និងគោជាច្រើនយ៉ាងខ្លាំង។",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "ដល់អ្នកមាន"
+    },
+    {
+      "surface": "היה",
+      "gloss": "មាន"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ចៀម"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "និងគោ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ជាច្រើន"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "យ៉ាងខ្លាំង"
+    }
+  ],
+  "timestamp": "2026-09-02T05:14:21.790462645Z",
+  "model": "glm-5.3"
+}

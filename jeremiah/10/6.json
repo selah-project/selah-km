@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "km",
+  "chapter": 10,
+  "translation": "គ្មានដូចអ្នកឡើយ យ៉ាវេ; អ្នកឈ្មោះធំ ហើយឈ្មោះអ្នកធំក្នុងអំណាច។",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "គ្មាន...ឡើយ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ដូចអ្នក"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ធំ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "អ្នក"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ហើយ...ធំ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ឈ្មោះអ្នក"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ក្នុងអំណាច"
+    }
+  ],
+  "timestamp": "2026-09-02T06:43:45.073052261Z",
+  "model": "glm-5.3"
+}

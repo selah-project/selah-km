@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ដ្បិតអ្នកណាចង់បរិភោគ និងអ្នកណាចង់រីករាយ ក្រៅពីខ្ញុំ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "מי",
+      "gloss": "អ្នកណា"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ចង់បរិភោគ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "និងអ្នកណា"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ចង់រីករាយ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ក្រៅ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ពីខ្ញុំ"
+    }
+  ],
+  "timestamp": "2026-09-02T11:49:44.975462286Z",
+  "model": "glm-5.3"
+}

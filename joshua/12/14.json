@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 12,
+  "translation": "ស្តេចនៃហូរម៉ាះ ម្នាក់; ស្តេចនៃអារ៉ាដ ម្នាក់។",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "ហូរម៉ាះ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ម្នាក់"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ស្តេចនៃ"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "អារ៉ាដ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ម្នាក់"
+    }
+  ],
+  "timestamp": "2026-09-02T11:16:27.009229724Z",
+  "model": "glm-5.3"
+}

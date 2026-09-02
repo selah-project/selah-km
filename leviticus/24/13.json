@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "km",
+  "chapter": 24,
+  "translation": "យ៉ាវេបាននិយាយទៅកាន់ម៉ូស្ហេ ដើម្បីថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "បាននិយាយ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ដើម្បីថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:22:10.101148366Z",
+  "model": "glm-5.3"
+}

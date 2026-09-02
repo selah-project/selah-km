@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 28,
+  "translation": "ជាតិមួយខ្លាំងក្លានូវមុខមាត់ ដែលមិននឹងលើកមុខចំពោះចាស់ទុំ និងមិនអាណិតកុមារ",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ជាតិ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ខ្លាំងក្លានូវ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "មុខមាត់"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "នឹងលើក"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "មុខ"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "ចំពោះចាស់ទុំ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "និងកុមារ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "នឹងអាណិត"
+    }
+  ],
+  "timestamp": "2026-09-02T04:14:56.352877979Z",
+  "model": "glm-5.3"
+}

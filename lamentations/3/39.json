@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ហេតុអ្វីមនុស្សដែលរស់ បុរសខ្លាំង ត្អូញត្អែរ ដោយសារទណ្ឌនៃបាបរបស់គាត់?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ហេតុអ្វី"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "ត្អូញត្អែរ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ដែលរស់"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "បុរសខ្លាំង"
+    },
+    {
+      "surface": "על",
+      "gloss": "ដោយសារ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ទណ្ឌនៃបាបរបស់គាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:09.858695086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "km",
+  "chapter": 18,
+  "translation": "ហ្គីបេអុន និងរ៉ាម៉ាហ៍ និងបេអេរ៉ូត។",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "ហ្គីបេអុន"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "និងរ៉ាម៉ាហ៍"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "និងបេអេរ៉ូត"
+    }
+  ],
+  "timestamp": "2026-09-02T04:28:34.922615798Z",
+  "model": "glm-5.3"
+}

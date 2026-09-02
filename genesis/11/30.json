@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ហើយសារ៉ៃបានជាស្ត្រីគ្មានកូន — នាងគ្មានកូនណាមួយទេ។",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ហើយ...បានជា"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "សារ៉ៃ"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ស្ត្រីគ្មានកូន"
+    },
+    {
+      "surface": "אין",
+      "gloss": "គ្មាន"
+    },
+    {
+      "surface": "לה",
+      "gloss": "នាង"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "កូនណាមួយ"
+    }
+  ],
+  "timestamp": "2026-09-02T01:59:13.663958654Z",
+  "model": "glm-5.3"
+}

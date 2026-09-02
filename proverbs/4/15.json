@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "ចៀសវាងចេញ កុំឆ្លងកាត់វា; ងាកចេញពីវា ហើយឆ្លងទៅ។",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "ចៀសវាងចេញ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ឆ្លងកាត់"
+    },
+    {
+      "surface": "בו",
+      "gloss": "វា"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "ងាកចេញ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ពីវា"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "ហើយឆ្លងទៅ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:08:57.066377549Z",
+  "model": "glm-5.3"
+}

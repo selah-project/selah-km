@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 120,
+  "translation": "តើនឹងផ្ដល់អ្វីដល់អ្នក ហើយនឹងបន្ថែមអ្វីដល់អ្នក អណ្ដាតល្បិច?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "តើអ្វី"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "នឹងផ្ដល់"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ដល់អ្នក"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ហើយតើអ្វី"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "នឹងបន្ថែម"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ដល់អ្នក"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "អណ្ដាត"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ល្បិច"
+    }
+  ],
+  "timestamp": "2026-09-02T09:01:50.366463958Z",
+  "model": "glm-5.3"
+}

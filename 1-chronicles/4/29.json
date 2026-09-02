@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "និងនៅប៊ីលហាហ និងនៅអែតសឹម និងនៅទូឡាដ",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "និងនៅប៊ីលហាហ"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "និងនៅអែតសឹម"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "និងនៅទូឡាដ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:30:22.359079716Z",
+  "model": "glm-5.3"
+}

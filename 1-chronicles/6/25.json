@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "កូនបុត្រនៃមីកាអែល កូនបុត្រនៃបាអាសេយ៉ា កូនបុត្រនៃម៉ាល់គីយ៉ា។",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "កូនបុត្រនៃ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "មីកាអែល"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនបុត្រនៃ"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "បាអាសេយ៉ា"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនបុត្រនៃ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "ម៉ាល់គីយ៉ា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:38.763964581Z",
+  "model": "glm-5.3"
+}

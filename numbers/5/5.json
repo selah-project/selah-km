@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 5,
+  "translation": "ហើយយ៉ាវេទ្រង់មានបន្ទូលទៅកាន់ម៉ូស្ហេ ឱ្យថា",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ហើយទ្រង់មានបន្ទូល"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ទៅកាន់"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ម៉ូស្ហេ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ឱ្យថា"
+    }
+  ],
+  "timestamp": "2026-09-02T03:32:06.229312908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 1,
+  "translation": "ហើយកូនចៅរបស់ឡូតាន គឺ ហូរី និងហូមាម; ហើយប្អូនស្រីរបស់ឡូតាន គឺ ទីមណា។",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ហើយកូនចៅ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ឡូតាន"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ហូរី"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "និងហូមាម"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ហើយប្អូនស្រី"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ឡូតាន"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ទីមណា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:27:08.557783610Z",
+  "model": "glm-5.3"
+}

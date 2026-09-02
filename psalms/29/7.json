@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 29,
+  "translation": "សំឡេងរបស់យ៉ាវេ កាត់ ⟨את⟩ ភ្លើងជាកាំជណ្ដើ។",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "សំឡេង"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "កាត់"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "កាំជណ្ដើ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ភ្លើង"
+    }
+  ],
+  "timestamp": "2026-09-02T11:40:14.688828464Z",
+  "model": "glm-5.3"
+}

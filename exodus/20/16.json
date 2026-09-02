@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 20,
+  "translation": "កុំធ្វើជាសាក្សីភូតភរប្រឆាំងនឹងមិត្តរបស់អ្នក។",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ធ្វើជាសាក្សី"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ប្រឆាំងនឹងមិត្តរបស់អ្នក"
+    },
+    {
+      "surface": "עד",
+      "gloss": "សាក្សី"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ភូតភរ"
+    }
+  ],
+  "timestamp": "2026-09-02T02:40:41.116441777Z",
+  "model": "glm-5.3"
+}

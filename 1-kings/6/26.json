@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "km",
+  "chapter": 6,
+  "translation": "កម្ពស់នៃក្រុបទីមួយ ដប់ហត្ថ ហើយដូចគ្នាដែរ ក្រុបទីពីរ។",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "កម្ពស់នៃ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ក្រុប"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ទីមួយ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ហត្ថ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ហើយដូចគ្នាដែរ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ក្រុប"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ទីពីរ"
+    }
+  ],
+  "timestamp": "2026-09-02T05:27:13.472444391Z",
+  "model": "glm-5.3"
+}

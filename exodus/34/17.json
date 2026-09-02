@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "km",
+  "chapter": 34,
+  "translation": "ព្រះចាក់លោហៈ អ្នកមិនធ្វើឲ្យខ្លួនអ្នកឡើយ។",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ព្រះ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ចាក់លោហៈ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "មិន"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ធ្វើ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ឲ្យខ្លួនអ្នក"
+    }
+  ],
+  "timestamp": "2026-09-02T02:55:46.550812286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 115,
+  "translation": "រូបព្រះរបស់គេគឺប្រាក់ និងមាស ជាការងារនៃដៃមនុស្ស។",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "រូបព្រះរបស់គេ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ប្រាក់"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "និងមាស"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ជាការងារ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "នៃដៃ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "មនុស្ស"
+    }
+  ],
+  "timestamp": "2026-09-02T08:58:24.018408816Z",
+  "model": "glm-5.3"
+}

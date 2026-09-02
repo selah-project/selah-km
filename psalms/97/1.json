@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 97,
+  "translation": "យ៉ាវេបានសោយរាជ្យ ផ្ទៃដីចូលរីករាយ កោះជាច្រើនចូលអរសាទរ។",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "បានសោយរាជ្យ"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ចូលរីករាយ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ផ្ទៃដី"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ចូលអរសាទរ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "កោះ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ជាច្រើន"
+    }
+  ],
+  "timestamp": "2026-09-02T08:51:31.469581774Z",
+  "model": "glm-5.3"
+}

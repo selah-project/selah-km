@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "⟨את⟩ សមុទ្រមួយ និង ⟨את⟩ គោទាំងដប់ពីរនៅក្រោមវា។",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "សមុទ្រមួយ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "សមុទ្រនោះ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "និង ⟨את⟩",
+      "marks": "គោទាំងដប់ពីរ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "គោទាំងនោះ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ពីរ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "នៅក្រោមវា"
+    }
+  ],
+  "timestamp": "2026-09-02T10:46:46.819188701Z",
+  "model": "glm-5.3"
+}

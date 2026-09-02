@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅរបស់សាតទួអ ចំនួនប្រាំបួនរយ សិបបួននិងប្រាំ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅរបស់"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "សាតទួអ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ប្រាំបួន"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "សិបបួននិង"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:44.671659078Z",
+  "model": "glm-5.3"
+}

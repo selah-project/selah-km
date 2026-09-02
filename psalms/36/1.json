@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "km",
+  "chapter": 36,
+  "translation": "ដល់អ្នកនាំច្រៀង — ដល់អ្នកបម្រើយ៉ាវេ ដល់ដាវីឌ។",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ដល់អ្នកនាំច្រៀង"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ដល់អ្នកបម្រើ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "យ៉ាវេ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ដល់ដាវីឌ"
+    }
+  ],
+  "timestamp": "2026-09-02T08:31:22.355069403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ចានមាសមួយ ទម្ងន់ដប់សិកឡា ពេញដោយគ្រឿងក្រអូប។",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ចាន"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ដប់"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "មាស"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ពេញដោយ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "គ្រឿងក្រអូប"
+    }
+  ],
+  "timestamp": "2026-09-02T03:33:41.821759205Z",
+  "model": "glm-5.3"
+}

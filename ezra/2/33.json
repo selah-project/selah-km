@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "កូនចៅនៃឡូដ ចាដិដ និងអូនូ ប្រាំពីររយម្ភៃប្រាំ។",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "កូនចៅនៃ"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ឡូដ"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ចាដិដ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "និងអូនូ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ប្រាំពីរ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ម្ភៃ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ប្រាំ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:09:53.235296295Z",
+  "model": "glm-5.3"
+}

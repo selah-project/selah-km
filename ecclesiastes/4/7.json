@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 4,
+  "translation": "បានត្រឡប់មកវិញ ខ្ញុំបានមើលឃើញអាប់ភាព ក្រោមព្រះអាទិត្យ។",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "បានត្រឡប់មកវិញ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ខ្ញុំ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "បានមើលឃើញ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "អាប់ភាព"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ក្រោម"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ព្រះអាទិត្យ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:53:42.399492025Z",
+  "model": "glm-5.3"
+}

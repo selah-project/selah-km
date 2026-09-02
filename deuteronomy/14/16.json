@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "km",
+  "chapter": 14,
+  "translation": "⟨את⟩ ហ្គោស្ហ និង ⟨את⟩ ហ្អ៉ានស្ហ៊ូហ្វ និងហ្តិនស្ហាមេត។",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ហ្គោស្ហ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ហ្គោស្ហ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ហ្អ៉ានស្ហ៊ូហ្វ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ហ្អ៉ានស្ហ៊ូហ្វ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "និងហ្តិនស្ហាមេត"
+    }
+  ],
+  "timestamp": "2026-09-02T04:04:45.031960643Z",
+  "model": "glm-5.3"
+}

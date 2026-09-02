@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "និង អែលីអេន៉ាយ និង តសីឡេថាយ និង អែលីអែល។",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "និង អែលីអេន៉ាយ"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "និង តសីឡេថាយ"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "និង អែលីអែល"
+    }
+  ],
+  "timestamp": "2026-09-02T10:31:54.680150905Z",
+  "model": "glm-5.3"
+}

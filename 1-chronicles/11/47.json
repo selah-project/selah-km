@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "អែលីអែល និងអូវែដ និងយ៉ាអាស៊ីអែល ជាអ្នកម៉ាតសោបៃ។",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "អែលីអែល"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "និងអូវែដ"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "និងយ៉ាអាស៊ីអែល"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "ជាអ្នកម៉ាតសោបៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:33:49.892658866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "km",
+  "chapter": 2,
+  "translation": "ដ្បិតមើល៍ រដូវរងាបានហូរកន្លងទៅហើយ ភ្លៀងក៏បានរំលង ហើយទៅឆ្ងាយហើយ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ដ្បិត"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "មើល៍"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "រដូវរងា"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "បានហូរកន្លងទៅ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ភ្លៀង"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "បានរំលង"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ហើយទៅ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ឆ្ងាយ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:43:18.317926288Z",
+  "model": "glm-5.3"
+}

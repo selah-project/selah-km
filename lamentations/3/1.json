@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "km",
+  "chapter": 3,
+  "translation": "ខ្ញុំជាបុរសដែលបានឃើញនូវសេចក្ដីទុក្ខធ្ងន់ ក្រោមរនាំងនៃកំហឹង ⟨របស់គាត់⟩។",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ខ្ញុំ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "បុរស"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "បានឃើញ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "សេចក្ដីទុក្ខធ្ងន់"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ក្រោមរនាំង"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "កំហឹងរបស់គាត់"
+    }
+  ],
+  "timestamp": "2026-09-02T09:49:10.977263912Z",
+  "model": "glm-5.3"
+}

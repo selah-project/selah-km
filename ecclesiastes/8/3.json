@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 8,
+  "translation": "កុំប្រញាប់ចេញពីពីមុខគាត់; កុំឈរនៅក្នុងការអាក្រក់ ព្រោះគ្រប់យ៉ាងដែលគាត់ចង់ គាត់ធ្វើ។",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ប្រញាប់\/ភ័យខ្លាច"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ពីពីមុខគាត់"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ចេញ\/ទៅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "កុំ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ឈរ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "នៅក្នុងការ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "អាក្រក់"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ព្រោះ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "គ្រប់យ៉ាង"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ដែល"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "គាត់ចង់"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "គាត់ធ្វើ"
+    }
+  ],
+  "timestamp": "2026-09-02T09:54:58.671807616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "ហើយនោច ជាបុត្រ អាយុ ប្រាំមួយ រយ ឆ្នាំ ពេលដែល គ្រាប់ទឹក គឺ ទឹក លើ ⟨ផែនដី⟩។",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ហើយនោច"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ជាបុត្រ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ប្រាំមួយ"
+    },
+    {
+      "surface": "មאות",
+      "gloss": "រយ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ឆ្នាំ"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ពេលដែលគ្រាប់ទឹក"
+    },
+    {
+      "surface": "היה",
+      "gloss": "គឺ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ទឹក"
+    },
+    {
+      "surface": "על",
+      "gloss": "លើ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ផែនដី"
+    }
+  ],
+  "timestamp": "2026-09-02T01:54:51.305023931Z",
+  "model": "glm-5.3"
+}

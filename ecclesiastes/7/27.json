@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "km",
+  "chapter": 7,
+  "translation": "មើលចុះ នេះ ខ្ញុំបានរកឃើញ នាងបាននិយាយ កូហេលេត មួយ​ចំពោះមួយ ដើម្បីរកឃើញ នូវការគណនា។",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "មើលចុះ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "នេះ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ខ្ញុំបានរកឃើញ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "នាងបាននិយាយ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "កូហេលេត"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "មួយ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ចំពោះមួយ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ដើម្បីរកឃើញ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ការគណនា"
+    }
+  ],
+  "timestamp": "2026-09-02T09:55:11.273134179Z",
+  "model": "glm-5.3"
+}

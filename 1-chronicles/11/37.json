@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "km",
+  "chapter": 11,
+  "translation": "ហ្សេតស្រោ ⟨នៃ⟩ ការម៉ែល នាហ្គារៃ កូនប្រុស អេសបៃ។",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ហ្សេតស្រោ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "នៃ ការម៉ែល"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "នាហ្គារៃ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "កូនប្រុស"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "អេសបៃ"
+    }
+  ],
+  "timestamp": "2026-09-02T10:33:23.395373022Z",
+  "model": "glm-5.3"
+}
