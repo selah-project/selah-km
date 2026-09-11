@@ -27,3 +27,8 @@
 ## អាជ្ញាបណ្ណ និងការត្រួតពិនិត្យ
 
 ដោយការចូលរួមចំណែក អ្នកយល់ព្រមថាអ្វីៗដែលបានទទួលយកនឹងត្រូវបោះពុម្ពក្រោម [CC BY-SA 4.0](LICENSE.md)។ ប្រវត្តិ Git ទុកឱ្យកំណត់ត្រា និងហេតុផលនៅបើកចំហ។ អ្នកត្រួតពិនិត្យប្រៀបធៀបសំណើនានានឹងភាសាហេព្រើរ នឹងក្បួន នឹងឯកសារយោង និងនឹងភាពត្រូវគ្នា។
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
